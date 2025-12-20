@@ -2,7 +2,7 @@
   "archiveChannels": [
     {
       "id": "1284967048870498324",
-      "name": "📂︱compactors",
+      "name": "compactors",
       "code": "ACC",
       "category": "Curated Archive",
       "path": "Archive/ACC_compactors",
@@ -21,7 +21,7 @@
     },
     {
       "id": "1284984859995148288",
-      "name": "📂︱encoded",
+      "name": "encoded",
       "code": "ACE",
       "category": "Curated Archive",
       "path": "Archive/ACE_encoded",
@@ -35,7 +35,7 @@
     },
     {
       "id": "1302288179273142352",
-      "name": "📂︱uncrafter-decompactor",
+      "name": "uncrafter-decompactor",
       "code": "ACD",
       "category": "Curated Archive",
       "path": "Archive/ACD_uncrafter-decompactor",
@@ -51,7 +51,7 @@
     },
     {
       "id": "1302288318368845844",
-      "name": "📂︱universal",
+      "name": "universal",
       "code": "ACU",
       "category": "Curated Archive",
       "path": "Archive/ACU_universal",
@@ -68,7 +68,7 @@
     },
     {
       "id": "1302288398987431976",
-      "name": "📂︱single-item-type",
+      "name": "single-item-type",
       "code": "ACS",
       "category": "Curated Archive",
       "path": "Archive/ACS_single-item-type",
@@ -82,7 +82,7 @@
     },
     {
       "id": "1302288488049152010",
-      "name": "📂︱factories",
+      "name": "factories",
       "code": "ACF",
       "category": "Curated Archive",
       "path": "Archive/ACF_factories",
@@ -96,7 +96,7 @@
     },
     {
       "id": "1302288551903367218",
-      "name": "📂︱miscellaneous",
+      "name": "miscellaneous",
       "code": "ACM",
       "category": "Curated Archive",
       "path": "Archive/ACM_miscellaneous",
@@ -110,7 +110,7 @@
     },
     {
       "id": "1304487691823616084",
-      "name": "📂︱player-based",
+      "name": "player-based",
       "code": "ACP",
       "category": "Curated Archive",
       "path": "Archive/ACP_player-based",
