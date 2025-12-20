@@ -4,6 +4,20 @@
   "code": "ACC",
   "category": "Curated Archive",
   "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1452078536528756896",
+      "name": "2wt 2x HS Simple Precision Compactor [1.21]",
+      "code": "ACC001",
+      "timestamp": 1766273381256,
+      "path": "ACC001_2wt_2x_HS_Simple_Precision_Compactor_1.21",
+      "tags": [
+        "Tested & Functional",
+        "Recommended",
+        "Precision Compactor",
+        "Tileable"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,86 @@
+{
+  "id": "1452078536528756896",
+  "name": "2wt 2x HS Simple Precision Compactor [1.21]",
+  "code": "ACC001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "247092209780916225",
+      "displayName": "Glotz",
+      "username": "justglotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072433799528457",
+      "name": "Recommended"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452078536838873213",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1452078536528756896/1452078536838873213/image.png?ex=69488105&is=69472f85&hm=918081a316313686171f061b7bcd3b11bf073b8993cdbfb59b6984d482dda697&",
+      "description": "Sent by xp_bot at 12/20/2025, 6:21:41 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452080114597757068",
+      "name": "ACC001_2wt_2x_glotz_crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452078536528756896/1452080114597757068/2wt_2x_glotz_crafter.litematic?ex=6948827d&is=694730fd&hm=4773d57d8a20486afeb3c8d1bd745b06004d5263d111c862985ef114e68b2e84&",
+      "description": "Sent by xp_bot at 12/20/2025, 6:27:57 PM",
+      "canDownload": true,
+      "path": "attachments/ACC001_2wt_2x_glotz_crafter.litematic",
+      "litematic": {
+        "size": "2x5x5",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple crafter that can be used for any same item type recipe that requires 2-9 slots.",
+    "features": [],
+    "instructions": [],
+    "considerations": [],
+    "notes": "Glass can be replaced with any block. Concrete needs to be a solid block. If desired, only one hopper can be used as well."
+  },
+  "timestamp": 1766273381256,
+  "post": {
+    "threadId": "1452080552285831178",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1452080555863834735"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1452080552285831178",
+    "uploadMessageId": "1452080549618253836"
+  }
+}
