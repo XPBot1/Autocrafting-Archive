@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -12,6 +12,17 @@
       "code": "ACS001",
       "timestamp": 1766421810312,
       "path": "ACS001_8gt_Water_bucket_crafter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1452705500931162324",
+      "name": "# Flint and Steel crafter",
+      "code": "ACS002",
+      "timestamp": 1766423145701,
+      "path": "ACS002__Flint_and_Steel_crafter",
       "tags": [
         "Tested & Functional",
         "Recommended"
