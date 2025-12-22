@@ -76,38 +76,17 @@
       "can craft any duration",
       "runout and overflow proof"
     ],
-    "considerations_optional_": "- only produces rockets at hopper speed",
+    "considerations": [
+      "only produces rockets at hopper speed"
+    ],
     "instructions": [
       "all crafter inventories have to be prefilled with 1 stack of items for each slot",
       "to adapt the duration change the recipe in the rocket crafter"
     ],
-    "notes_optional_": "- after building, both crafters have to be trigger manually once"
+    "notes": "- after building, both crafters have to be trigger manually once"
   },
-  "styles": {
-    "description": {
-      "depth": 0,
-      "headerText": ""
-    },
-    "features": {
-      "depth": 2,
-      "headerText": "Features",
-      "isOrdered": false
-    },
-    "considerations_optional_": {
-      "depth": 2,
-      "headerText": "Considerations (Optional)"
-    },
-    "instructions": {
-      "depth": 2,
-      "headerText": "Instructions",
-      "isOrdered": false
-    },
-    "notes_optional_": {
-      "depth": 2,
-      "headerText": "Notes (Optional)"
-    }
-  },
-  "timestamp": 1766425175038,
+  "styles": {},
+  "timestamp": 1766431924448,
   "post": {
     "threadId": "1452717222610079847",
     "forumId": "1302288398987431976",
