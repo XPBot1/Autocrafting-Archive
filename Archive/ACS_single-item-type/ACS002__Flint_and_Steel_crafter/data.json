@@ -1,0 +1,89 @@
+{
+  "id": "1452705500931162324",
+  "name": "# Flint and Steel crafter",
+  "code": "ACS002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452705584976625796",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452705500931162324/1452705584976625796/image.png?ex=694ac901&is=69497781&hm=9501c6b03055d4280d91bf1433c36e74c7a5b6e8b2e16ad3bccd0a28dd6617ee&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:53:21 AM",
+      "canDownload": true,
+      "width": 790,
+      "height": 800,
+      "path": "images/image.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452705585241002116",
+      "name": "ACS002_Simple_Flint_Steel_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452705500931162324/1452705585241002116/Simple_Flint_Steel_Crafter.litematic?ex=694ac901&is=69497781&hm=590589e9f59abe171340e02330b9d75f933bc6f1ec6fa686e621446a7f1bb08b&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:53:21 AM",
+      "canDownload": true,
+      "path": "attachments/ACS002_Simple_Flint_Steel_Crafter.litematic",
+      "litematic": {
+        "size": "3x4x3",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Flint and Steel / Two-Slot Crafter [1.21]",
+    "features": [
+      "Produces 5,300 flint & steel per hour",
+      "Optional runout protection (orange)",
+      "Can be disabled via lever",
+      "Random output proof"
+    ],
+    "considerations": [
+      "Not random input/spam-proof"
+    ],
+    "instructions": [
+      "Flint input into the left chest",
+      "Iron input into the right chest",
+      "Output is the middle hopper"
+    ],
+    "notes": "Can be used for any 2-slot ingredient. Also suitable for crafting rockets of any duration, as the amount of input item (gunpowder) is equal or less to the rockets produced (3)."
+  },
+  "timestamp": 1766423145701,
+  "post": {
+    "threadId": "1452708710957711494",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1452708717928775856"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1452708710957711494",
+    "uploadMessageId": "1452708708151853123"
+  }
+}
