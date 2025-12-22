@@ -1,0 +1,109 @@
+{
+  "id": "1452701529420206265",
+  "name": "8gt Water bucket crafter",
+  "code": "ACS001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "549734176455262209",
+      "displayName": "Jaexyn",
+      "username": "jaexyn",
+      "iconURL": "https://cdn.discordapp.com/avatars/549734176455262209/847696f5e3e004a2f753d0e5b48b5f9c.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452701529806209097",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701529806209097/image.png?ex=694ac53a&is=694973ba&hm=85a80cfca31bb7de04fd3429d7f50ea3f2fc228c8be771c12b03d843ea3b49ef&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "canDownload": true,
+      "width": 748,
+      "height": 596,
+      "path": "images/image.png"
+    },
+    {
+      "id": "1452701530338627704",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530338627704/image.png?ex=694ac53a&is=694973ba&hm=20f06fbf98a18a2f73144ff13801567a778ab2aebe7d7ff630ab010c9bb013a7&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "canDownload": true,
+      "width": 726,
+      "height": 534,
+      "path": "images/image_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452701530590281849",
+      "name": "ACS001_Bucket_crafter_auto_1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530590281849/Bucket_crafter_auto_1.litematic?ex=694ac53a&is=694973ba&hm=6f18ba7669cf9d6d071c83d0f51e10ddf187d1d5d499f4da9e1f413ac4c944f6&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "canDownload": true,
+      "path": "attachments/ACS001_Bucket_crafter_auto_1.litematic",
+      "litematic": {
+        "size": "5x4x3",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1452701530900926515",
+      "name": "ACS001_Bucket_crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530900926515/Bucket_crafter.litematic?ex=694ac53a&is=694973ba&hm=8b8e2c82a67abe0b2d178be3a8560d890fdb1813e0ab04c737d2855e516d3090&",
+      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "canDownload": true,
+      "path": "attachments/ACS001_Bucket_crafter.litematic",
+      "litematic": {
+        "size": "4x3x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts Iron Blocks to Water Buckets on a 8gt Clock",
+    "features": [
+      "Entity-less",
+      "Won't brick if run out of prefil"
+    ],
+    "considerations": [
+      "Clock not included"
+    ],
+    "instructions": [
+      "Feed iron blocks into hopper, hook up clock to side observer (can also come from below)"
+    ],
+    "notes": "- also including a schem that automatically runs whenever output is empty"
+  },
+  "timestamp": 1766421810312,
+  "post": {
+    "threadId": "1452703110697848883",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1452703116863471748"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1452703110697848883",
+    "uploadMessageId": "1452703107342667938"
+  }
+}

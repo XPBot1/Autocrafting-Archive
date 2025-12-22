@@ -4,6 +4,18 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1452701529420206265",
+      "name": "8gt Water bucket crafter",
+      "code": "ACS001",
+      "timestamp": 1766421810312,
+      "path": "ACS001_8gt_Water_bucket_crafter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    }
+  ]
 }
