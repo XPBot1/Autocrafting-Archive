@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -23,6 +23,17 @@
       "code": "ACS002",
       "timestamp": 1766423145701,
       "path": "ACS002__Flint_and_Steel_crafter",
+      "tags": [
+        "Tested & Functional",
+        "Recommended"
+      ]
+    },
+    {
+      "id": "1452710944412008518",
+      "name": "Any Duration Rocket crafter",
+      "code": "ACS003",
+      "timestamp": 1766425175038,
+      "path": "ACS003_Any_Duration_Rocket_crafter",
       "tags": [
         "Tested & Functional",
         "Recommended"
