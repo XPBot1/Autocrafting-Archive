@@ -183,7 +183,7 @@
     "instructions": {
       "depth": 2,
       "headerText": "Instructions",
-      "isOrdered": false
+      "isOrdered": true
     },
     "notes": {
       "depth": 2,
