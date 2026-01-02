@@ -1,0 +1,122 @@
+{
+  "id": "1454984249039130767",
+  "name": "1wt 2x Filtered Spam Clock Compactor  [1.21]",
+  "code": "ACC002",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1284967963732213772",
+      "name": "Spam Clocked Compact"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    },
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984249378603090",
+      "name": "1wt_2x_Spam_Clocked_Compactor_SS3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249378603090/1wt_2x_Spam_Clocked_Compactor_SS3.png?ex=6953132d&is=6951c1ad&hm=594996bbead4ef814e8ffc20881c86830e1ae2d919f3ee78f3b89b8a554f7f55&",
+      "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 678,
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png"
+    },
+    {
+      "id": "1454984249630265517",
+      "name": "1wt_2x_Spam_Clocked_Compactor_SSI.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249630265517/1wt_2x_Spam_Clocked_Compactor_SSI.png?ex=6953132d&is=6951c1ad&hm=8ffca50a27e9848e0b49a22b74819aa9a986005777b30c2ae3cfb7869eda4e9c&",
+      "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 692,
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984255259279490",
+      "name": "ACC002_1wt_2x_Spam_Clocked_Compactor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984255259279490/1wt_2x_Spam_Clocked_Compactor.litematic?ex=6953132e&is=6951c1ae&hm=79c90cf819e5bf84875e12e5321c02f3293c3f17fe28dc4df453b8a2f60fea84&",
+      "description": "Sent by acarchiver at 12/28/2025, 6:47:58 PM",
+      "canDownload": true,
+      "path": "attachments/ACC002_1wt_2x_Spam_Clocked_Compactor.litematic",
+      "litematic": {
+        "size": "4x6x7",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1454984259076096232",
+      "name": "ACC002_Clocked_Compactor_Loader_Examples.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984259076096232/Clocked_Compactor_Loader_Examples.litematic?ex=6953132f&is=6951c1af&hm=bb2843451a2b810b4eb7801c56815ce43b7460b9a7e3b9e8c38469d1decbeee9&",
+      "description": "Sent by acarchiver at 12/28/2025, 6:47:59 PM",
+      "canDownload": true,
+      "path": "attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic",
+      "litematic": {
+        "size": "52x14x42",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A clocked compactor designed for compacting items that use a 3x3 crafting pattern, such as slime blocks and redstone blocks.",
+    "features": [
+      "Includes SSI and SS3 versions.",
+      "Can be used for 2-9 single item recipes as long as the only valid recipe is the 3x3 pattern.",
+      "Thread includes box loader versions from 4x to 24x hopper speed.",
+      "Additional designs: 2x2 compactors, bone to bone block compactors, and a 16x nugget to block compactor loader."
+    ],
+    "instructions": [
+      {
+        "title": "For SSI filter setup (SSX, where X is the number of dust, F is filter item, rest blockers):",
+        "isOrdered": false,
+        "items": [
+          "SS2 Filter: F-16-1-1-1",
+          "SS4 Filter: F-62-1-1-1"
+        ]
+      }
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "updatedAt": 1767353846700,
+  "archivedAt": 1767353846700,
+  "post": {
+    "threadId": "1456612355822719068",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1456612368334323763"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1456612355822719068",
+    "uploadMessageId": "1456612352597164126"
+  }
+}

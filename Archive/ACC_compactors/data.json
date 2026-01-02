@@ -4,7 +4,7 @@
   "code": "ACC",
   "category": "Curated Archive",
   "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1452078536528756896",
@@ -17,6 +17,21 @@
         "Recommended",
         "Precision Compactor",
         "Tileable"
+      ],
+      "archivedAt": 1766273381256,
+      "updatedAt": 1766273381256
+    },
+    {
+      "id": "1454984249039130767",
+      "name": "1wt 2x Filtered Spam Clock Compactor  [1.21]",
+      "code": "ACC002",
+      "archivedAt": 1767353846700,
+      "updatedAt": 1767353846700,
+      "path": "ACC002_1wt_2x_Filtered_Spam_Clock_Compactor_1.21",
+      "tags": [
+        "Spam Clocked Compact",
+        "Tileable",
+        "Tested & Functional"
       ]
     }
   ]
