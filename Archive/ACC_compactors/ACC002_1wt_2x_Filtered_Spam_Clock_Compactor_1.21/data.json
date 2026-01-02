@@ -39,23 +39,30 @@
       "id": "1454984249378603090",
       "name": "1wt_2x_Spam_Clocked_Compactor_SS3.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249378603090/1wt_2x_Spam_Clocked_Compactor_SS3.png?ex=6953132d&is=6951c1ad&hm=594996bbead4ef814e8ffc20881c86830e1ae2d919f3ee78f3b89b8a554f7f55&",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249378603090/1wt_2x_Spam_Clocked_Compactor_SS3.png?ex=695901ed&is=6957b06d&hm=a5cc8cdbb932fe3779dd286aa5fdd0a55aba6213040fc4aff5728ef7707a5424&",
       "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 678,
       "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png"
     },
     {
       "id": "1454984249630265517",
       "name": "1wt_2x_Spam_Clocked_Compactor_SSI.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249630265517/1wt_2x_Spam_Clocked_Compactor_SSI.png?ex=6953132d&is=6951c1ad&hm=8ffca50a27e9848e0b49a22b74819aa9a986005777b30c2ae3cfb7869eda4e9c&",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249630265517/1wt_2x_Spam_Clocked_Compactor_SSI.png?ex=695901ed&is=6957b06d&hm=9a2885fa01bdb7d51535f3295a019cd3a52a6566a9176d7b95c38ce676c8043f&",
       "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
       "canDownload": true,
-      "width": 800,
-      "height": 692,
       "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png"
+    },
+    {
+      "id": "1329844848156741662",
+      "name": "SSI_Filter.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&)",
+      "description": "[DiscordCDN] Sent by acarchiver at 12/28/2025, 6:48:00 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 358,
+      "path": "images/SSI_Filter.png"
     }
   ],
   "attachments": [
@@ -84,15 +91,6 @@
         "size": "4x6x7",
         "version": "1.20.4"
       }
-    },
-    {
-      "id": "1456619948842422485",
-      "name": "ACC002_image.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1456619948842422485/image.png?ex=6959068a&is=6957b50a&hm=1d20a36ac67236eccded6a9d6a261ca172821607404651c5cf283d3175116695&",
-      "description": "Sent by xp_bot at 1/2/2026, 7:07:38 AM",
-      "canDownload": true,
-      "path": "attachments/ACC002_image.png"
     }
   ],
   "records": {
@@ -117,16 +115,15 @@
   "styles": {},
   "references": [],
   "author_references": [],
-  "updatedAt": 1767363671721,
+  "updatedAt": 1767364323684,
   "archivedAt": 1767353846700,
   "post": {
-    "threadId": "1456612355822719068",
+    "threadId": "1456656300569133257",
     "forumId": "1284967048870498324",
     "continuingMessageIds": [
-      "1456612368334323763",
-      "1456653278547804404"
+      "1456656304788471890"
     ],
-    "threadURL": "https://discord.com/channels/856232076252282890/1456612355822719068",
-    "uploadMessageId": "1456653563299238007"
+    "threadURL": "https://discord.com/channels/856232076252282890/1456656300569133257",
+    "uploadMessageId": "1456656296802517230"
   }
 }
