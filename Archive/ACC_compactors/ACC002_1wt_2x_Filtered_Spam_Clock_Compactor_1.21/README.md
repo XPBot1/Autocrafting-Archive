@@ -1,5 +1,5 @@
 # 1wt 2x Filtered Spam Clock Compactor  [1.21]
-<img alt="1wt_2x_Spam_Clocked_Compactor_SS3.png" src="images/1wt_2x_Spam_Clocked_Compactor_SS3.png?raw=1" height="300px">
+<img alt="1wt_2x_Spam_Clocked_Compactor_SS3.png" src="images/1wt_2x_Spam_Clocked_Compactor_SS3.png?raw=1">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*
 
@@ -7,7 +7,7 @@
 
 **Tags:** *Spam Clocked Compact, Tileable, Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1456612355822719068)
+**Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1456656300569133257)
 
 A clocked compactor designed for compacting items that use a 3x3 crafting pattern, such as slime blocks and redstone blocks.
 ## Features
@@ -21,9 +21,10 @@ A clocked compactor designed for compacting items that use a 3x3 crafting patter
     - SS4 Filter: F-62-1-1-1
 
 ## Other Images
-<img src="images/1wt_2x_Spam_Clocked_Compactor_SSI.png?raw=1" height="300px">
+<img src="images/1wt_2x_Spam_Clocked_Compactor_SSI.png?raw=1">
+
+<img src="images/SSI_Filter.png?raw=1" height="300px">
 
 ## Resources
 - [ACC002_Clocked_Compactor_Loader_Examples.litematic](attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic): MC 1.20.4, Size 52x14x42 blocks
 - [ACC002_1wt_2x_Spam_Clocked_Compactor.litematic](attachments/ACC002_1wt_2x_Spam_Clocked_Compactor.litematic): MC 1.20.4, Size 4x6x7 blocks
-- [ACC002_image.png](attachments/ACC002_image.png): image/png
