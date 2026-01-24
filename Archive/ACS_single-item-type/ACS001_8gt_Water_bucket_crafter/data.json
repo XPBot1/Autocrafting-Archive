@@ -2,6 +2,12 @@
   "id": "1452701529420206265",
   "name": "8gt Water bucket crafter",
   "code": "ACS001",
+  "reservedCodes": [
+    "ACS001"
+  ],
+  "pastPostThreadIds": [
+    "1452703110697848883"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -36,22 +42,34 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701529806209097/image.png?ex=694ac53a&is=694973ba&hm=85a80cfca31bb7de04fd3429d7f50ea3f2fc228c8be771c12b03d843ea3b49ef&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "description": "",
       "canDownload": true,
       "width": 748,
       "height": 596,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766421434000
     },
     {
       "id": "1452701530338627704",
       "name": "image_1.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530338627704/image.png?ex=694ac53a&is=694973ba&hm=20f06fbf98a18a2f73144ff13801567a778ab2aebe7d7ff630ab010c9bb013a7&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "description": "",
       "canDownload": true,
       "width": 726,
       "height": 534,
-      "path": "images/image_1.png"
+      "path": "images/image_1.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766421434000
     }
   ],
   "attachments": [
@@ -60,26 +78,38 @@
       "name": "ACS001_Bucket_crafter_auto_1.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530590281849/Bucket_crafter_auto_1.litematic?ex=694ac53a&is=694973ba&hm=6f18ba7669cf9d6d071c83d0f51e10ddf187d1d5d499f4da9e1f413ac4c944f6&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACS001_Bucket_crafter_auto_1.litematic",
       "litematic": {
         "size": "5x4x3",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766421434000
     },
     {
       "id": "1452701530900926515",
       "name": "ACS001_Bucket_crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1452701529420206265/1452701530900926515/Bucket_crafter.litematic?ex=694ac53a&is=694973ba&hm=8b8e2c82a67abe0b2d178be3a8560d890fdb1813e0ab04c737d2855e516d3090&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:37:14 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACS001_Bucket_crafter.litematic",
       "litematic": {
         "size": "4x3x3",
         "version": "1.21.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766421434000
     }
   ],
   "records": {
@@ -96,7 +126,8 @@
     ],
     "notes": "- also including a schem that automatically runs whenever output is empty"
   },
-  "timestamp": 1766421810312,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1452703110697848883",
     "forumId": "1302288398987431976",
@@ -105,5 +136,8 @@
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1452703110697848883",
     "uploadMessageId": "1452703107342667938"
-  }
+  },
+  "archivedAt": 1766421810312,
+  "updatedAt": 1766421810312,
+  "num_comments": 0
 }
