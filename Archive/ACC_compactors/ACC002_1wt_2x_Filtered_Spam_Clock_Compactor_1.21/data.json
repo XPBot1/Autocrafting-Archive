@@ -2,6 +2,12 @@
   "id": "1454984249039130767",
   "name": "1wt 2x Filtered Spam Clock Compactor  [1.21]",
   "code": "ACC002",
+  "reservedCodes": [
+    "ACC002"
+  ],
+  "pastPostThreadIds": [
+    "1456656652488015983"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -40,38 +46,62 @@
       "name": "SSI_Filter.png",
       "contentType": "discord",
       "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&)",
-      "description": "[DiscordCDN] Sent by acarchiver at 12/28/2025, 6:48:00 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/SSI_Filter.png"
+      "path": "images/SSI_Filter.png",
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "acarchiver"
+      },
+      "timestamp": 1766965680000
     },
     {
       "id": "1454984249378603090",
       "name": "1wt_2x_Spam_Clocked_Compactor_SS3.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249378603090/1wt_2x_Spam_Clocked_Compactor_SS3.png?ex=695901ed&is=6957b06d&hm=a5cc8cdbb932fe3779dd286aa5fdd0a55aba6213040fc4aff5728ef7707a5424&",
-      "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png"
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acarchiver"
+      },
+      "timestamp": 1766965677000
     },
     {
       "id": "1454984249630265517",
       "name": "1wt_2x_Spam_Clocked_Compactor_SSI.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249630265517/1wt_2x_Spam_Clocked_Compactor_SSI.png?ex=695901ed&is=6957b06d&hm=9a2885fa01bdb7d51535f3295a019cd3a52a6566a9176d7b95c38ce676c8043f&",
-      "description": "Sent by acarchiver at 12/28/2025, 6:47:57 PM",
+      "description": "",
       "canDownload": true,
-      "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png"
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acarchiver"
+      },
+      "timestamp": 1766965677000
     },
     {
       "id": "1456619948842422485",
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1456619948842422485/image.png?ex=6959068a&is=6957b50a&hm=1d20a36ac67236eccded6a9d6a261ca172821607404651c5cf283d3175116695&",
-      "description": "Sent by xp_bot at 1/2/2026, 7:07:38 AM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 614,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1767355658000
     }
   ],
   "attachments": [
@@ -80,26 +110,38 @@
       "name": "ACC002_Clocked_Compactor_Loader_Examples.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984259076096232/Clocked_Compactor_Loader_Examples.litematic?ex=695901ef&is=6957b06f&hm=354cddbf9c3ad69453c1a90132d82b46d08d103b405c755a883e3e4b5473de08&",
-      "description": "Sent by acarchiver at 12/28/2025, 6:47:59 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic",
       "litematic": {
         "size": "52x14x42",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acarchiver"
+      },
+      "timestamp": 1766965679000
     },
     {
       "id": "1454984255259279490",
       "name": "ACC002_1wt_2x_Spam_Clocked_Compactor.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984255259279490/1wt_2x_Spam_Clocked_Compactor.litematic?ex=695901ee&is=6957b06e&hm=11b19afe7c3d4c055e0293955b599be14766cc1494c418165a5d81de243a24f5&",
-      "description": "Sent by acarchiver at 12/28/2025, 6:47:58 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACC002_1wt_2x_Spam_Clocked_Compactor.litematic",
       "litematic": {
         "size": "4x6x7",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "acarchiver"
+      },
+      "timestamp": 1766965678000
     }
   ],
   "records": {
@@ -124,8 +166,6 @@
   "styles": {},
   "references": [],
   "author_references": [],
-  "updatedAt": 1767364407951,
-  "archivedAt": 1767353846700,
   "post": {
     "threadId": "1456656652488015983",
     "forumId": "1284967048870498324",
@@ -134,5 +174,8 @@
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1456656652488015983",
     "uploadMessageId": "1456656296802517230"
-  }
+  },
+  "archivedAt": 1767353846700,
+  "updatedAt": 1767364407951,
+  "num_comments": 0
 }

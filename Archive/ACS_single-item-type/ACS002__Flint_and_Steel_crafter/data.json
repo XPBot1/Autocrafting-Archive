@@ -2,6 +2,12 @@
   "id": "1452705500931162324",
   "name": "# Flint and Steel crafter",
   "code": "ACS002",
+  "reservedCodes": [
+    "ACS002"
+  ],
+  "pastPostThreadIds": [
+    "1452708710957711494"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -36,11 +42,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1452705500931162324/1452705584976625796/image.png?ex=694ac901&is=69497781&hm=9501c6b03055d4280d91bf1433c36e74c7a5b6e8b2e16ad3bccd0a28dd6617ee&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:53:21 AM",
+      "description": "",
       "canDownload": true,
       "width": 790,
       "height": 800,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766422401000
     }
   ],
   "attachments": [
@@ -49,13 +61,19 @@
       "name": "ACS002_Simple_Flint_Steel_Crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1452705500931162324/1452705585241002116/Simple_Flint_Steel_Crafter.litematic?ex=694ac901&is=69497781&hm=590589e9f59abe171340e02330b9d75f933bc6f1ec6fa686e621446a7f1bb08b&",
-      "description": "Sent by xp_bot at 12/22/2025, 11:53:21 AM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACS002_Simple_Flint_Steel_Crafter.litematic",
       "litematic": {
         "size": "3x4x3",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766422401000
     }
   ],
   "records": {
@@ -76,7 +94,8 @@
     ],
     "notes": "Can be used for any 2-slot ingredient. Also suitable for crafting rockets of any duration, as the amount of input item (gunpowder) is equal or less to the rockets produced (3)."
   },
-  "timestamp": 1766423145701,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1452708710957711494",
     "forumId": "1302288398987431976",
@@ -85,5 +104,8 @@
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1452708710957711494",
     "uploadMessageId": "1452708708151853123"
-  }
+  },
+  "archivedAt": 1766423145701,
+  "updatedAt": 1766423145701,
+  "num_comments": 0
 }

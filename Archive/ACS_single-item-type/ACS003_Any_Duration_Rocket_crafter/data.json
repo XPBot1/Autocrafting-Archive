@@ -2,6 +2,12 @@
   "id": "1452710944412008518",
   "name": "Any Duration Rocket crafter",
   "code": "ACS003",
+  "reservedCodes": [
+    "ACS003"
+  ],
+  "pastPostThreadIds": [
+    "1452717222610079847"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -36,22 +42,34 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1452710944412008518/1452711099357991128/image.png?ex=694ace24&is=69497ca4&hm=2f68883aee2fbc4d7baf3e9531a3ce6a4170d5cb0a20e30bc950d3fd9b161a56&",
-      "description": "Sent by xp_bot at 12/22/2025, 12:15:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 643,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766423716000
     },
     {
       "id": "1452711100066959534",
       "name": "image_1.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1452710944412008518/1452711100066959534/image.png?ex=694ace24&is=69497ca4&hm=319d80c98bb0ca5fc7732b7c854bebc14e449a5bc95a6fd2d58b0640db63fbaf&",
-      "description": "Sent by xp_bot at 12/22/2025, 12:15:16 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 722,
-      "path": "images/image_1.png"
+      "path": "images/image_1.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766423716000
     }
   ],
   "attachments": [
@@ -60,13 +78,19 @@
       "name": "ACS003_Rocket_Crafter.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1452710944412008518/1452711100784054312/Rocket_Crafter.litematic?ex=694ace24&is=69497ca4&hm=4dfceb52ecb253a255ae48680a40627ce7b21299c78081c95c735af2643ad152&",
-      "description": "Sent by xp_bot at 12/22/2025, 12:15:16 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ACS003_Rocket_Crafter.litematic",
       "litematic": {
         "size": "4x4x4",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "xp_bot"
+      },
+      "timestamp": 1766423716000
     }
   ],
   "records": {
@@ -86,7 +110,8 @@
     "notes": "- after building, both crafters have to be trigger manually once"
   },
   "styles": {},
-  "timestamp": 1766431924448,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1452717222610079847",
     "forumId": "1302288398987431976",
@@ -95,5 +120,8 @@
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1452717222610079847",
     "uploadMessageId": "1452717219946565893"
-  }
+  },
+  "archivedAt": 1766431924448,
+  "updatedAt": 1766431924448,
+  "num_comments": 0
 }
