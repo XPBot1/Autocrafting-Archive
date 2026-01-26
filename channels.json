@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1284967048870498324",
+    "name": "compactors",
+    "code": "ACC",
+    "category": "Curated Archive",
+    "path": "Archive/ACC_compactors",
+    "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended",
+      "Precision Compactor",
+      "Spam Clocked Compact",
+      "Prefilled Compactor",
+      "Tileable",
+      "Box Loader"
+    ]
+  },
+  {
+    "id": "1284984859995148288",
+    "name": "encoded",
+    "code": "ACE",
+    "category": "Curated Archive",
+    "path": "Archive/ACE_encoded",
+    "description": "Encoded based autocrafters.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended"
+    ]
+  },
+  {
+    "id": "1302288179273142352",
+    "name": "uncrafter-decompactor",
+    "code": "ACD",
+    "category": "Curated Archive",
+    "path": "Archive/ACD_uncrafter-decompactor",
+    "description": "The opposite of compactors retuning block back to there base form.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended",
+      "box loading",
+      "on demand"
+    ]
+  },
+  {
+    "id": "1302288318368845844",
+    "name": "universal",
+    "code": "ACU",
+    "category": "Curated Archive",
+    "path": "Archive/ACU_universal",
+    "description": "Devices capable of crafting any form of items.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended",
+      "Prefilled",
+      "Preset",
+      "Array"
+    ]
+  },
+  {
+    "id": "1302288398987431976",
+    "name": "single-item-type",
+    "code": "ACS",
+    "category": "Curated Archive",
+    "path": "Archive/ACS_single-item-type",
+    "description": "Devices that use one or more input items, to craft a single output item.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended"
+    ]
+  },
+  {
+    "id": "1302288488049152010",
+    "name": "factories",
+    "code": "ACF",
+    "category": "Curated Archive",
+    "path": "Archive/ACF_factories",
+    "description": "Factories are larger, complete builds that may include a range of crafters to mass-produce either one or multiple different output items.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended"
+    ]
+  },
+  {
+    "id": "1302288551903367218",
+    "name": "miscellaneous",
+    "code": "ACM",
+    "category": "Curated Archive",
+    "path": "Archive/ACM_miscellaneous",
+    "description": "Miscellaneous crafters.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended"
+    ]
+  },
+  {
+    "id": "1304487691823616084",
+    "name": "player-based",
+    "code": "ACP",
+    "category": "Curated Archive",
+    "path": "Archive/ACP_player-based",
+    "description": "Devices that help the player craft items.",
+    "availableTags": [
+      "Untested",
+      "Broken",
+      "Tested & Functional",
+      "Recommended"
+    ]
+  }
+]
