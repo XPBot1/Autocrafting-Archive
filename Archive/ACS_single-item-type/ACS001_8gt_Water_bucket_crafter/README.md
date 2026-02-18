@@ -16,7 +16,7 @@ Converts Iron Blocks to Water Buckets on a 8gt Clock
 ## Considerations
 - Clock not included
 ## Instructions
-- Feed iron blocks into hopper, hook up clock to side observer (can also come from below)
+1. Feed iron blocks into hopper, hook up clock to side observer (can also come from below)
 ## Notes
 - also including a schem that automatically runs whenever output is empty
 

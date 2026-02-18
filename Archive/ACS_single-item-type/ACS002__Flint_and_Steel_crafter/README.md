@@ -18,9 +18,9 @@ Flint and Steel / Two-Slot Crafter [1.21]
 ## Considerations
 - Not random input/spam-proof
 ## Instructions
-- Flint input into the left chest
-- Iron input into the right chest
-- Output is the middle hopper
+1. Flint input into the left chest
+2. Iron input into the right chest
+3. Output is the middle hopper
 ## Notes
 Can be used for any 2-slot ingredient. Also suitable for crafting rockets of any duration, as the amount of input item (gunpowder) is equal or less to the rockets produced (3).
 

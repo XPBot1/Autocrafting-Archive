@@ -18,8 +18,8 @@ can be configured to craft 1, 2 or 3 duration rockets
 ## Considerations
 - only produces rockets at hopper speed
 ## Instructions
-- all crafter inventories have to be prefilled with 1 stack of items for each slot
-- to adapt the duration change the recipe in the rocket crafter
+1. all crafter inventories have to be prefilled with 1 stack of items for each slot
+2. to adapt the duration change the recipe in the rocket crafter
 ## Notes
 - after building, both crafters have to be trigger manually once
 

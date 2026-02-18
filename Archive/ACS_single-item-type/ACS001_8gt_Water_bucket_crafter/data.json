@@ -90,7 +90,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766421434000
+      "timestamp": 1766421434000,
+      "size": 1111
     },
     {
       "id": "1452701530900926515",
@@ -109,7 +110,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766421434000
+      "timestamp": 1766421434000,
+      "size": 1002
     }
   ],
   "records": {

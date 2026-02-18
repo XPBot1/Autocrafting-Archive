@@ -8,31 +8,13 @@
   "entries": [
     {
       "id": "1452078536528756896",
-      "name": "2wt 2x HS Simple Precision Compactor [1.21]",
       "code": "ACC001",
-      "timestamp": 1766273381256,
-      "path": "ACC001_2wt_2x_HS_Simple_Precision_Compactor_1.21",
-      "tags": [
-        "Tested & Functional",
-        "Recommended",
-        "Precision Compactor",
-        "Tileable"
-      ],
-      "archivedAt": 1766273381256,
-      "updatedAt": 1766273381256
+      "path": "ACC001_2wt_2x_HS_Simple_Precision_Compactor_1.21"
     },
     {
       "id": "1454984249039130767",
-      "name": "1wt 2x Filtered Spam Clock Compactor  [1.21]",
       "code": "ACC002",
-      "archivedAt": 1767353846700,
-      "updatedAt": 1767364407951,
-      "path": "ACC002_1wt_2x_Filtered_Spam_Clock_Compactor_1.21",
-      "tags": [
-        "Spam Clocked Compact",
-        "Tileable",
-        "Tested & Functional"
-      ]
+      "path": "ACC002_1wt_2x_Filtered_Spam_Clock_Compactor_1.21"
     }
   ]
 }

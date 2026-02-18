@@ -122,7 +122,8 @@
         "type": "unknown",
         "username": "acarchiver"
       },
-      "timestamp": 1766965679000
+      "timestamp": 1766965679000,
+      "size": 7613
     },
     {
       "id": "1454984255259279490",
@@ -141,7 +142,8 @@
         "type": "unknown",
         "username": "acarchiver"
       },
-      "timestamp": 1766965678000
+      "timestamp": 1766965678000,
+      "size": 1175
     }
   ],
   "records": {

@@ -8,36 +8,18 @@
   "entries": [
     {
       "id": "1452701529420206265",
-      "name": "8gt Water bucket crafter",
       "code": "ACS001",
-      "timestamp": 1766421810312,
-      "path": "ACS001_8gt_Water_bucket_crafter",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
+      "path": "ACS001_8gt_Water_bucket_crafter"
     },
     {
       "id": "1452705500931162324",
-      "name": "# Flint and Steel crafter",
       "code": "ACS002",
-      "timestamp": 1766423145701,
-      "path": "ACS002__Flint_and_Steel_crafter",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
+      "path": "ACS002__Flint_and_Steel_crafter"
     },
     {
       "id": "1452710944412008518",
-      "name": "Any Duration Rocket crafter",
       "code": "ACS003",
-      "timestamp": 1766431924448,
-      "path": "ACS003_Any_Duration_Rocket_crafter",
-      "tags": [
-        "Tested & Functional",
-        "Recommended"
-      ]
+      "path": "ACS003_Any_Duration_Rocket_crafter"
     }
   ]
 }
