@@ -3,122 +3,80 @@
     "id": "1284967048870498324",
     "name": "compactors",
     "code": "ACC",
+    "embedding": "JvoQAzQV3wDl5gXdADLNLfL06gsH9TTvHPr49tQB4x8hygrk0AnVBgYA+/QOJLwk2vfUMvEZA/3+8x/0DQoU/BLl/+35EQAe6A0o9ggCGTAZFCs+/AUB9s9K5sgH9QrzCushGhP5JAT98efj7gkYCQAdAwEgEvIDEyEAIfYHEfP23iAdHA71zwUDCx3o8BQP6+0A/Ncn8e8KAs0A9ubm998BDhQKABIeJfrT+xAR2uEyNv8GAugS8/byFQn9C+sBIBEFAM8eLwgLC/n53woNFS/2Ecsd3in7+vf66S38+S31JyzrNeLSCx86AfQgFw/V7gwW9+koJRDhGur1DOonAA==",
     "category": "Curated Archive",
     "path": "Archive/ACC_compactors",
     "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended",
-      "Precision Compactor",
-      "Spam Clocked Compact",
-      "Prefilled Compactor",
-      "Tileable",
-      "Box Loader"
-    ]
-  },
-  {
-    "id": "1284984859995148288",
-    "name": "encoded",
-    "code": "ACE",
-    "category": "Curated Archive",
-    "path": "Archive/ACE_encoded",
-    "description": "Encoded based autocrafters.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended"
-    ]
+    "position": 22
   },
   {
     "id": "1302288179273142352",
     "name": "uncrafter-decompactor",
     "code": "ACD",
+    "embedding": "LvwRBCID7PD03v336w/gJ/TR/AkX7C3nGQwB3LMZ5QUd0uTr7PbnA+Ai9Qz/HLc00e72NO8Q9vb3AwnXJRsIEgX+7PTzBtkq8/8r/Age+BoPGCBDBgMV/dQw6eseCwzkBO4gIef2FPoW1dnf/AgFBxMW2w4FBvgIEQ4YBQwMBhTq1Rwc/xkJ0/rzBBXo/Qkc9+7gHegx8/346fECCej1F9YYEv4SCQgX8e+98CoS/+wNKfX5/eoP8Az2FvUFJer4Lg4SG8crKBsSCPjx8g/6/RvzJer34yIAzdf+9DAD/SPuIjjDN+Xf+vYxH/gJGBzD9fIrAOgnDwz+J/kWCPEd6w==",
     "category": "Curated Archive",
     "path": "Archive/ACD_uncrafter-decompactor",
     "description": "The opposite of compactors retuning block back to there base form.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended",
-      "box loading",
-      "on demand"
-    ]
-  },
-  {
-    "id": "1302288318368845844",
-    "name": "universal",
-    "code": "ACU",
-    "category": "Curated Archive",
-    "path": "Archive/ACU_universal",
-    "description": "Devices capable of crafting any form of items.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended",
-      "Prefilled",
-      "Preset",
-      "Array"
-    ]
+    "position": 23
   },
   {
     "id": "1302288398987431976",
     "name": "single-item-type",
     "code": "ACS",
+    "embedding": "Kv0T+zUb7Rvr0uzq9h3aIvb27yP39jD5HPf52sYL6AYc4wb9z/TqBfvy9wMUEqMo1hnCI/UWExMC5/cJIgIE8x3fDOnx+QcT/gAs8wUPIhg0ESdJBwP4ANku3r4h7xHnBe4ZFBTvHwvw8v7w2RcUCQ4T8wcZA+cFHAULAB3pH/b10gUnEBzxzyQQERH18Ab9z+4PAesX3/cC+dcDDwji8/T9ECIUD/EfF/v9BBEK5vMYPATzAeX79+veAxPpCt7iJfcf4tIvOgEq/wPz4gQXDTT5AtEJ4yro+eoA5DX5DSXrGzD+KtvpGhc9CP4YDA/b5wAHIfn4KgT/Au4IIusd8w==",
     "category": "Curated Archive",
     "path": "Archive/ACS_single-item-type",
     "description": "Devices that use one or more input items, to craft a single output item.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended"
-    ]
+    "position": 24
   },
   {
-    "id": "1302288488049152010",
-    "name": "factories",
-    "code": "ACF",
+    "id": "1302288318368845844",
+    "name": "universal",
+    "code": "ACU",
+    "embedding": "NBc5CkIG/Sf30vv6/x3wI+wC9iLx8RnnBvIF7cwE7/cK3O3r0vHt//wJ9Q4EGa9B8Q/UKhEYHg328w3sKw/86A7rFwnp/gsA9e4e4gP+KBAvDTZFB/T8/OotA88i7hXf+ugSFgrfLPrt/+npyA4HARwV/xIkAwAIMgj7EhgGE/vo2gQaAQ7u5wcP+Avk7/0P4+sKFcgL5fwP+uQMExHr8tj7B/8BDwMcGfbxBRv94foXLv8I5ur4BQPv/R/zGdblIPgL6c84KyA2/RP70wQkHBr7Jc8ZxiHo1OkH2yTxCgjmOxHwJ+frDwAwAgUeDCXR+QYNFfL9HATu+9sBFQA76A==",
     "category": "Curated Archive",
-    "path": "Archive/ACF_factories",
-    "description": "Factories are larger, complete builds that may include a range of crafters to mass-produce either one or multiple different output items.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended"
-    ]
+    "path": "Archive/ACU_universal",
+    "description": "Devices capable of crafting any form of items.",
+    "position": 25
   },
   {
     "id": "1302288551903367218",
     "name": "miscellaneous",
     "code": "ACM",
+    "embedding": "PhgVAj4NARzV6t7qDhjtJf0UDgHt8RffDvr5Acoi9fov/uH/zQHcAgnzAiIJAIQ48fvqIQYcFhQW8gP9MhIJCA0A/RXpARwA4gA16gALGxor9TZVBfkJCu0k59UR8CjPAO8wGv/xB/n58vL24CcODiD19SMg/ucSCw0NFxMQHQvmzgQUAAf3zuwHBxHvCxEz7+v2/N0h8vz99AAMKfX27u8ZCgQMBQcK8PPr5RkC8BQkKfL64/kB/PoG/QjyDtHeHBQAAu03IRYUHQYB5R4JBx7iDcAe5gj7C+UC3yUdARrRNCLbN+37G/0q/PgYADPX+vYMHu0G+wb99AYiCAAz/g==",
     "category": "Curated Archive",
     "path": "Archive/ACM_miscellaneous",
     "description": "Miscellaneous crafters.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended"
-    ]
+    "position": 26
+  },
+  {
+    "id": "1302288488049152010",
+    "name": "factories",
+    "code": "ACF",
+    "embedding": "Rwkp7zIlBCvk0eDK6SHtE+kA+Rn68CYMKBkK5tkB7uQG6ez23hgJ7wwW+RQIILctAAHUF/4aGgsADRD+GQERAfn7Ff779AYd5/UP7/AA+RYpBxom+AHn69s9+8UD+w7xDxMMHOvfA/z6APPm3x4F9gAqABL14fQMJhcbBB4QDAT3wwQO5hEVxv4VFQrZ8w0q5sHq89gWvvkC6fb5Ge3/9ev9LAMVAAYjHAHqABUD//4cOvkJ8PT67Q3j7/XZLgDwOAgR+M0mOSsT+PLp6/sFBQ3ZDcQfzCXZ4+UR8kMUFADnBx3eJNwAM/snAwAMJBvQAO0LFgL7Gf79+PMAJAQd+g==",
+    "category": "Curated Archive",
+    "path": "Archive/ACF_factories",
+    "description": "Factories are larger, complete builds that may include a range of crafters to mass-produce either one or multiple different output items.",
+    "position": 27
+  },
+  {
+    "id": "1284984859995148288",
+    "name": "encoded",
+    "code": "ACE",
+    "embedding": "RRonFSAVGRrh2t7u9Q74DfMCChjo2CjwARn58bsYA/US7PUQtvzuB+nsCCcGG4xI/PDkAAIgDCDw4gf3OgAFBAkA8CL98/L3BOUg9egcIQ4lEiZH9gAK7/wo3cUJ+wrMCwARD/j1CvsA7OTg6AAWACb97BcK5/oQCwUP+hQIEA3l1gAc/hcF8+oCAhHV+QQT/uX3H+8c1e4J7/cmAADx/u0FCwUHCvUH/eLs8iMjBwgpRP3y5fP//QjxAwv6HtbrKf4C8u07QRwV9Qzs7gkX9yL4HdUC2hr4AOb55kcHBAnaMBXbQ/jxFRMo++0eACveCOb/COX5GQnrAucY/fEs9w==",
+    "category": "Curated Archive",
+    "path": "Archive/ACE_encoded",
+    "description": "Encoded based autocrafters.",
+    "position": 28
   },
   {
     "id": "1304487691823616084",
     "name": "player-based",
     "code": "ACP",
+    "embedding": "OgQn+EQE+Rfww/P2ARX0MP7x9yj35yr5GQn++8T//AAbyez43vTt//Dn7RwLBqox+wLFHvsVH/8B7xkFLRcC6Pv8GQ/79wwO2ega6PgLIw8bEiwz9wAC7+Eq7ssc3xjaBf8UEBDaJff/8fjfzxwD+hgNFh0F//APCQkFHwMMIAn11xkdBRj24RP1Ahne4hQd/tz9AtoX4uIM/9EdBfD28979AAofGgkLHfH3+hkN+f8kMv0A4uT76/XcAAL4Is/sJPcL7dcxOBAqEQP60wQnFCb1D9sSyx7u5d365Sf6Cx/iORbfNd3dFgMy/wAlAR3n9/IMEvgQH/nnAOgAD/80/Q==",
     "category": "Curated Archive",
     "path": "Archive/ACP_player-based",
     "description": "Devices that help the player craft items.",
-    "availableTags": [
-      "Untested",
-      "Broken",
-      "Tested & Functional",
-      "Recommended"
-    ]
+    "position": 29
   }
 ]
