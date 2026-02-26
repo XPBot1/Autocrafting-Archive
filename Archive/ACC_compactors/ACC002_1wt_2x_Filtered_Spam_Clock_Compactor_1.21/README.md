@@ -1,5 +1,5 @@
 # 1wt 2x Filtered Spam Clock Compactor  [1.21]
-<img alt="SSI_Filter.png" src="images/SSI_Filter.png?raw=1">
+<img alt="1wt_2x_Spam_Clocked_Compactor_SS3.png" src="images/1wt_2x_Spam_Clocked_Compactor_SS3.png?raw=1">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*
 
@@ -21,12 +21,13 @@ A clocked compactor designed for compacting items that use a 3x3 crafting patter
     - SS4 Filter: F-62-1-1-1
 
 ## Other Images
-<img src="images/1wt_2x_Spam_Clocked_Compactor_SS3.png?raw=1">
-
 <img src="images/1wt_2x_Spam_Clocked_Compactor_SSI.png?raw=1">
 
 <img src="images/image.png?raw=1" height="300px">
 
+<img src="images/SSI_Filter.png?raw=1">
+
 ## Resources
-- [ACC002_Clocked_Compactor_Loader_Examples.litematic](attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic): MC 1.20.4, Size 52x14x42 blocks
 - [ACC002_1wt_2x_Spam_Clocked_Compactor.litematic](attachments/ACC002_1wt_2x_Spam_Clocked_Compactor.litematic): MC 1.20.4, Size 4x6x7 blocks
+- [ACC002_Clocked_Compactor_Loader_Examples.litematic](attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic): MC 1.20.4, Size 52x14x42 blocks
+  - Examples to use for various box loaders ranging from 4x up to 24x hopper speed. Includes 2x2 compactors, bone to bone block compactors, and a 16x nugget to block compactor loader. Note: Loaders with a hopper above the box have a very low chance (1 in 50 million) of losing a box.

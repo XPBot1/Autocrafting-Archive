@@ -42,35 +42,19 @@
   ],
   "images": [
     {
-      "id": "1329844848156741662",
-      "name": "SSI_Filter.png",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&)",
-      "description": "",
-      "canDownload": true,
-      "path": "images/SSI_Filter.png",
-      "source": "URLInMessage",
-      "author": {
-        "type": "unknown",
-        "username": "acarchiver"
-      },
-      "timestamp": 1766965680000,
-      "hash": "a5be376ed141a3e47cac1acd2c7950ace8bf0f74e77373dd41fd2dfbd5f79429"
-    },
-    {
       "id": "1454984249378603090",
       "name": "1wt_2x_Spam_Clocked_Compactor_SS3.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249378603090/1wt_2x_Spam_Clocked_Compactor_SS3.png?ex=695901ed&is=6957b06d&hm=a5cc8cdbb932fe3779dd286aa5fdd0a55aba6213040fc4aff5728ef7707a5424&",
-      "description": "",
+      "description": "Signal strength 3 variant",
       "canDownload": true,
-      "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acarchiver"
+        "username": "Unknown"
       },
       "timestamp": 1766965677000,
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SS3.png",
       "hash": "386238f68029e1536f6118465a74b5afdf58cbda61712269e7e5a63d17eab982"
     },
     {
@@ -78,15 +62,15 @@
       "name": "1wt_2x_Spam_Clocked_Compactor_SSI.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984249630265517/1wt_2x_Spam_Clocked_Compactor_SSI.png?ex=695901ed&is=6957b06d&hm=9a2885fa01bdb7d51535f3295a019cd3a52a6566a9176d7b95c38ce676c8043f&",
-      "description": "",
+      "description": "Signal strength isolated variant",
       "canDownload": true,
-      "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acarchiver"
+        "username": "Unknown"
       },
       "timestamp": 1766965677000,
+      "path": "images/1wt_2x_Spam_Clocked_Compactor_SSI.png",
       "hash": "243f98dae2a8a2e2c047330f0ab6344bac7679b948e0ff35fc9db7449c0b6522"
     },
     {
@@ -94,42 +78,37 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1456619948842422485/image.png?ex=6959068a&is=6957b50a&hm=1d20a36ac67236eccded6a9d6a261ca172821607404651c5cf283d3175116695&",
-      "description": "",
+      "description": "Examples to use for various box loaders ranging from 4x up to 24x hopper speed.",
       "canDownload": true,
       "width": 800,
       "height": 614,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "xp_bot"
+        "username": "Unknown"
       },
       "timestamp": 1767355658000,
+      "path": "images/image.png",
       "hash": "a25e75665e424819e6dbd1b5620239700c8bd0a06aae3dead00463d608b04d2d"
+    },
+    {
+      "id": "1329844848156741662",
+      "name": "SSI_Filter.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&)",
+      "description": "How to set up SSI filters. SS2 Filter: F-16-1-1-1. SS4 Filter: F-62-1-1-1",
+      "canDownload": true,
+      "source": "URLInMessage",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965680000,
+      "path": "images/SSI_Filter.png",
+      "hash": "a5be376ed141a3e47cac1acd2c7950ace8bf0f74e77373dd41fd2dfbd5f79429"
     }
   ],
   "attachments": [
-    {
-      "id": "1454984259076096232",
-      "name": "ACC002_Clocked_Compactor_Loader_Examples.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984259076096232/Clocked_Compactor_Loader_Examples.litematic?ex=695901ef&is=6957b06f&hm=354cddbf9c3ad69453c1a90132d82b46d08d103b405c755a883e3e4b5473de08&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic",
-      "litematic": {
-        "size": "52x14x42",
-        "version": "1.20.4"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "acarchiver"
-      },
-      "timestamp": 1766965679000,
-      "size": 7613,
-      "hash": "5cd2f9661f7030b431a7421f7d777345e89d6d77d6cbf41a4e17571ef5d303f5"
-    },
     {
       "id": "1454984255259279490",
       "name": "ACC002_1wt_2x_Spam_Clocked_Compactor.litematic",
@@ -145,11 +124,30 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "acarchiver"
+        "username": "Unknown"
       },
       "timestamp": 1766965678000,
-      "size": 1175,
       "hash": "7c4ad2a5437f8c4d21bd6d542f7a542d09973761f2dcbcfc3e922fc6d08705b4"
+    },
+    {
+      "id": "1454984259076096232",
+      "name": "ACC002_Clocked_Compactor_Loader_Examples.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984249039130767/1454984259076096232/Clocked_Compactor_Loader_Examples.litematic?ex=695901ef&is=6957b06f&hm=354cddbf9c3ad69453c1a90132d82b46d08d103b405c755a883e3e4b5473de08&",
+      "description": "Examples to use for various box loaders ranging from 4x up to 24x hopper speed. Includes 2x2 compactors, bone to bone block compactors, and a 16x nugget to block compactor loader. Note: Loaders with a hopper above the box have a very low chance (1 in 50 million) of losing a box.",
+      "canDownload": true,
+      "path": "attachments/ACC002_Clocked_Compactor_Loader_Examples.litematic",
+      "litematic": {
+        "size": "52x14x42",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965679000,
+      "hash": "5cd2f9661f7030b431a7421f7d777345e89d6d77d6cbf41a4e17571ef5d303f5"
     }
   ],
   "records": {
@@ -184,6 +182,6 @@
     "uploadMessageId": "1456656296802517230"
   },
   "archivedAt": 1767353846700,
-  "updatedAt": 1767364407951,
+  "updatedAt": 1772076794923,
   "num_comments": 0
 }
