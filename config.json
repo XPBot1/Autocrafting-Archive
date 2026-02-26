@@ -33,6 +33,10 @@
       "notes": {
         "type": "string",
         "description": "Optional notes about the device."
+      },
+      "compatibility": {
+        "type": "string",
+        "description": "What Minecraft versions it works in"
       }
     },
     "required": [
@@ -64,6 +68,10 @@
     "notes": {
       "depth": 2,
       "headerText": "Notes"
+    },
+    "compatibility": {
+      "depth": 2,
+      "headerText": "Compatibility"
     }
   }
 }
