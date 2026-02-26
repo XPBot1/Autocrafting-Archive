@@ -1,0 +1,141 @@
+{
+  "id": "1454984267045011720",
+  "name": "Box to Box Compactor [1.21]",
+  "code": "ACC005",
+  "reservedCodes": [
+    "ACC005"
+  ],
+  "pastPostThreadIds": [
+    "1476718528513183969"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "displayName": "XP_Bot",
+      "username": "xp_bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "142441395095863296",
+      "displayName": "Civic Dude",
+      "username": "civicdude",
+      "iconURL": "https://cdn.discordapp.com/avatars/142441395095863296/dcf48bee377748f5809116893cac5bae.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "688456529338433611",
+      "username": "glidingmonkey",
+      "reason": "Created box loader",
+      "dontDisplay": true,
+      "displayName": "Christone",
+      "iconURL": "https://cdn.discordapp.com/avatars/688456529338433611/348a34add443a5a71237111010e484b1.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284968050831134750",
+      "name": "Box Loader"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984267426824283",
+      "name": "area_render_6_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984267045011720/1454984267426824283/area_render_6_.png?ex=69531331&is=6951c1b1&hm=e63a4bef93b5b2dd8011ca397b044552a0bee136ac89bc7bc1daec41804207c7&",
+      "description": "",
+      "canDownload": true,
+      "width": 379,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965681000,
+      "path": "images/area_render_6_.png",
+      "hash": "7fc63b6d6331d1a261de398b75f608de25c091fcaa4ffc20c25295c613e3ca2c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984272976019598",
+      "name": "ACC005_Box_to_Box_Compactor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984267045011720/1454984272976019598/Box_to_Box_Compactor.litematic?ex=69531332&is=6951c1b2&hm=ee8f36d54f6cf80d744d9b415efb9582d697b7cd89f2b0941c098f4da4015c77&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACC005_Box_to_Box_Compactor.litematic",
+      "litematic": {
+        "size": "3x12x6",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965682000,
+      "hash": "02e76510cecf665c8931bc4da689bc89c6ae8f1891b23e07690b49e0f773c4cd"
+    }
+  ],
+  "records": {
+    "description": "Compacts a full box of items at 8x hopper speed. It converts them into their compressed form and outputs them into a new box that contains 3 stacks of items.",
+    "how-it-works.": "The compactor always pushes 8 items before sending a crafting pulse. This ensures that only valid 3x3 recipes are processed, as a recipe with 8 items is always invalid, preventing incorrect crafting attempts.",
+    "features": [
+      "8x hopper speed compacting",
+      "Compacts up to 37.5 boxes per hour",
+      "Recycles empty boxes"
+    ],
+    "considerations": [
+      "Input must be only full boxes",
+      "Only works with items that can be compacted in a 3x3 grid"
+    ],
+    "instructions": [
+      "Put a full boxes with items you wish to compact in the hopper input (top of the device). It's important that only full boxes are input."
+    ],
+    "compatibility": "1.21+"
+  },
+  "styles": {
+    "how-it-works.": {
+      "depth": 3,
+      "headerText": "How it Works:"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476718528513183969",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476718539263180942"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476718528513183969",
+    "uploadMessageId": "1476718525262332026"
+  },
+  "archivedAt": 1772147531791,
+  "updatedAt": 1772147531791,
+  "num_comments": 0
+}
