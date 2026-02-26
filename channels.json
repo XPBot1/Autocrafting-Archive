@@ -78,5 +78,15 @@
     "path": "Archive/ACP_player-based",
     "description": "Devices that help the player craft items.",
     "position": 29
+  },
+  {
+    "id": "1476711073888473279",
+    "name": "guides",
+    "code": "ACG",
+    "embedding": "NxQcE0QUARjmyugECg35J/oTEQzt2i/zGgz+DMwQ5fcCxv700vIMBvntBA0OEpY+AP3nHAwTCi4K9Nz4RfwDJfzx2hvpBQT6BOki5fQUGQUrAz1L/Qf1/gAl5L0A+xDJAwgcFvzmFxAA/urU5Q3vCR4L8BIP4eoN9iEiEAggFRjj4AsAA+/95QMGEiDhBfcbAOLvCdka8gP9+wMdCgDq8wAMCf4WBAYNGe729BgPAu0ZMu4I5Af4BgryBgrvBujhLgoE+OlBPikTDAXy6w0aACHqFdke3gnp6uvv9UAX6SvTGCT5PufsEAwyCPod9CzeAeEOFvYJIwjqEfUSDgUc/Q==",
+    "category": "Curated Archive",
+    "path": "Archive/ACG_guides",
+    "description": "Guides and how-tos for autocrafting designs",
+    "position": 45
   }
 ]
