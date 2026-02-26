@@ -23,7 +23,7 @@ A clocked compactor designed for compacting items that use a 3x3 crafting patter
 ## Other Images
 <img src="images/1wt_2x_Spam_Clocked_Compactor_SSI.png?raw=1">
 
-<img src="images/image.png?raw=1" height="300px">
+<img src="images/examples.png?raw=1" height="300px">
 
 <img src="images/SSI_Filter.png?raw=1">
 
