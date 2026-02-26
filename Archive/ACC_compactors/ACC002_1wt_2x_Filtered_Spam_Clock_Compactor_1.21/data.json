@@ -90,22 +90,6 @@
       "timestamp": 1767355658000,
       "path": "images/examples.png",
       "hash": "a25e75665e424819e6dbd1b5620239700c8bd0a06aae3dead00463d608b04d2d"
-    },
-    {
-      "id": "1329844848156741662",
-      "name": "SSI_Filter.png",
-      "contentType": "discord",
-      "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&)",
-      "description": "How to set up SSI filters. SS2 Filter: F-16-1-1-1. SS4 Filter: F-62-1-1-1",
-      "canDownload": true,
-      "source": "URLInMessage",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1766965680000,
-      "path": "images/SSI_Filter.png",
-      "hash": "a5be376ed141a3e47cac1acd2c7950ace8bf0f74e77373dd41fd2dfbd5f79429"
     }
   ],
   "attachments": [
@@ -182,6 +166,6 @@
     "uploadMessageId": "1456656296802517230"
   },
   "archivedAt": 1767353846700,
-  "updatedAt": 1772080545643,
+  "updatedAt": 1772146175890,
   "num_comments": 0
 }
