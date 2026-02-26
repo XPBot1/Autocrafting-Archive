@@ -1,0 +1,245 @@
+{
+  "id": "1454984276994031810",
+  "name": "1wABt 2xHS Filtered Compactor Loader [1.21]",
+  "code": "ACC003",
+  "reservedCodes": [
+    "ACC003"
+  ],
+  "pastPostThreadIds": [
+    "1476714141883433040"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "displayName": "XP_Bot",
+      "username": "xp_bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "537147165202710528",
+      "username": "cled0328",
+      "reason": "Made precision compactor",
+      "dontDisplay": true,
+      "displayName": "cled0328",
+      "iconURL": "https://cdn.discordapp.com/avatars/537147165202710528/1aead5762ad2c160fd02aa3cb5778a30.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "reason": "Made precision box loader design",
+      "dontDisplay": true,
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    },
+    {
+      "id": "1284968050831134750",
+      "name": "Box Loader"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984277912715526",
+      "name": "thumb_ss3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984276994031810/1454984277912715526/thumb_ss3.png?ex=69531334&is=6951c1b4&hm=3c6c637deb65b48ac450f5c99280197093d0645cb0934efe38589b84c3839461&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 733,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965683000,
+      "path": "images/thumb_ss3.png",
+      "hash": "f528b18bf5eaafd91e57d89890b620dcf58ec3bf11bc6889ed87fc4b1b40a5b4"
+    },
+    {
+      "id": "1454984278361510082",
+      "name": "ssi.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984276994031810/1454984278361510082/ssi.png?ex=69a18474&is=69a032f4&hm=dd451d5d58397e9ccaac1693609a8c55cbedf1739121a7906ce43195909c9529&",
+      "timestamp": 1766965683936,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "This variant uses SSI filters (signal strength isolated)",
+      "size": 34184,
+      "canDownload": true,
+      "width": 825,
+      "height": 725,
+      "path": "images/ssi.png",
+      "hash": "34dcbc23ae94bcdd82dae3d8b9f74aeae0868cd8e0164917b0781f3b735c0790"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984285441364179",
+      "name": "ACC003_1wt_2xHS_Filtered_Compactor_Loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984276994031810/1454984285441364179/1wt_2xHS_Filtered_Compactor_Loader.litematic?ex=69531335&is=6951c1b5&hm=d0f48da0a51731164076d3390eec9fe93e61aba4ad8c0f052049a8ce4609f54a&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACC003_1wt_2xHS_Filtered_Compactor_Loader.litematic",
+      "litematic": {
+        "size": "11x10x8",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965685000,
+      "hash": "6f1ee218cca59d4f7cfd29ddb76d4fa4e4ac23d406c9c31004ee4cc8330e4017"
+    }
+  ],
+  "records": {
+    "description": "A precision compactor loader device with SSI and SS3 versions, created by <@751816361034121217> and <@144825283357310976>, featuring a Precision Compactor by <@537147165202710528> and Precision Box Loader by <@719903397171560559>.",
+    "features": [
+      "SSI & SS3 version",
+      "Precision Compactor (by <@537147165202710528>)",
+      "Precision Box Loader (by <@719903397171560559>)"
+    ],
+    "considerations": [
+      "impossible to FHL"
+    ],
+    "instructions": [
+      "For SSI filter setup, see ACG001"
+    ],
+    "notes": "It is generally a better idea to use the [4x](https://discord.com/channels/856232076252282890/1304491479691034715) or [6x](https://discord.com/channels/856232076252282890/1304813324944543785) Compactor Loaders, if the filtered item type doesn't change between slices."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "751816361034121217",
+        "username": "geg2048",
+        "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp",
+        "displayName": "geg2055"
+      },
+      "matches": [
+        "<@751816361034121217>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp",
+        "displayName": "XP_Bot"
+      },
+      "matches": [
+        "<@144825283357310976>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "537147165202710528",
+        "username": "cled0328",
+        "iconURL": "https://cdn.discordapp.com/avatars/537147165202710528/1aead5762ad2c160fd02aa3cb5778a30.webp",
+        "displayName": "cled0328"
+      },
+      "matches": [
+        "<@537147165202710528>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "719903397171560559",
+        "username": "pyraleftt",
+        "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+      },
+      "matches": [
+        "<@719903397171560559>"
+      ]
+    },
+    {
+      "type": "archivedPost",
+      "id": "1476711840992989339",
+      "code": "ACG001",
+      "name": "How to setup SSI filters",
+      "url": "https://discord.com/channels/856232076252282890/1476712442703773726",
+      "path": "Archive/ACG_guides/ACG001_How_to_setup_SSI_filters",
+      "matches": [
+        "ACG001"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/1304491479691034715",
+      "server": "856232076252282890",
+      "channel": "1304491479691034715",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/1304491479691034715"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/1304813324944543785",
+      "server": "856232076252282890",
+      "channel": "1304813324944543785",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/1304813324944543785"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1476714141883433040",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476714151358234728"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476714141883433040",
+    "uploadMessageId": "1476714138276466900"
+  },
+  "archivedAt": 1772146485424,
+  "updatedAt": 1772146485424,
+  "num_comments": 0
+}
