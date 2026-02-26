@@ -12,8 +12,7 @@
         "items": {
           "type": "string"
         },
-        "description": "A list of features of the device.",
-        "minItems": 1
+        "description": "A list of features of the device."
       },
       "considerations": {
         "type": "array",
@@ -27,8 +26,7 @@
         "items": {
           "type": "string"
         },
-        "description": "How to use the device.",
-        "minItems": 1
+        "description": "How to use the device."
       },
       "notes": {
         "type": "string",
@@ -40,9 +38,7 @@
       }
     },
     "required": [
-      "description",
-      "features",
-      "instructions"
+      "description"
     ]
   },
   "postStyle": {
