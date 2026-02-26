@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Andrews54757*
 
-**Tags:** *Tested & Functional, Box Loader*
+**Tags:** *Tested & Functional, Precision Compactor, Box Loader*
 
 **Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1476718528513183969)
 
