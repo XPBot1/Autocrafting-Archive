@@ -60,7 +60,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766272901000
+      "timestamp": 1766272901000,
+      "hash": "3343b1bb53334900a98710cd55dbdf5965ee22c7b6e5fbdd79fd850c752242d9"
     }
   ],
   "attachments": [
@@ -82,7 +83,8 @@
         "username": "xp_bot"
       },
       "timestamp": 1766273277000,
-      "size": 18760
+      "size": 18760,
+      "hash": "7e2fcbde77e36a5800fc59a007dac01accc5e11d05adc4b5bab38d099e2f9513"
     }
   ],
   "records": {

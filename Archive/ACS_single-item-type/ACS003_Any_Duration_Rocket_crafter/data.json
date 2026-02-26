@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766423716000
+      "timestamp": 1766423716000,
+      "hash": "a2cf31587525a9b2a9a53e75e2d58a63a37963dd77ee4ef2478917165e0a2837"
     },
     {
       "id": "1452711100066959534",
@@ -69,7 +70,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766423716000
+      "timestamp": 1766423716000,
+      "hash": "4c130e01cdad8f735618bf742301479ca5f716395b7d0c40431e51db1ccf0eca"
     }
   ],
   "attachments": [
@@ -91,7 +93,8 @@
         "username": "xp_bot"
       },
       "timestamp": 1766423716000,
-      "size": 1053
+      "size": 1053,
+      "hash": "96f98e15c6709f177e34987e95d1e6a562ad7e81b24be5496e66f3316524f068"
     }
   ],
   "records": {

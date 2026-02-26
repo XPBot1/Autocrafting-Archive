@@ -54,7 +54,8 @@
         "type": "unknown",
         "username": "acarchiver"
       },
-      "timestamp": 1766965680000
+      "timestamp": 1766965680000,
+      "hash": "a5be376ed141a3e47cac1acd2c7950ace8bf0f74e77373dd41fd2dfbd5f79429"
     },
     {
       "id": "1454984249378603090",
@@ -69,7 +70,8 @@
         "type": "unknown",
         "username": "acarchiver"
       },
-      "timestamp": 1766965677000
+      "timestamp": 1766965677000,
+      "hash": "386238f68029e1536f6118465a74b5afdf58cbda61712269e7e5a63d17eab982"
     },
     {
       "id": "1454984249630265517",
@@ -84,7 +86,8 @@
         "type": "unknown",
         "username": "acarchiver"
       },
-      "timestamp": 1766965677000
+      "timestamp": 1766965677000,
+      "hash": "243f98dae2a8a2e2c047330f0ab6344bac7679b948e0ff35fc9db7449c0b6522"
     },
     {
       "id": "1456619948842422485",
@@ -101,7 +104,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1767355658000
+      "timestamp": 1767355658000,
+      "hash": "a25e75665e424819e6dbd1b5620239700c8bd0a06aae3dead00463d608b04d2d"
     }
   ],
   "attachments": [
@@ -123,7 +127,8 @@
         "username": "acarchiver"
       },
       "timestamp": 1766965679000,
-      "size": 7613
+      "size": 7613,
+      "hash": "5cd2f9661f7030b431a7421f7d777345e89d6d77d6cbf41a4e17571ef5d303f5"
     },
     {
       "id": "1454984255259279490",
@@ -143,7 +148,8 @@
         "username": "acarchiver"
       },
       "timestamp": 1766965678000,
-      "size": 1175
+      "size": 1175,
+      "hash": "7c4ad2a5437f8c4d21bd6d542f7a542d09973761f2dcbcfc3e922fc6d08705b4"
     }
   ],
   "records": {

@@ -52,7 +52,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766421434000
+      "timestamp": 1766421434000,
+      "hash": "7f0f99e35bb7a890d81fe3fe22f0f779d74cf98523c2b57c407bcd9c528352e7"
     },
     {
       "id": "1452701530338627704",
@@ -69,7 +70,8 @@
         "type": "unknown",
         "username": "xp_bot"
       },
-      "timestamp": 1766421434000
+      "timestamp": 1766421434000,
+      "hash": "9b29e79ef68b7211111f0fa215858fe2c0f343e34a5fb1bb9963f7413f9ee75a"
     }
   ],
   "attachments": [
@@ -91,7 +93,8 @@
         "username": "xp_bot"
       },
       "timestamp": 1766421434000,
-      "size": 1111
+      "size": 1111,
+      "hash": "b13bcaa5cbecef22847ab0dfb327939b2ac63e1a7c0542cb65b53a630b24a31a"
     },
     {
       "id": "1452701530900926515",
@@ -111,7 +114,8 @@
         "username": "xp_bot"
       },
       "timestamp": 1766421434000,
-      "size": 1002
+      "size": 1002,
+      "hash": "323f89c8f4bfc0b591c048f43e0c90917add79cd5fe20696728e7acb2f084fd5"
     }
   ],
   "records": {
