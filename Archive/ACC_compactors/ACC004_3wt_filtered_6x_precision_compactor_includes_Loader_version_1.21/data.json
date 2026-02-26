@@ -1,0 +1,154 @@
+{
+  "id": "1454984303401242859",
+  "name": "3wt filtered 6x precision compactor (includes Loader version) [1.21]",
+  "code": "ACC004",
+  "reservedCodes": [
+    "ACC004"
+  ],
+  "pastPostThreadIds": [
+    "1476717163581669548"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284968050831134750",
+      "name": "Box Loader"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984303955152927",
+      "name": "image1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984303401242859/1454984303955152927/image1.png?ex=69a1847a&is=69a032fa&hm=042aa7b1efcdac43d18f26f4d00e9456c45811231ae488e64d695e6ccfd1c18f&",
+      "timestamp": 1766965690232,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 62663,
+      "canDownload": true,
+      "width": 816,
+      "height": 838,
+      "path": "images/image1.png",
+      "hash": "a2100072fadc0149c9d77575419cf7b9e336e64f791335eb2d81efa44432e1bc"
+    },
+    {
+      "id": "1454984303686582413",
+      "name": "image2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984303401242859/1454984303686582413/image2.png?ex=69a1847a&is=69a032fa&hm=34b91a8124fd5108a8518456de41b54c00b45fe1e320f428fe394811d55299b0&",
+      "timestamp": 1766965690232,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 103832,
+      "canDownload": true,
+      "width": 947,
+      "height": 810,
+      "path": "images/image2.png",
+      "hash": "afedf24cd9b8e51e033862985960bb412b7ee11fd3f87fa4592e87e8e6ebf0da"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984308463763569",
+      "name": "ACC004_3wt_Filtered_6x_Precision_Compactor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984303401242859/1454984308463763569/3wt_Filtered_6x_Precision_Compactor.litematic?ex=69a1847b&is=69a032fb&hm=9dc360960aa624623540431d9ebbb1ec2672533087eb2838c721428aeed98595&",
+      "timestamp": 1766965691541,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2011,
+      "canDownload": true,
+      "hash": "ba2835de0de9c6736529e0b71196ab14565838cac857ff6e4f900b7e7c527f76",
+      "path": "attachments/ACC004_3wt_Filtered_6x_Precision_Compactor.litematic",
+      "litematic": {
+        "size": "7x7x9",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Simple SS3 filtered compactor with optional Loader version if needed.",
+    "features": [
+      "No prefill required",
+      "Box Loader Version available"
+    ],
+    "considerations": [
+      "no SSI possible",
+      "3 dusts (but lag is mitigated by green SS2 Line)",
+      "No crafter recovery (needs to be cleaned out manually if crafter overflows)"
+    ],
+    "notes": "We still suggest you build https://discord.com/channels/856232076252282890/1304491479691034715 if you need more than 3x of speed. also having a loader at each compactor is mostly unnecessary since the hopper speed gets reduced by 9 allowing a 162/h item stream satisfy a single 2x loader"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/1304491479691034715",
+      "server": "856232076252282890",
+      "channel": "1304491479691034715",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/1304491479691034715"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1476717163581669548",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476717173949992971"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476717163581669548",
+    "uploadMessageId": "1476717161614409900"
+  },
+  "archivedAt": 1772147206717,
+  "updatedAt": 1772147206717,
+  "num_comments": 0
+}
