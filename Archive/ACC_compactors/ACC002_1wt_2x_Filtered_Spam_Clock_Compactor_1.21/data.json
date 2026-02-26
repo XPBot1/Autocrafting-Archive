@@ -143,18 +143,23 @@
       "Additional designs: 2x2 compactors, bone to bone block compactors, and a 16x nugget to block compactor loader."
     ],
     "instructions": [
-      {
-        "title": "For SSI filter setup (SSX, where X is the number of dust, F is filter item, rest blockers):",
-        "isOrdered": false,
-        "items": [
-          "SS2 Filter: F-16-1-1-1",
-          "SS4 Filter: F-62-1-1-1"
-        ]
-      }
+      "For SSI filter setup, see ACG001"
     ]
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1476711840992989339",
+      "code": "ACG001",
+      "name": "How to setup SSI filters",
+      "url": "https://discord.com/channels/856232076252282890/1476712442703773726",
+      "path": "Archive/ACG_guides/ACG001_How_to_setup_SSI_filters",
+      "matches": [
+        "ACG001"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1456656652488015983",
@@ -166,6 +171,6 @@
     "uploadMessageId": "1456656296802517230"
   },
   "archivedAt": 1767353846700,
-  "updatedAt": 1772146175890,
+  "updatedAt": 1772146234425,
   "num_comments": 0
 }

@@ -16,9 +16,7 @@ A clocked compactor designed for compacting items that use a 3x3 crafting patter
 - Thread includes box loader versions from 4x to 24x hopper speed.
 - Additional designs: 2x2 compactors, bone to bone block compactors, and a 16x nugget to block compactor loader.
 ## Instructions
-1. For SSI filter setup (SSX, where X is the number of dust, F is filter item, rest blockers):
-    - SS2 Filter: F-16-1-1-1
-    - SS4 Filter: F-62-1-1-1
+1. For SSI filter setup, see [ACG001 How to setup SSI filters](https://discord.com/channels/856232076252282890/1476712442703773726)
 
 ## Other Images
 <img src="images/1wt_2x_Spam_Clocked_Compactor_SSI.png?raw=1">
