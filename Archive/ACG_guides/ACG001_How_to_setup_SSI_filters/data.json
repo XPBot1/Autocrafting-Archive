@@ -1,0 +1,68 @@
+{
+  "id": "1476711840992989339",
+  "name": "How to setup SSI filters",
+  "code": "ACG001",
+  "reservedCodes": [
+    "ACG001"
+  ],
+  "pastPostThreadIds": [
+    "1476712442703773726"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1476711331183726741",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1329844848156741662",
+      "name": "SSI_Filter.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304491479691034715/1329844848156741662/SSI_Filter.png?ex=678bd207&is=678a8087&hm=9df28a22be9fb24f03083eb2dfbbf47787dbf81aa040b801329a1521f334dd33&",
+      "timestamp": 1772145938872,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "width": 1200,
+      "height": 537,
+      "size": 59937,
+      "path": "images/SSI_Filter.png",
+      "hash": "508299ab02308c1481470de783b2e2bdc07a429be6a1bd6f2e79cee830ba54d9"
+    }
+  ],
+  "attachments": [],
+  "records": {
+    "description": "Signal Strength Isolated (SSI) Filter setup using SSX where X is the number of dust, F is filter item, rest blockers\n\n- SS2 Filter: F-16-1-1-1\n- SS4 Filter: F-62-1-1-1"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476712442703773726",
+    "forumId": "1476711073888473279",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476712442703773726",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1772146081568,
+  "updatedAt": 1772146081568,
+  "num_comments": 0
+}

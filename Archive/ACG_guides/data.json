@@ -4,6 +4,12 @@
   "code": "ACG",
   "category": "Curated Archive",
   "description": "Guides and how-tos for autocrafting designs",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1476711840992989339",
+      "code": "ACG001",
+      "path": "ACG001_How_to_setup_SSI_filters"
+    }
+  ]
 }
