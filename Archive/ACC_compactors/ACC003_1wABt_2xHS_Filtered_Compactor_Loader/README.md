@@ -1,4 +1,4 @@
-# 1wABt 2xHS Filtered Compactor Loader [1.21]
+# 1wABt 2xHS Filtered Compactor Loader
 <img alt="thumb_ss3.png" src="images/thumb_ss3.png?raw=1" height="300px">
 
 **Authors:** *geg2055, XP_Bot*
@@ -19,7 +19,9 @@ A precision compactor loader device with SSI and SS3 versions, created by geg205
 ## Instructions
 1. For SSI filter setup, see [ACG001 How to setup SSI filters](https://discord.com/channels/856232076252282890/1476712442703773726)
 ## Notes
-It is generally a better idea to use the [4x](https://discord.com/channels/856232076252282890/1304491479691034715) or [6x](https://discord.com/channels/856232076252282890/1304813324944543785) Compactor Loaders, if the filtered item type doesn't change between slices.
+It is generally a better idea to use the [4x (ACC006)](../../../Archive/ACC_compactors/ACC006_4x_2wABt_SSI_Filtered_Precision_Compactor_Crafter_1.21) or [6x (ACC004)](../../../Archive/ACC_compactors/ACC004_3wt_filtered_6x_precision_compactor) Compactor Loaders, if the filtered item type doesn't change between slices.
+## Compatibility
+1.21+
 
 ## Acknowledgements:
 - cled0328: Made precision compactor

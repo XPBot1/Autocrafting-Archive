@@ -1,6 +1,6 @@
 {
   "id": "1454984276994031810",
-  "name": "1wABt 2xHS Filtered Compactor Loader [1.21]",
+  "name": "1wABt 2xHS Filtered Compactor Loader",
   "code": "ACC003",
   "reservedCodes": [
     "ACC003"
@@ -144,7 +144,8 @@
     "instructions": [
       "For SSI filter setup, see ACG001"
     ],
-    "notes": "It is generally a better idea to use the [4x](https://discord.com/channels/856232076252282890/1304491479691034715) or [6x](https://discord.com/channels/856232076252282890/1304813324944543785) Compactor Loaders, if the filtered item type doesn't change between slices."
+    "notes": "It is generally a better idea to use the [4x](https://discord.com/channels/856232076252282890/1476733744965488765/1476733744965488765) or [6x](https://discord.com/channels/856232076252282890/1476717163581669548/1476717163581669548) Compactor Loaders, if the filtered item type doesn't change between slices.",
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [
@@ -211,21 +212,25 @@
       ]
     },
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/856232076252282890/1304491479691034715",
-      "server": "856232076252282890",
-      "channel": "1304491479691034715",
+      "type": "archivedPost",
+      "id": "1454984216327491584",
+      "code": "ACC006",
+      "name": "4x 2wABt SSI Filtered Precision Compactor Crafter [1.21]",
+      "url": "https://discord.com/channels/856232076252282890/1476733744965488765",
+      "path": "Archive/ACC_compactors/ACC006_4x_2wABt_SSI_Filtered_Precision_Compactor_Crafter_1.21",
       "matches": [
-        "https://discord.com/channels/856232076252282890/1304491479691034715"
+        "https://discord.com/channels/856232076252282890/1476733744965488765/1476733744965488765"
       ]
     },
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/856232076252282890/1304813324944543785",
-      "server": "856232076252282890",
-      "channel": "1304813324944543785",
+      "type": "archivedPost",
+      "id": "1454984303401242859",
+      "code": "ACC004",
+      "name": "3wt filtered 6x precision compactor",
+      "url": "https://discord.com/channels/856232076252282890/1476717163581669548",
+      "path": "Archive/ACC_compactors/ACC004_3wt_filtered_6x_precision_compactor",
       "matches": [
-        "https://discord.com/channels/856232076252282890/1304813324944543785"
+        "https://discord.com/channels/856232076252282890/1476717163581669548/1476717163581669548"
       ]
     }
   ],
@@ -240,6 +245,6 @@
     "uploadMessageId": "1476714138276466900"
   },
   "archivedAt": 1772146485424,
-  "updatedAt": 1772146485424,
+  "updatedAt": 1772152219122,
   "num_comments": 0
 }
