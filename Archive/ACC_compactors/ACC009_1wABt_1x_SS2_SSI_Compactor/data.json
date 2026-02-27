@@ -1,0 +1,209 @@
+{
+  "id": "1454984291154001981",
+  "name": "1wABt 1x SS2 SSI  Compactor",
+  "code": "ACC009",
+  "reservedCodes": [
+    "ACC009"
+  ],
+  "pastPostThreadIds": [
+    "1476745758081548561"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "183711148288245760",
+      "displayName": "DrakePHOSE",
+      "username": "drakephose",
+      "iconURL": "https://cdn.discordapp.com/avatars/183711148288245760/bfaafaea0f922180417020864ce32970.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984291552464969",
+      "name": "mono.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984291154001981/1454984291552464969/mono.png?ex=69531337&is=6951c1b7&hm=42978164f3bd0c7d06f44bef181ff0d6fef31303a5154c8db2c84989b2c24215&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 615,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965687000,
+      "path": "images/mono.png",
+      "hash": "827435bb2fe897a08cb72ce7d899f2c78018e94822126b91dc01d5428d0b7d45"
+    },
+    {
+      "id": "1476744624591601744",
+      "name": "mono_locked.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984291154001981/1476744624591601744/mono_locked.png?ex=69a23d1b&is=69a0eb9b&hm=d1608d833c114f1d23f6a1f3652d6ba3dc6290294e884ae38c931093990749c8&",
+      "timestamp": 1772153754994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Hopperlocked variant",
+      "size": 157507,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1035,
+      "path": "images/mono_locked.png",
+      "hash": "f954bacb36d095c0dd9ce46ace8be486ad45ff755cbf88b06772a475176ee4c8"
+    },
+    {
+      "id": "1476744755877515374",
+      "name": "clock.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984291154001981/1476744755877515374/clock.png?ex=69a23d3a&is=69a0ebba&hm=767fb06d1a6960fd630360860c10c6013937ae50a2c180dba13da68d6b791053&",
+      "timestamp": 1772153786258,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "1 Slot / Uncrafter Variation",
+      "size": 153731,
+      "canDownload": true,
+      "width": 1200,
+      "height": 987,
+      "path": "images/clock.png",
+      "hash": "7185e55d8c714f9d2ff19bd418a8cd296061997b82fa9f5c332a59f494c8a85d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984296610791597",
+      "name": "ACC009_Compact_SS2_1wAB_Crafter_Mono.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984291154001981/1454984296610791597/Compact_SS2_1wAB_Crafter_Mono.litematic?ex=69531338&is=6951c1b8&hm=30d421b0bd4b76feb9df0fd8dc8757f3c786e9f5ed971258f3b9c96ff1ba784d&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACC009_Compact_SS2_1wAB_Crafter_Mono.litematic",
+      "litematic": {
+        "size": "2x6x9",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965688000,
+      "hash": "2906d5dc990c05038ceea4ef463eeea22fd791b65a39ebb38513d3fd4a1ce377",
+      "size": 1277
+    },
+    {
+      "id": "1304574117000904704",
+      "name": "ACC009_Compact_SS2_1wAB_Crafter_Mono_Locked.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304489511534985337/1304574117000904704/Compact_SS2_1wAB_Crafter_Mono_Locked.litematic?ex=69a21b53&is=69a0c9d3&hm=dd7cc0edd190979e529bc52b30686943b9c546b51eaabe58715052a3b1aa0c87&",
+      "timestamp": 1772153754994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Hopper-locked version. Make sure to never have SS15 above a comparator",
+      "canDownload": true,
+      "hash": "fd4490408c6b156f8de3fa6301577a8c6000d62b3da220f125e769afcdc905d6",
+      "path": "attachments/ACC009_Compact_SS2_1wAB_Crafter_Mono_Locked.litematic",
+      "size": 1291,
+      "litematic": {
+        "size": "2x7x9",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1304574163532386314",
+      "name": "ACC009_Compact_SS2_1wAB_Crafter_Clock.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304489511534985337/1304574163532386314/Compact_SS2_1wAB_Crafter_Clock.litematic?ex=69a21b5e&is=69a0c9de&hm=f484a315bc8c3b29293f797a179fc041f9cfbb55d3beece33422429fbbf9b011&",
+      "timestamp": 1772153786258,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "1 Slot / Uncrafter Variation",
+      "canDownload": true,
+      "hash": "8df99ece8dff2774b868d78e043aa1f90d7e572f1a99967deb05376cd945b3bd",
+      "path": "attachments/ACC009_Compact_SS2_1wAB_Crafter_Clock.litematic",
+      "size": 1377,
+      "litematic": {
+        "size": "2x7x9",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Crafts filtered items. Works with 2-9 slot crafts. Can be adapted to be 1 slot. 1 slot and hopper locked variations are in the thread.",
+    "features": [
+      "Compact",
+      "Signal Strength Isolated"
+    ],
+    "considerations": [
+      "Expensive",
+      "AB tileable"
+    ],
+    "instructions": [
+      "The lower filter hopper must be configured to output signal strength 1 when read from the comparator. This comparator subtracts from the comparator reading the top filter hopper to make the filter circuit smaller."
+    ],
+    "notes": "Includes hopperlocked and 1 Slot / Uncrafter clocked versions.",
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476745758081548561",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476745769406169290"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476745758081548561",
+    "uploadMessageId": "1476745756189786314"
+  },
+  "archivedAt": 1772154024071,
+  "updatedAt": 1772154024071,
+  "num_comments": 0
+}
