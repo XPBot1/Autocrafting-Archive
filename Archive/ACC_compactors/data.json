@@ -4,7 +4,7 @@
   "code": "ACC",
   "category": "Curated Archive",
   "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1452078536528756896",
@@ -50,6 +50,11 @@
       "id": "1454984291154001981",
       "code": "ACC009",
       "path": "ACC009_1wABt_1x_SS2_SSI_Compactor"
+    },
+    {
+      "id": "1454984312062611466",
+      "code": "ACC010",
+      "path": "ACC010_1wt_2x_HS_Compactor"
     }
   ]
 }

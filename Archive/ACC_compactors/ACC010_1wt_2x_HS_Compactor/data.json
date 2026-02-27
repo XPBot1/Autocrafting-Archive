@@ -1,0 +1,115 @@
+{
+  "id": "1454984312062611466",
+  "name": "1wt 2x HS Compactor",
+  "code": "ACC010",
+  "reservedCodes": [
+    "ACC010"
+  ],
+  "pastPostThreadIds": [
+    "1476746638457442395"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "537147165202710528",
+      "username": "cled0328",
+      "displayName": "cled0328",
+      "iconURL": "https://cdn.discordapp.com/avatars/537147165202710528/1aead5762ad2c160fd02aa3cb5778a30.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984312805130333",
+      "name": "thumb.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984312062611466/1454984312805130333/thumb.png?ex=69a22d3c&is=69a0dbbc&hm=1ebd26d28c1312fae4a11a3d92a7c43efee8d48cb40133ca9f1ce1871bdfa0f0&",
+      "timestamp": 1766965692297,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11603,
+      "canDownload": true,
+      "width": 960,
+      "height": 957,
+      "path": "images/thumb.png",
+      "hash": "70a7e41d78afc3b19dda5c04370324541cb8f7bf05e10e7522f1aa7da36b2f48"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984317850620127",
+      "name": "ACC010_1wt_2x_Compactor_by_cled0328.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984312062611466/1454984317850620127/1wt_2x_Compactor_by_cled0328.litematic?ex=69a22d3d&is=69a0dbbd&hm=eae6fd0631440318341951296d12acc18314ddd3aa528593fffb3549beed41e4&",
+      "timestamp": 1766965693735,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "(no content)",
+      "size": 20347,
+      "canDownload": true,
+      "hash": "7151fa8809e5129bbf34054ad5f1a8523478ac8016d77380489ad6f15155acdd",
+      "path": "attachments/ACC010_1wt_2x_Compactor_by_cled0328.litematic",
+      "litematic": {
+        "size": "1x6x6",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "This compactor prevents double firing of the crafter by preventing a block update to the dropper. This is achieved by powering the noteblock on the second pulse.",
+    "features": [
+      "Can be used for recipes with 4-9 items.",
+      "Prevents double firing of the crafter by preventing a block update to the dropper.",
+      "Achieved by powering the noteblock on the second pulse."
+    ],
+    "notes": "The composter is there to make the dropper silent by placing any non-compostable item into the dropper."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476746638457442395",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476746645956989142"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476746638457442395",
+    "uploadMessageId": "1476746635915694243"
+  },
+  "archivedAt": 1772154233829,
+  "updatedAt": 1772154233829,
+  "num_comments": 0
+}
