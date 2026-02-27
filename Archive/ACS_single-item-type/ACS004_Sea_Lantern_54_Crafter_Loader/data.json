@@ -1,0 +1,153 @@
+{
+  "id": "1454984864498716774",
+  "name": "Sea Lantern 5:4 Crafter Loader",
+  "code": "ACS004",
+  "reservedCodes": [
+    "ACS004"
+  ],
+  "pastPostThreadIds": [
+    "1477013986611433532"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "tuzier"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984865060487339",
+      "name": "minimal_prefill.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984864498716774/1454984865060487339/area_render.png?ex=69590280&is=6957b100&hm=85ef3362028c88c3cbf6c1238030fc8a5657e765fba8685b512256b278400721&",
+      "description": "Minimal prefill filters variant",
+      "canDownload": true,
+      "width": 800,
+      "height": 611,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965824000,
+      "path": "images/minimal_prefill.png",
+      "hash": "05ee63b3f18482459af5ed57a9a9d1668f0f6716c7bb34b4adb3c11b257ec372"
+    },
+    {
+      "id": "1454984864800702524",
+      "name": "prefill_filters.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984864498716774/1454984864800702524/area_render_1_.png?ex=69590280&is=6957b100&hm=b356d5ad683438bfab936f74170b54d50f6bdb5e60102e483aaff295320d5752&",
+      "description": "Fully prefilled filters variant",
+      "canDownload": true,
+      "width": 782,
+      "height": 603,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965824000,
+      "path": "images/prefill_filters.png",
+      "hash": "9aaf6f5a16ed22bfb8a9b1b2c49bef7491424b4adf0a6150fdac5441d57805ca"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984871918305505",
+      "name": "ACS004_minimal_prefill_5_4_crafter_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984864498716774/1454984871918305505/minimal_prefill_5_4_crafter_loader.litematic?ex=69a2d681&is=69a18501&hm=81f8acd0c4ac12a4ed752272f684e609a7991744327159032185cbd2047c8430&",
+      "timestamp": 1766965825843,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984790854860982",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984790854860982/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Minimal prefill variant",
+      "size": 2479,
+      "canDownload": true,
+      "hash": "1fec66c628dbad351775c2d300c11f7bc6c54f657a2c6409332da0a76e542bff",
+      "path": "attachments/ACS004_minimal_prefill_5_4_crafter_loader.litematic",
+      "litematic": {
+        "size": "11x7x9",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1454984872136282225",
+      "name": "ACS004_5_4_crafter_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984864498716774/1454984872136282225/5_4_crafter_loader.litematic?ex=69590281&is=6957b101&hm=d6e54afbb3eaa82322b38d0d0b95f1c6055bba3603622b2fd2e18ad8d0aa1c59&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACS004_5_4_crafter_loader.litematic",
+      "litematic": {
+        "size": "12x6x7",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965825000,
+      "hash": "e84ad800120ff31e5f14182013e07b1b93c69df17e7b609de6a0803024a9c999",
+      "size": 2453
+    }
+  ],
+  "records": {
+    "description": "An automated crafting device designed for recipes with a 4:5 ratio, primarily useful for crafting Sea Lanterns in a guardian farm.",
+    "features": [
+      "Supports crafting any recipe with a 4:5 ratio",
+      "Four crafters to one box loader, 7.2 minutes per box.",
+      "Consumption rates: 18k/h prismarine crystals and 14k/h prismarine shards",
+      "Production rate: 3.6k/h sea lanterns"
+    ],
+    "notes": "In the non-minimal prefill version, items can easily skip empty hoppers.",
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1477013986611433532",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1477013997365629020"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1477013986611433532",
+    "uploadMessageId": "1477013984287789251"
+  },
+  "archivedAt": 1772217974558,
+  "updatedAt": 1772217974558,
+  "num_comments": 0
+}

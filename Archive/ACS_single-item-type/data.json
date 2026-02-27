@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -20,6 +20,11 @@
       "id": "1452710944412008518",
       "code": "ACS003",
       "path": "ACS003_Any_Duration_Rocket_crafter"
+    },
+    {
+      "id": "1454984864498716774",
+      "code": "ACS004",
+      "path": "ACS004_Sea_Lantern_54_Crafter_Loader"
     }
   ]
 }
