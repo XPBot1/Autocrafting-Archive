@@ -1,6 +1,6 @@
 {
   "id": "1452705500931162324",
-  "name": "# Flint and Steel crafter",
+  "name": "Flint and Steel crafter",
   "code": "ACS002",
   "reservedCodes": [
     "ACS002"
@@ -46,13 +46,13 @@
       "canDownload": true,
       "width": 790,
       "height": 800,
-      "path": "images/image.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "xp_bot"
+        "username": "Unknown"
       },
       "timestamp": 1766422401000,
+      "path": "images/image.png",
       "hash": "16dfaf98bdc43d0624232dc41891302fde5fde4d18c9ce9de606010b28e069f5"
     }
   ],
@@ -72,10 +72,9 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "xp_bot"
+        "username": "Unknown"
       },
       "timestamp": 1766422401000,
-      "size": 987,
       "hash": "1661d91698f209661644b20c04450d4c72cb734649f9d6ed08b3ab5bfb05815a"
     }
   ],
@@ -109,6 +108,6 @@
     "uploadMessageId": "1452708708151853123"
   },
   "archivedAt": 1766423145701,
-  "updatedAt": 1766423145701,
+  "updatedAt": 1772169371251,
   "num_comments": 0
 }

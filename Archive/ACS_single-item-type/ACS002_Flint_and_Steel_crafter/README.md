@@ -1,4 +1,4 @@
-# # Flint and Steel crafter
+# Flint and Steel crafter
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *geg2055*
