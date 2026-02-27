@@ -16,6 +16,8 @@ This compactor prevents double firing of the crafter by preventing a block updat
 - Achieved by powering the noteblock on the second pulse.
 ## Notes
 The composter is there to make the dropper silent by placing any non-compostable item into the dropper.
+## Compatibility
+1.21+
 
 ## Resources
 - [ACC010_1wt_2x_Compactor_by_cled0328.litematic](attachments/ACC010_1wt_2x_Compactor_by_cled0328.litematic): MC 1.21, Size 1x6x6 blocks

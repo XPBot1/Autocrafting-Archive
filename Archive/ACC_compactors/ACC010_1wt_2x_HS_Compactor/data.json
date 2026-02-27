@@ -95,7 +95,8 @@
       "Prevents double firing of the crafter by preventing a block update to the dropper.",
       "Achieved by powering the noteblock on the second pulse."
     ],
-    "notes": "The composter is there to make the dropper silent by placing any non-compostable item into the dropper."
+    "notes": "The composter is there to make the dropper silent by placing any non-compostable item into the dropper.",
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [],
@@ -110,6 +111,6 @@
     "uploadMessageId": "1476746635915694243"
   },
   "archivedAt": 1772154233829,
-  "updatedAt": 1772154233829,
+  "updatedAt": 1772154262527,
   "num_comments": 0
 }
