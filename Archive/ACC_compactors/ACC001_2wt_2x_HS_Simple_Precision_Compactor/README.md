@@ -1,4 +1,4 @@
-# 2wt 2x HS Simple Precision Compactor [1.21]
+# 2wt 2x HS Simple Precision Compactor
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *Glotz*
@@ -12,6 +12,8 @@
 A simple crafter that can be used for any same item type recipe that requires 2-9 slots.
 ## Notes
 Glass can be replaced with any block. Concrete needs to be a solid block. If desired, only one hopper can be used as well.
+## Compatibility
+1.21+
 
 ## Resources
 - [ACC001_2wt_2x_glotz_crafter.litematic](attachments/ACC001_2wt_2x_glotz_crafter.litematic): MC 1.21, Size 2x5x5 blocks

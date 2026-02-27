@@ -1,6 +1,6 @@
 {
   "id": "1452078536528756896",
-  "name": "2wt 2x HS Simple Precision Compactor [1.21]",
+  "name": "2wt 2x HS Simple Precision Compactor",
   "code": "ACC001",
   "reservedCodes": [
     "ACC001"
@@ -46,22 +46,26 @@
   ],
   "images": [
     {
-      "id": "1452078536838873213",
+      "id": "1476739677691318375",
       "name": "image.png",
-      "contentType": "image/webp",
-      "url": "https://cdn.discordapp.com/attachments/1452078536528756896/1452078536838873213/image.png?ex=69488105&is=69472f85&hm=918081a316313686171f061b7bcd3b11bf073b8993cdbfb59b6984d482dda697&",
-      "description": "",
-      "canDownload": true,
-      "width": 800,
-      "height": 800,
-      "path": "images/image.png",
-      "source": "MessageAttachment",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1452078536528756896/1476739677691318375/image.png?ex=69a2387f&is=69a0e6ff&hm=4800d3b226f07f09e22f33d8157a11b2dbaf61860b9206f79a902e41aad022f5&",
+      "timestamp": 1772152575735,
       "author": {
-        "type": "unknown",
-        "username": "xp_bot"
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
-      "timestamp": 1766272901000,
-      "hash": "3343b1bb53334900a98710cd55dbdf5965ee22c7b6e5fbdd79fd850c752242d9"
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 20566,
+      "canDownload": true,
+      "width": 638,
+      "height": 514,
+      "path": "images/image.png",
+      "hash": "f79ce417e88ecd196ad4ab1afe0b6fb4b7e46c2eaa4d8f4624d528932a31b372"
     }
   ],
   "attachments": [
@@ -80,20 +84,18 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "xp_bot"
+        "username": "Unknown"
       },
       "timestamp": 1766273277000,
-      "size": 18760,
       "hash": "7e2fcbde77e36a5800fc59a007dac01accc5e11d05adc4b5bab38d099e2f9513"
     }
   ],
   "records": {
     "description": "A simple crafter that can be used for any same item type recipe that requires 2-9 slots.",
-    "features": [],
-    "instructions": [],
-    "considerations": [],
-    "notes": "Glass can be replaced with any block. Concrete needs to be a solid block. If desired, only one hopper can be used as well."
+    "notes": "Glass can be replaced with any block. Concrete needs to be a solid block. If desired, only one hopper can be used as well.",
+    "compatibility": "1.21+"
   },
+  "styles": {},
   "references": [],
   "author_references": [],
   "post": {
@@ -106,6 +108,6 @@
     "uploadMessageId": "1452080549618253836"
   },
   "archivedAt": 1766273381256,
-  "updatedAt": 1766273381256,
+  "updatedAt": 1772152621408,
   "num_comments": 0
 }
