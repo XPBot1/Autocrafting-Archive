@@ -1,0 +1,170 @@
+{
+  "id": "1454984738086588427",
+  "name": "1wABt 8gt Box to Box Uncrafter [1.21]",
+  "code": "ACD001",
+  "reservedCodes": [
+    "ACD001"
+  ],
+  "pastPostThreadIds": [
+    "1476800574065348628"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "displayName": "CommandLeo",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072438539223076",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1304784312058777661",
+      "name": "box loading"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984739390882025",
+      "name": "Box_to_Box_uncrafter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984738086588427/1454984739390882025/Box_to_Box_uncrafter.png?ex=69590262&is=6957b0e2&hm=7c0b1408ae2c6cac4c2b0852a4cd14914ec207eac2c69c83d2b8c8cf03303a91&",
+      "description": "",
+      "canDownload": true,
+      "width": 725,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965793000,
+      "path": "images/Box_to_Box_uncrafter.png",
+      "hash": "134d365a15d940137126838f68f86ee114e7315c1e96a0ab38d916f372754a6d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984745409839352",
+      "name": "ACD001_1wABt_B2B_Uncrafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984738086588427/1454984745409839352/1wABt_B2B_Uncrafter.litematic?ex=69590263&is=6957b0e3&hm=e7c3b8265145541fde231823234e14a408da3d5d6efad50c9a4f18687d81dca0&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACD001_1wABt_B2B_Uncrafter.litematic",
+      "litematic": {
+        "size": "2x13x12",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965795000,
+      "hash": "888d83d254f2b230ca65480ddf200849434dfaab9bac7d5f535e70c236d50f8e"
+    }
+  ],
+  "records": {
+    "description": "A device that crafts any single item recipe at 8gt speed, mainly useful for uncrafting or decompacting blocks. Input and output are both boxes, allowing for decompacting at 9x HS. Designed as a 'Virtual Bulk' to produce decompressed items on demand from block form storage.",
+    "features": [
+      "Overflow Protected, stops crafting when bottom chest is full",
+      "Crafts single item recipes at 8gt speed",
+      "Box to box: Up to 9x HS decompacting",
+      "Can be disabled via lever"
+    ],
+    "considerations": [
+      "Multiple toggle states",
+      "Buffers one box"
+    ],
+    "notes": "This contraption has multiple toggle stats so don't even think about using it it without an Chunk loader, also be prepared to rebuild it if it ever breaks. Also, make sure the Loader Box Dispenser is not updated and becomes QC powered or update any dust  once build.",
+    "compatibility": "1.21+",
+    "sourced-components": "- Uses <@297566644295827457> Full Speed Loader: https://discord.com/channels/748542142347083868/749135718701465641/1015487227922481192\n- Uses <@244529884846751745>  Unloader: https://discord.com/channels/748542142347083868/749136352549011547/749960415802425364."
+  },
+  "styles": {
+    "sourced-components": {
+      "depth": 2,
+      "headerText": "Sourced Components"
+    }
+  },
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-external",
+        "id": "297566644295827457",
+        "username": "walter7381",
+        "iconURL": "https://cdn.discordapp.com/avatars/297566644295827457/e8c32e9b66251cd84d0ff09adc818410.webp"
+      },
+      "matches": [
+        "<@297566644295827457>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749135718701465641/1015487227922481192",
+      "server": "748542142347083868",
+      "channel": "749135718701465641",
+      "message": "1015487227922481192",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749135718701465641/1015487227922481192"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "244529884846751745",
+        "username": "raffq",
+        "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp",
+        "displayName": "Raffq"
+      },
+      "matches": [
+        "<@244529884846751745>"
+      ]
+    },
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/749136352549011547/749960415802425364",
+      "server": "748542142347083868",
+      "channel": "749136352549011547",
+      "message": "749960415802425364",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/749136352549011547/749960415802425364"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1476800574065348628",
+    "forumId": "1302288179273142352",
+    "continuingMessageIds": [
+      "1476800583448133662"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476800574065348628",
+    "uploadMessageId": "1476800572299542528"
+  },
+  "archivedAt": 1772167093392,
+  "updatedAt": 1772167093392,
+  "num_comments": 0
+}
