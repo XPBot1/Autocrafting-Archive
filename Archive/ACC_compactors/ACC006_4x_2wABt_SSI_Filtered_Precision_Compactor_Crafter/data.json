@@ -1,6 +1,6 @@
 {
   "id": "1454984216327491584",
-  "name": "4x 2wABt SSI Filtered Precision Compactor Crafter [1.21]",
+  "name": "4x 2wABt SSI Filtered Precision Compactor Crafter",
   "code": "ACC006",
   "reservedCodes": [
     "ACC006"
@@ -201,6 +201,6 @@
     "uploadMessageId": "1476736599000875110"
   },
   "archivedAt": 1772151160126,
-  "updatedAt": 1772151840738,
+  "updatedAt": 1772152316226,
   "num_comments": 0
 }

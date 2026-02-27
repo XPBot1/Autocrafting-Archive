@@ -1,4 +1,4 @@
-# 4x 2wABt SSI Filtered Precision Compactor Crafter [1.21]
+# 4x 2wABt SSI Filtered Precision Compactor Crafter
 <img alt="2wABt_4x_Precision_Compactor.png" src="images/2wABt_4x_Precision_Compactor.png?raw=1" height="300px">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*

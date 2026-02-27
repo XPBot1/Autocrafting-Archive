@@ -19,7 +19,7 @@ A precision compactor loader device with SSI and SS3 versions, created by geg205
 ## Instructions
 1. For SSI filter setup, see [ACG001 How to setup SSI filters](https://discord.com/channels/856232076252282890/1476712442703773726)
 ## Notes
-It is generally a better idea to use the [4x (ACC006)](../../../Archive/ACC_compactors/ACC006_4x_2wABt_SSI_Filtered_Precision_Compactor_Crafter_1.21) or [6x (ACC004)](../../../Archive/ACC_compactors/ACC004_3wt_filtered_6x_precision_compactor) Compactor Loaders, if the filtered item type doesn't change between slices.
+It is generally a better idea to use the [4x (ACC006)](../../../Archive/ACC_compactors/ACC006_4x_2wABt_SSI_Filtered_Precision_Compactor_Crafter) or [6x (ACC004)](../../../Archive/ACC_compactors/ACC004_3wt_filtered_6x_precision_compactor) Compactor Loaders, if the filtered item type doesn't change between slices.
 ## Compatibility
 1.21+
 
