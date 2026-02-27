@@ -1,0 +1,129 @@
+{
+  "id": "1454984216327491584",
+  "name": "4x 2wABt SSI Filtered Precision Compactor Crafter [1.21]",
+  "code": "ACC006",
+  "reservedCodes": [
+    "ACC006"
+  ],
+  "pastPostThreadIds": [
+    "1476733744965488765"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984216633802825",
+      "name": "2wABt_4x_Precision_Compactor.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984216327491584/1454984216633802825/2wABt_4x_Precision_Compactor.png?ex=69531325&is=6951c1a5&hm=7875d2043779fbd95cc4bd11b7ec1a5f7a9971650e991ca54bd4ad15e54704dd&",
+      "description": "",
+      "canDownload": true,
+      "width": 751,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965669000,
+      "path": "images/2wABt_4x_Precision_Compactor.png",
+      "hash": "732c61c0b7b2f261cf92aa34a965dc879825db844289e6861bb941ea87404328"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1476733274276757584",
+      "name": "ACC006_4x_2wABt_SSI_precision_compactor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984216327491584/1476733274276757584/4x_2wABt_SSI_precision_compactor.litematic?ex=69a23288&is=69a0e108&hm=81c8ff686176e1fd04ec616b17eda8777b64a1a7f6a686b0dca7e7454392878b&",
+      "timestamp": 1772151048948,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1710,
+      "canDownload": true,
+      "hash": "dd7c531acd7a4de21c7bb3da959c5c3b34adc48beef65b1f2b8df2aa0d01073f",
+      "path": "attachments/ACC006_4x_2wABt_SSI_precision_compactor.litematic",
+      "litematic": {
+        "size": "6x8x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Can be used for recipes with 8 or 9 items.",
+    "features": [
+      "Low Threshold SSI Filter: It uses SSI filter with minimal Threshold and Prefill.",
+      "Precise Crafting: These crafters only start crafting when they detect a completely full SS9 crafter.",
+      "Global SS11 Line with Recovery Function: The system uses a global SS11 line to control the crafters. It can empty an overflowing crafter that has stopped by pulsing an SS15 signal."
+    ],
+    "instructions": [
+      "Setup filters according to ACG001",
+      "Input items using a waterstream"
+    ],
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1476711840992989339",
+      "code": "ACG001",
+      "name": "How to setup SSI filters",
+      "url": "https://discord.com/channels/856232076252282890/1476712442703773726",
+      "path": "Archive/ACG_guides/ACG001_How_to_setup_SSI_filters",
+      "matches": [
+        "ACG001"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1476733744965488765",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476733754830487713"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476733744965488765",
+    "uploadMessageId": "1476733743376105625"
+  },
+  "archivedAt": 1772151160126,
+  "updatedAt": 1772151160126,
+  "num_comments": 0
+}
