@@ -1,6 +1,6 @@
 {
   "id": "1454984303401242859",
-  "name": "3wt filtered 6x precision compactor (includes Loader version) [1.21]",
+  "name": "3wt filtered 6x precision compactor",
   "code": "ACC004",
   "reservedCodes": [
     "ACC004"
@@ -152,6 +152,6 @@
     "uploadMessageId": "1476717161614409900"
   },
   "archivedAt": 1772147206717,
-  "updatedAt": 1772151999861,
+  "updatedAt": 1772152058707,
   "num_comments": 0
 }

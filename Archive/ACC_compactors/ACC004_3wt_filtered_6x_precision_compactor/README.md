@@ -1,4 +1,4 @@
-# 3wt filtered 6x precision compactor (includes Loader version) [1.21]
+# 3wt filtered 6x precision compactor
 <img alt="image1.png" src="images/image1.png?raw=1" height="300px">
 
 **Authors:** *金合欢酱喵~ (acaciachan)*
