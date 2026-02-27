@@ -17,6 +17,8 @@ Small compactor that precisely crafts a 3x3 by using a prefilled inventory and i
 - Requires 36 stacks of items for pre-filling
 - Sorter is AND-gated and will only work if all 3 hoppers are above the threshold
 - High likelihood of skipping items while sorting; does not work with 4d aligners
+## Compatibility
+1.21+
 
 ## Other Images
 <img src="images/3wt_6x_Prefilled_Compactor_tuzi_er_2.png?raw=1" height="300px">

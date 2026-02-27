@@ -122,7 +122,8 @@
       "Requires 36 stacks of items for pre-filling",
       "Sorter is AND-gated and will only work if all 3 hoppers are above the threshold",
       "High likelihood of skipping items while sorting; does not work with 4d aligners"
-    ]
+    ],
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [],
@@ -137,6 +138,6 @@
     "uploadMessageId": "1476742877592948857"
   },
   "archivedAt": 1772153337817,
-  "updatedAt": 1772153337817,
+  "updatedAt": 1772153438894,
   "num_comments": 0
 }
