@@ -4,12 +4,17 @@
   "code": "ACD",
   "category": "Curated Archive",
   "description": "The opposite of compactors retuning block back to there base form.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1454984738086588427",
       "code": "ACD001",
       "path": "ACD001_1wABt_8gt_Box_to_Box_Uncrafter"
+    },
+    {
+      "id": "1454984727609082112",
+      "code": "ACD002",
+      "path": "ACD002_1wt_on_demand_decompactor"
     }
   ]
 }

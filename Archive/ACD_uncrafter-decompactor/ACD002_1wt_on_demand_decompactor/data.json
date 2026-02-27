@@ -1,0 +1,120 @@
+{
+  "id": "1454984727609082112",
+  "name": "1wt on demand decompactor",
+  "code": "ACD002",
+  "reservedCodes": [
+    "ACD002"
+  ],
+  "pastPostThreadIds": [
+    "1476808802664714240"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "201534038547103744",
+      "displayName": "Matt",
+      "username": "matt6134",
+      "iconURL": "https://cdn.discordapp.com/avatars/201534038547103744/9d7a10e458bbae3c7bb526af22a17bce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072438539223076",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072438539223077",
+      "name": "Recommended"
+    },
+    {
+      "id": "1304784336796782664",
+      "name": "on demand"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984727936110644",
+      "name": "uncrafter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984727609082112/1454984727936110644/uncrafter.png?ex=6959025f&is=6957b0df&hm=e760ef4506bce32337cf7fae2dc23775c714eea3c6cf3993677adb04cba9a58f&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965791000,
+      "path": "images/uncrafter.png",
+      "hash": "cbc5368a068f3c67c6f519f1866c75c869710bb2efc43163e3765aba535f116e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984733241901188",
+      "name": "ACD002_On-demand_Compacted_Block_Uncrafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984727609082112/1454984733241901188/On-demand_Compacted_Block_Uncrafter.litematic?ex=69590260&is=6957b0e0&hm=0ebf141aaabc5e079c0e0b6a3f48aeddf20944a9837a2e8990db9ba00b38c7f9&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACD002_On-demand_Compacted_Block_Uncrafter.litematic",
+      "litematic": {
+        "size": "1x4x4",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965792000,
+      "hash": "d892ec382f4b641b43b6a6c101dbd28a6c14c5910b2cec7cb40cb2341c9abf94"
+    }
+  ],
+  "records": {
+    "description": "An automatic decompactor device that processes compacted blocks input through a top hopper and outputs the decompacted items through a bottom hopper, decompacting only as needed.\n\nUse cases: logs to planks, bone blocks to bonemeal, gold blocks to ingots, etc.",
+    "features": [
+      "Only decompacts what is necessary, locks when output is full",
+      "Works with random input & output",
+      "Compatible with all 1x1 recipes except 1 to 1 like buttons for example"
+    ],
+    "considerations": [
+      "The bottom hopper and barrel can be replaced with a dropper if needed, however it operates short of 2x hopper speed only outputting 17k items per hour."
+    ],
+    "notes": "Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).",
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476808802664714240",
+    "forumId": "1302288179273142352",
+    "continuingMessageIds": [
+      "1476808810919104637"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476808802664714240",
+    "uploadMessageId": "1476808800894713998"
+  },
+  "archivedAt": 1772169055436,
+  "updatedAt": 1772169055436,
+  "num_comments": 0
+}
