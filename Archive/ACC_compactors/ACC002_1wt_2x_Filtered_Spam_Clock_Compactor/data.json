@@ -1,6 +1,6 @@
 {
   "id": "1454984249039130767",
-  "name": "1wt 2x Filtered Spam Clock Compactor  [1.21]",
+  "name": "1wt 2x Filtered Spam Clock Compactor",
   "code": "ACC002",
   "reservedCodes": [
     "ACC002"
@@ -144,7 +144,8 @@
     ],
     "instructions": [
       "For SSI filter setup, see ACG001"
-    ]
+    ],
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [
@@ -171,6 +172,6 @@
     "uploadMessageId": "1456656296802517230"
   },
   "archivedAt": 1767353846700,
-  "updatedAt": 1772146234425,
+  "updatedAt": 1772152382488,
   "num_comments": 0
 }
