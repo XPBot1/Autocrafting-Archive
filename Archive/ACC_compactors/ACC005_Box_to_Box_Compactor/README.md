@@ -1,4 +1,4 @@
-# Box to Box Compactor [1.21]
+# Box to Box Compactor
 <img alt="area_render_6_.png" src="images/area_render_6_.png?raw=1" height="300px">
 
 **Authors:** *XP_Bot, geg2055, Civic Dude*

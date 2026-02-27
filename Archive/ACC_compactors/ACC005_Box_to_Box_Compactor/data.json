@@ -1,6 +1,6 @@
 {
   "id": "1454984267045011720",
-  "name": "Box to Box Compactor [1.21]",
+  "name": "Box to Box Compactor",
   "code": "ACC005",
   "reservedCodes": [
     "ACC005"
@@ -140,6 +140,6 @@
     "uploadMessageId": "1476718525262332026"
   },
   "archivedAt": 1772147531791,
-  "updatedAt": 1772147531791,
+  "updatedAt": 1772152282204,
   "num_comments": 0
 }
