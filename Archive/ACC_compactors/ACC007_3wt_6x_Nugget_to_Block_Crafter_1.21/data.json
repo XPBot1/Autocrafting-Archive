@@ -102,7 +102,7 @@
         "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
       },
       "source": "MessageAttachment",
-      "description": "(no content)",
+      "description": "",
       "size": 1946,
       "canDownload": true,
       "hash": "2d9f6a7633e9cd63e3200e1a1c83e8cb164d749ee07771ae617a5378e8026a89",
@@ -135,6 +135,6 @@
     "uploadMessageId": "1476741513689043159"
   },
   "archivedAt": 1772153012748,
-  "updatedAt": 1772153012748,
+  "updatedAt": 1772153063609,
   "num_comments": 0
 }

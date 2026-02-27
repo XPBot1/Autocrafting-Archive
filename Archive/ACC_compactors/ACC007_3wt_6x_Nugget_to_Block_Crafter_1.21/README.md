@@ -22,4 +22,3 @@ This crafter uses a two-stage crafter to first convert nuggets into ingots and t
 
 ## Resources
 - [ACC007_3wt_6x_nugget_to_block_compactor.litematic](attachments/ACC007_3wt_6x_nugget_to_block_compactor.litematic): MC 1.20.4, Size 3x13x9 blocks
-  - (no content)
