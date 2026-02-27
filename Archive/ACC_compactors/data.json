@@ -4,7 +4,7 @@
   "code": "ACC",
   "category": "Curated Archive",
   "description": "Devices that uses a single item type and crafts it. Mainly used to compact blocks using the 3x3 grid but can also be used for other recipes if possible.",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1452078536528756896",
@@ -40,6 +40,11 @@
       "id": "1454984321646592228",
       "code": "ACC007",
       "path": "ACC007_3wt_6x_Nugget_to_Block_Crafter_1.21"
+    },
+    {
+      "id": "1454984333424066600",
+      "code": "ACC008",
+      "path": "ACC008_3wt_6x_Prefilled_Compactor_Loader"
     }
   ]
 }

@@ -1,0 +1,142 @@
+{
+  "id": "1454984333424066600",
+  "name": "3wt 6x Prefilled Compactor Loader",
+  "code": "ACC008",
+  "reservedCodes": [
+    "ACC008"
+  ],
+  "pastPostThreadIds": [
+    "1476742881359171677"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "1253968886240383080",
+      "username": "tuzier",
+      "iconURL": "https://cdn.discordapp.com/avatars/1253968886240383080/b20bd38452c858f195210ec8e77b1093.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284967990651125881",
+      "name": "Prefilled Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    },
+    {
+      "id": "1284968050831134750",
+      "name": "Box Loader"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984338839175340",
+      "name": "3wt_6x_Prefilled_Compactor_tuzi_er_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984333424066600/1454984338839175340/3wt_6x_Prefilled_Compactor_tuzi_er_1.png?ex=69a22d42&is=69a0dbc2&hm=28a823fe7c01978f2becdde7b5498a98be6cdb854fba090849564209ee900180&",
+      "timestamp": 1766965697390,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 78656,
+      "canDownload": true,
+      "width": 788,
+      "height": 859,
+      "path": "images/3wt_6x_Prefilled_Compactor_tuzi_er_1.png",
+      "hash": "105b38ae1aa81d3a7e62cfa851b100abed38dd7015c6bb71313c72d7f3ff247a"
+    },
+    {
+      "id": "1454984339245895843",
+      "name": "3wt_6x_Prefilled_Compactor_tuzi_er_2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984333424066600/1454984339245895843/3wt_6x_Prefilled_Compactor_tuzi_er_2.png?ex=69a22d42&is=69a0dbc2&hm=cb31bc948a47e5b20613877c747d869d0087d8078b0abdc60a9f989fc95ff6fa&",
+      "timestamp": 1766965697390,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 60824,
+      "canDownload": true,
+      "width": 720,
+      "height": 742,
+      "path": "images/3wt_6x_Prefilled_Compactor_tuzi_er_2.png",
+      "hash": "b13d3d18e22204a693ec8f504b34262fc1a6c694ce7b6c82d54e2c7fc9eeecad"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984346804027580",
+      "name": "ACC008_3wt_6x_Prefilled_Compactor_tuzi_er.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984333424066600/1454984346804027580/3wt_6x_Prefilled_Compactor_tuzi_er.litematic?ex=69a22d44&is=69a0dbc4&hm=73f52e81baa05b4072bfda0c865d4fb029a10f1938d8644fb9a3499e4c05a45d&",
+      "timestamp": 1766965700540,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1379,
+      "canDownload": true,
+      "hash": "008ff9c38f8c6d8606bcdbc70d1f63274ccc0618c69fffe3c7c4881e4c6ca307",
+      "path": "attachments/ACC008_3wt_6x_Prefilled_Compactor_tuzi_er.litematic",
+      "litematic": {
+        "size": "3x5x7",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Small compactor that precisely crafts a 3x3 by using a prefilled inventory and includes a box loader.",
+    "features": [
+      "Compact size",
+      "Box loader"
+    ],
+    "considerations": [
+      "Requires 36 stacks of items for pre-filling",
+      "Sorter is AND-gated and will only work if all 3 hoppers are above the threshold",
+      "High likelihood of skipping items while sorting; does not work with 4d aligners"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476742881359171677",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476742890679173152"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476742881359171677",
+    "uploadMessageId": "1476742877592948857"
+  },
+  "archivedAt": 1772153337817,
+  "updatedAt": 1772153337817,
+  "num_comments": 0
+}
