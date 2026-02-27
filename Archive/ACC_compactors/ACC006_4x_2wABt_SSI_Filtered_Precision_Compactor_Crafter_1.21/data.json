@@ -75,7 +75,7 @@
         "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
       },
       "source": "MessageAttachment",
-      "description": "",
+      "description": "4x input base compactor, no box loader, dropper output",
       "size": 1710,
       "canDownload": true,
       "hash": "dd7c531acd7a4de21c7bb3da959c5c3b34adc48beef65b1f2b8df2aa0d01073f",
@@ -84,14 +84,90 @@
         "size": "6x8x7",
         "version": "1.21.4"
       }
+    },
+    {
+      "id": "1476735376868511926",
+      "name": "ACC006_4w_8x_SSI_precision_compactor_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984216327491584/1476735376868511926/4w_8x_SSI_precision_compactor_loader.litematic?ex=69a2347e&is=69a0e2fe&hm=c5c4614efeb1c14b9ab1ed96a21fccfec5dfb2039efff20ba4c18e155a0054ec&",
+      "timestamp": 1772151550375,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "8x input, box loader variant",
+      "size": 1781,
+      "canDownload": true,
+      "hash": "787e9b94580e1f12104eb0f847f50b776d69533383c06186f6284ce213e6090d",
+      "path": "attachments/ACC006_4w_8x_SSI_precision_compactor_loader.litematic",
+      "litematic": {
+        "size": "5x9x8",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1476735376537288744",
+      "name": "ACC006_8w_16x_SSI_precision_compactor_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984216327491584/1476735376537288744/8w_16x_SSI_precision_compactor_loader.litematic?ex=69a2347e&is=69a0e2fe&hm=c9745f55fcb4cf2b8d25883e4eddc33958ffeed4230aa354aa13ca0b9b7ae24b&",
+      "timestamp": 1772151550375,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16x input, box loader variant",
+      "size": 2154,
+      "canDownload": true,
+      "hash": "335f3e783129374747c1704ce98c01ce8f643117e4bc4b6da26c36c8d8aba1ee",
+      "path": "attachments/ACC006_8w_16x_SSI_precision_compactor_loader.litematic",
+      "litematic": {
+        "size": "9x9x8",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1476735376268984450",
+      "name": "ACC006_12w_24x_SSI_precision_compactor_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984216327491584/1476735376268984450/12w_24x_SSI_precision_compactor_loader.litematic?ex=69a2347e&is=69a0e2fe&hm=6f074b52a5aaefd0e779ef5606f3ebd3a4145e16940f087a76372626120ab257&",
+      "timestamp": 1772151550375,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "24x input, box loader variant",
+      "size": 2458,
+      "canDownload": true,
+      "hash": "5656a111bb99c0518cb1eae96e881d4bfaac445fd78deb311fb5f082b30a4b69",
+      "path": "attachments/ACC006_12w_24x_SSI_precision_compactor_loader.litematic",
+      "litematic": {
+        "size": "13x9x8",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
-    "description": "Can be used for recipes with 8 or 9 items.",
+    "description": "Filters and then uses crafter to compact items (eg such as iron ingots) with 8/9 items to 1 crafting recipes.",
     "features": [
       "Low Threshold SSI Filter: It uses SSI filter with minimal Threshold and Prefill.",
       "Precise Crafting: These crafters only start crafting when they detect a completely full SS9 crafter.",
-      "Global SS11 Line with Recovery Function: The system uses a global SS11 line to control the crafters. It can empty an overflowing crafter that has stopped by pulsing an SS15 signal."
+      "Global SS11 Line with Recovery Function: The system uses a global SS11 line to control the crafters. It can empty an overflowing crafter that has stopped by pulsing an SS15 signal.",
+      "Includes box loader variants for 8x, 16x, and 24x."
+    ],
+    "considerations": [
+      "For box loader variants, there is a small chance (~1 in 50 million boxes) of losing a box"
     ],
     "instructions": [
       "Setup filters according to ACG001",
@@ -118,12 +194,13 @@
     "threadId": "1476733744965488765",
     "forumId": "1284967048870498324",
     "continuingMessageIds": [
-      "1476733754830487713"
+      "1476733754830487713",
+      "1476736603086131351"
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1476733744965488765",
-    "uploadMessageId": "1476733743376105625"
+    "uploadMessageId": "1476736599000875110"
   },
   "archivedAt": 1772151160126,
-  "updatedAt": 1772151160126,
+  "updatedAt": 1772151840738,
   "num_comments": 0
 }
