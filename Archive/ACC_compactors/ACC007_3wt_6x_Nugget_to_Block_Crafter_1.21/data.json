@@ -1,0 +1,140 @@
+{
+  "id": "1454984321646592228",
+  "name": "3wt 6x Nugget to Block Crafter [1.21]",
+  "code": "ACC007",
+  "reservedCodes": [
+    "ACC007"
+  ],
+  "pastPostThreadIds": [
+    "1476741516272861345"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072433799528456",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1284967939673555005",
+      "name": "Precision Compactor"
+    },
+    {
+      "id": "1284967990651125881",
+      "name": "Prefilled Compactor"
+    },
+    {
+      "id": "1284968022850666547",
+      "name": "Tileable"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984322355302410",
+      "name": "3wt_6x_nugget_to_block_compactor_SS9.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984321646592228/1454984322355302410/3wt_6x_nugget_to_block_compactor_1.png?ex=69a22d3e&is=69a0dbbe&hm=f5d87e09015b1510b9bfff86beda5e4353d2323d28fef8cf535a59ecb8fe0e61&",
+      "timestamp": 1766965694582,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "SS9 detection version",
+      "size": 80985,
+      "canDownload": true,
+      "width": 865,
+      "height": 677,
+      "path": "images/3wt_6x_nugget_to_block_compactor_SS9.png",
+      "hash": "b1fb9f89d5449f46dc24c1a0bacb1ae66de2db6aab5c9ddec3aae6cf904176a6"
+    },
+    {
+      "id": "1454984322766340267",
+      "name": "3wt_6x_nugget_to_block_compactor_prefilled.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984321646592228/1454984322766340267/3wt_6x_nugget_to_block_compactor_2.png?ex=69a22d3e&is=69a0dbbe&hm=cf7ffba3d74180d53e3cf4db908c55a57d307a24691813f4dd9b90bbeb2b4681&",
+      "timestamp": 1766965694582,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Prefilled crafter version",
+      "size": 80301,
+      "canDownload": true,
+      "width": 865,
+      "height": 677,
+      "path": "images/3wt_6x_nugget_to_block_compactor_prefilled.png",
+      "hash": "58dc7650d430471b8930bd49d6d60a29022f8f88016fbabe4e5dcf3af9985ad2"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984329225834740",
+      "name": "ACC007_3wt_6x_nugget_to_block_compactor.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984321646592228/1454984329225834740/3wt_6x_nugget_to_block_compactor.litematic?ex=69a22d40&is=69a0dbc0&hm=d27d19d8d1b4affaeb96c00a0a9d4954367a7b94809ebff2b02a9453514f49c7&",
+      "timestamp": 1766965696450,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984207351681200",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984207351681200/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "(no content)",
+      "size": 1946,
+      "canDownload": true,
+      "hash": "2d9f6a7633e9cd63e3200e1a1c83e8cb164d749ee07771ae617a5378e8026a89",
+      "path": "attachments/ACC007_3wt_6x_nugget_to_block_compactor.litematic",
+      "litematic": {
+        "size": "3x13x9",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This crafter uses a two-stage crafter to first convert nuggets into ingots and then into blocks. It can also be used for other items, such as ice.",
+    "features": [
+      "Two-stage crafter: nuggets to ingots, then ingots to blocks",
+      "Can be used for other items such as ice",
+      "Two versions for the block crafting part: SS9 Detection Version, Prefilled Version (requires 9 stacks of gold ingots)"
+    ],
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1476741516272861345",
+    "forumId": "1284967048870498324",
+    "continuingMessageIds": [
+      "1476741527685562483"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1476741516272861345",
+    "uploadMessageId": "1476741513689043159"
+  },
+  "archivedAt": 1772153012748,
+  "updatedAt": 1772153012748,
+  "num_comments": 0
+}
