@@ -1,4 +1,4 @@
-# 1wABt 8gt Box to Box Uncrafter [1.21]
+# 1wABt 8gt Box to Box Uncrafter
 <img alt="Box_to_Box_uncrafter.png" src="images/Box_to_Box_uncrafter.png?raw=1" height="300px">
 
 **Authors:** *geg2055, CommandLeo*

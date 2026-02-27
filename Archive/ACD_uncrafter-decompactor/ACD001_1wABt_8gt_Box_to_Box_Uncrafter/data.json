@@ -1,6 +1,6 @@
 {
   "id": "1454984738086588427",
-  "name": "1wABt 8gt Box to Box Uncrafter [1.21]",
+  "name": "1wABt 8gt Box to Box Uncrafter",
   "code": "ACD001",
   "reservedCodes": [
     "ACD001"
@@ -165,6 +165,6 @@
     "uploadMessageId": "1476800572299542528"
   },
   "archivedAt": 1772167093392,
-  "updatedAt": 1772167093392,
+  "updatedAt": 1772167118349,
   "num_comments": 0
 }
