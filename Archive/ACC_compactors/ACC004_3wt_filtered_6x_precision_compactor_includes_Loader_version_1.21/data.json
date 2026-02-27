@@ -124,17 +124,20 @@
       "3 dusts (but lag is mitigated by green SS2 Line)",
       "No crafter recovery (needs to be cleaned out manually if crafter overflows)"
     ],
-    "notes": "We still suggest you build https://discord.com/channels/856232076252282890/1304491479691034715 if you need more than 3x of speed. also having a loader at each compactor is mostly unnecessary since the hopper speed gets reduced by 9 allowing a 162/h item stream satisfy a single 2x loader"
+    "notes": "We still suggest you build ACC006 if you need more than 3x of speed. also having a loader at each compactor is mostly unnecessary since the hopper speed gets reduced by 9 allowing a 162/h item stream satisfy a single 2x loader",
+    "compatibility": "1.21+"
   },
   "styles": {},
   "references": [
     {
-      "type": "discordLink",
-      "url": "https://discord.com/channels/856232076252282890/1304491479691034715",
-      "server": "856232076252282890",
-      "channel": "1304491479691034715",
+      "type": "archivedPost",
+      "id": "1454984216327491584",
+      "code": "ACC006",
+      "name": "4x 2wABt SSI Filtered Precision Compactor Crafter [1.21]",
+      "url": "https://discord.com/channels/856232076252282890/1476733744965488765",
+      "path": "Archive/ACC_compactors/ACC006_4x_2wABt_SSI_Filtered_Precision_Compactor_Crafter_1.21",
       "matches": [
-        "https://discord.com/channels/856232076252282890/1304491479691034715"
+        "ACC006"
       ]
     }
   ],
@@ -149,6 +152,6 @@
     "uploadMessageId": "1476717161614409900"
   },
   "archivedAt": 1772147206717,
-  "updatedAt": 1772147206717,
+  "updatedAt": 1772151999861,
   "num_comments": 0
 }
