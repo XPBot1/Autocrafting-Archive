@@ -1,0 +1,163 @@
+{
+  "id": "1454984821326614560",
+  "name": "1x golden carrot/melon crafting station v3",
+  "code": "ACS008",
+  "reservedCodes": [
+    "ACS008"
+  ],
+  "pastPostThreadIds": [
+    "1480743199910924443"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "349338062485979136",
+      "displayName": "TKperson",
+      "username": "tkpersona",
+      "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    },
+    {
+      "id": "1452072442242797624",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984821863481480",
+      "name": "render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984821863481480/hzl2qEt.png?ex=69b0ae35&is=69af5cb5&hm=fd9c9a5f5e67289efb3a07975262c0ac3fad8dbe41f19f8e618e8f752e182cf4&",
+      "timestamp": 1766965813715,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984790854860982",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984790854860982/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 120983,
+      "canDownload": true,
+      "width": 554,
+      "height": 937,
+      "path": "images/render.png",
+      "hash": "30f2266caee04e6e70ae3c7fe0a92bab5fc9018c100d369f2ee58e12280246d5"
+    },
+    {
+      "id": "1454984844231839818",
+      "name": "waterless.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984844231839818/YFNaDgK.png?ex=69b0ae3b&is=69af5cbb&hm=1b10eb34602e5d7466efd9b44187b969c360cd7a624268a6006be1f3731a8ef6&",
+      "timestamp": 1766965819321,
+      "author": {
+        "type": "discord-external",
+        "id": "1454984790854860982",
+        "username": "acarchiver",
+        "iconURL": "https://cdn.discordapp.com/avatars/1454984790854860982/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Waterless variant for the nether",
+      "size": 69182,
+      "canDownload": true,
+      "width": 358,
+      "height": 623,
+      "path": "images/waterless.png",
+      "hash": "55617da7ec080ea258e6ee2c602207db3fbef3ba9dbc4b70b23245a45b01b7fc"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984840351973430",
+      "name": "ACS008_golden_carrot_crafter_v3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984840351973430/golden_carrot_crafter_v3.litematic?ex=6959027a&is=6957b0fa&hm=865876188ebbef4c9b8e121414b987f208898555b918e263a397d8e87b8ef0ee&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACS008_golden_carrot_crafter_v3.litematic",
+      "litematic": {
+        "size": "6x11x5",
+        "version": "1.21.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965818000,
+      "hash": "62f9f5b93d120f0a93d1ae4ed614d486fc487fe5dbcca587ee65450ce0e1a802"
+    },
+    {
+      "id": "1454984843862606038",
+      "name": "ACS008_golden_carrot_crafter_v3_waterless.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984843862606038/golden_carrot_crafter_v3_waterless.litematic?ex=6959027b&is=6957b0fb&hm=3016f0aae7c02d00722ee4682db7cab72c5a0ca1b11fbc3b96f7666ec23f768b&",
+      "description": "Waterless variant for the nether",
+      "canDownload": true,
+      "path": "attachments/ACS008_golden_carrot_crafter_v3_waterless.litematic",
+      "litematic": {
+        "size": "6x11x5",
+        "version": "1.21.1"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965819000,
+      "hash": "5b318ac255a7c59e2d42e0e1d603dfadc0b62f694600b5eadf1a5e9b57e9c6b2"
+    }
+  ],
+  "records": {
+    "description": "Takes in boxes of gold blocks and boxes of carrots, and the crafter station outputs boxes of golden carrots.",
+    "features": [
+      "auto stops if it runs out of ingredients",
+      "recycles empty boxes from the carrot unloader.",
+      "spam proof input",
+      "integrated box loader"
+    ],
+    "considerations": [
+      "Multiple toggle states, make sure all lamps & rs blocks are in the correct state after building",
+      "requires at least a stack of gold blocks and 20 stacks of carrots to start the crafter",
+      "no overflow protection"
+    ],
+    "instructions": [
+      "Build the device using the provided Litematic.",
+      "Ensure all lamps and redstone blocks are in the correct state after building.",
+      "Input boxes of gold blocks and carrots to start crafting.",
+      "The device will automatically output boxes of golden carrots.",
+      "Access empty gold block boxes from the barrel via the trapdoor at the top."
+    ],
+    "notes": "- Inspired by cubicmetere auto crafting shulker box video and \"scheduling the comparator technique\" design and signal watcher made by geg2055\n- Waterless variant for the nether included",
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1480743199910924443",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1480743211181015212"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1480743199910924443",
+    "uploadMessageId": "1480743198119825459"
+  },
+  "archivedAt": 1773107088587,
+  "updatedAt": 1773107088587,
+  "num_comments": 0
+}

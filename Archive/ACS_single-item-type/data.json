@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -40,6 +40,11 @@
       "id": "1480740215101456576",
       "code": "ACS007",
       "path": "ACS007_Colored_Box_Crafter"
+    },
+    {
+      "id": "1454984821326614560",
+      "code": "ACS008",
+      "path": "ACS008_1x_golden_carrotmelon_crafting_station_v3"
     }
   ]
 }
