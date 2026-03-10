@@ -1,6 +1,6 @@
 {
   "id": "1454984849743024314",
-  "name": "Box crafter [1.21]",
+  "name": "Box crafter",
   "code": "ACS006",
   "reservedCodes": [
     "ACS006"
@@ -122,6 +122,6 @@
     "uploadMessageId": "1480739786712027438"
   },
   "archivedAt": 1773106275159,
-  "updatedAt": 1773106275159,
+  "updatedAt": 1773106343398,
   "num_comments": 0
 }

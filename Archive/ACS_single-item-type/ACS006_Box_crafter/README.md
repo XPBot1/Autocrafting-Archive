@@ -1,4 +1,4 @@
-# Box crafter [1.21]
+# Box crafter
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
 **Authors:** *金合欢酱喵~ (acaciachan), Mangelious, 萌萌的小公举(0awa), viommm*
