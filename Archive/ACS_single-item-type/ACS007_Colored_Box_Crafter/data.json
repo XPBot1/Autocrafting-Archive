@@ -1,0 +1,207 @@
+{
+  "id": "1480740215101456576",
+  "name": "Colored Box Crafter",
+  "code": "ACS007",
+  "reservedCodes": [
+    "ACS007"
+  ],
+  "pastPostThreadIds": [
+    "1480740890967408671"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "780631519249170477",
+      "username": "ethanmik",
+      "displayName": "EthanMik",
+      "iconURL": "https://cdn.discordapp.com/avatars/780631519249170477/f3196978299827389302fa86f34172a8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1480740216326062214",
+      "name": "sb1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1480740215101456576/1480740216326062214/sb1.png?ex=69b0c64a&is=69af74ca&hm=c758472506d44a265155e32a8082129f9fd67f700231ccc9b9f8e624f77c3148&",
+      "timestamp": 1773106378103,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 44192,
+      "canDownload": true,
+      "width": 257,
+      "height": 377,
+      "path": "images/sb1.png",
+      "hash": "52e07360e495d841ca69819618f260a5c2bc253333649d192d0dffa4b237cd45"
+    },
+    {
+      "id": "1480740217492213800",
+      "name": "sb2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1480740215101456576/1480740217492213800/sb2.png?ex=69b0c64a&is=69af74ca&hm=44fb488d01ca7f14f28a4d332b41c114c2e681738605fcafecdd1957399a8e4d&",
+      "timestamp": 1773106378103,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 52167,
+      "canDownload": true,
+      "width": 330,
+      "height": 390,
+      "path": "images/sb2.png",
+      "hash": "20aa30139cd77a4cb059ec005935c05b50f341e00cf005dd400c3bc4e3958c85"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "llxf7ab16gw",
+      "name": "ACS007_YouTube_Video_llxf7ab16gw.url",
+      "contentType": "youtube",
+      "url": "https://youtu.be/llxf7ab16gw",
+      "timestamp": 1773106378103,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Colored Box Crafter Setup Guide",
+        "author_name": "EthanMik",
+        "author_url": "https://www.youtube.com/@ethanmik2587",
+        "thumbnail_url": "https://i.ytimg.com/vi/llxf7ab16gw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    },
+    {
+      "id": "1480740217806651554",
+      "name": "ACS007_Colored_Box_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1480740215101456576/1480740217806651554/Colored_Box_Crafter.litematic?ex=69b0c64a&is=69af74ca&hm=aacb6e028430c1bb2026496dc03566233701b7e7accaf29537238cfecb6fa4e8&",
+      "timestamp": 1773106378103,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1846,
+      "canDownload": true,
+      "hash": "d12e241f75bb2fe865643de7953bd8a1c2302f5a8f79c6c63a16eb19a711f8cc",
+      "path": "attachments/ACS007_Colored_Box_Crafter.litematic",
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1480740218205245562",
+      "name": "ACS007_Colored_Box_Crafter_raw_dye_input.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1480740215101456576/1480740218205245562/Colored_Box_Crafter_raw_dye_input.litematic?ex=69b0c64a&is=69af74ca&hm=b7ccb05ef70489d8540c083825af633ef33c2dc173f18ec281913af744509421&",
+      "timestamp": 1773106378103,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1830,
+      "canDownload": true,
+      "hash": "88b1523deacc658e18aa53e2ee73c9f8c56487945688acb2f9f135272fe268d3",
+      "path": "attachments/ACS007_Colored_Box_Crafter_raw_dye_input.litematic",
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "Crafts colored boxes at 16gt, ideal for inputs of shulker loaders where you don't want to recolor boxes later. Based off of ACS006",
+    "features": [
+      "Crafts a colored box every 16gt",
+      "Two versions: Regular Dye Input (Put crafted dye into the loader), Raw Dye Input (Put uncrafted dye into the loader (e.g., bonemeal))"
+    ],
+    "considerations": [
+      "Breaks if it runs out of boxes",
+      "Raw input must be 1 to 1, so no tall flowers",
+      "Shulker unloaders cannot be activated within 4gt; there must be a difference in the log and shell and dye boxes. Follow the startup guide and always use full boxes to mitigate breakage"
+    ],
+    "instructions": [
+      "After the build is complete, remove the two hoppers where the shell and log boxes will go and place those boxes facing down",
+      "Take 8 logs out of the log box and craft them into 4 chests",
+      "Place the chests in the middle crafter and replace the two hoppers",
+      "Place the dye box and then put an item into the hopper with a comparator readout",
+      "Take the item out and place it again, then take it out again"
+    ],
+    "notes": "Video of startup guide: https://youtu.be/llxf7ab16gw",
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1454984849743024314",
+      "code": "ACS006",
+      "name": "Box crafter",
+      "url": "https://discord.com/channels/856232076252282890/1480739791703244821",
+      "path": "Archive/ACS_single-item-type/ACS006_Box_crafter",
+      "matches": [
+        "ACS006"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1480740890967408671",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1480740902292160715",
+      "1480740904137523375"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1480740890967408671",
+    "uploadMessageId": "1480740889306595379"
+  },
+  "archivedAt": 1773106538168,
+  "updatedAt": 1773106538168,
+  "num_comments": 0
+}
