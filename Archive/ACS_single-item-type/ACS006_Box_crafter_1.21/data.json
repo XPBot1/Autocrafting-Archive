@@ -1,0 +1,127 @@
+{
+  "id": "1454984849743024314",
+  "name": "Box crafter [1.21]",
+  "code": "ACS006",
+  "reservedCodes": [
+    "ACS006"
+  ],
+  "pastPostThreadIds": [
+    "1480739791703244821"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "656864003242328064",
+      "displayName": "金合欢酱喵~ (acaciachan)",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Mangelious",
+      "url": "https://t.bilibili.com/941319272125169670"
+    },
+    {
+      "type": "unknown",
+      "username": "萌萌的小公举(0awa)",
+      "url": "https://www.bilibili.com/video/av449806583/"
+    },
+    {
+      "type": "unknown",
+      "username": "viommm",
+      "url": "https://www.bilibili.com/video/av112587349951417/"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984850825281639",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984849743024314/1454984850825281639/area_render.png?ex=6959027c&is=6957b0fc&hm=853041b40b709a5938c63f4a6e06cd09ff7af32a6d422ee121b55c8e413be1d4&",
+      "description": "",
+      "canDownload": true,
+      "width": 604,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965820000,
+      "path": "images/area_render.png",
+      "hash": "a753736de0073569c03d79f60f3ccb2290e40493656ac8393cad6beaf5fa75c4"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1304497598987501599",
+      "name": "ACS006_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1304497540481290410/1304497598987501599/box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic?ex=672f9b8f&is=672e4a0f&hm=3e9bf8b0c9c359ba5ac874c10886d86db38dc9ff3f46a2c99116f51f3d7c68b5&",
+      "description": "litematic",
+      "canDownload": true,
+      "path": "attachments/ACS006_box_crafter_by_Mangelious_0awa_viommm_acaciachan.litematic",
+      "litematic": {
+        "size": "3x6x5",
+        "version": "1.20.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1769242389303,
+      "hash": "a18a1587c5f5933f7b6b697c62453c0d6c55ae0b2d7c9d5043205f1963260314"
+    }
+  ],
+  "records": {
+    "description": "A 16gt empty shulker box crafter that processes input boxes of logs and shulker shells. Includes a colored box crafter version.",
+    "features": [
+      "Crafts at 16 game ticks per cycle.",
+      "1:1 consumption ratio of logs and shells.",
+      "Design prevents breaking by maintaining an 8-log difference in raw materials.",
+      "Observer under comparator extends crafting cycle from 15t to 16t."
+    ],
+    "notes": "DO NOT power the noteblock to shutdown; instead, lock or cut the output hopper.",
+    "instructions": [
+      "After building is complete, remove the two hoppers under the box, then place the material box.",
+      "Take 8 logs from the box and craft them into 4 chests, then put them into the final crafter (box crafter).",
+      "Place the hopper under the box, then put an item into the detected hopper and take it out to ready the device."
+    ],
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1480739791703244821",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1480739806836162645"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1480739791703244821",
+    "uploadMessageId": "1480739786712027438"
+  },
+  "archivedAt": 1773106275159,
+  "updatedAt": 1773106275159,
+  "num_comments": 0
+}
