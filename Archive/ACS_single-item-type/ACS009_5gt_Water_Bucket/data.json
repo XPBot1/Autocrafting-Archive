@@ -1,0 +1,109 @@
+{
+  "id": "1454984809070989475",
+  "name": "5gt Water Bucket",
+  "code": "ACS009",
+  "reservedCodes": [
+    "ACS009"
+  ],
+  "pastPostThreadIds": [
+    "1480744213728722976"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "187539620026646529",
+      "displayName": "Sicarious",
+      "username": "sicarious",
+      "iconURL": "https://cdn.discordapp.com/avatars/187539620026646529/8a7863ec2e417ebd6d164c3e5fba653b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984809922171024",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984809070989475/1454984809922171024/image.png?ex=69590272&is=6957b0f2&hm=8a1f51d0d99e05fd8c8b932d6bd1888c4f928e99702451d0fd65046cbaf92d0b&",
+      "description": "",
+      "canDownload": true,
+      "width": 707,
+      "height": 589,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965810000,
+      "path": "images/image.png",
+      "hash": "c14241a83656ff5468f4b7f4295d60dcbd6b268a90b1f31e7856e62da4b8abbf"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984817127981181",
+      "name": "ACS009_Sicarious_Comapct_5gt_Water_Bucket_Factory.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984809070989475/1454984817127981181/Sicarious_Comapct_5gt_Water_Bucket_Factory.litematic?ex=69590274&is=6957b0f4&hm=4e1bb73601b0e64a33d6771e415a9a2e638d2ab948abde92ce3c961092383dd5&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACS009_Sicarious_Comapct_5gt_Water_Bucket_Factory.litematic",
+      "litematic": {
+        "size": "3x4x5",
+        "version": "1.21.4"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965812000,
+      "hash": "3cdc16d51b344fdfac65462aeb8deede13dcc42bd7304a3e5b28054f0cc0e024"
+    }
+  ],
+  "records": {
+    "description": "Converts Iron Blocks to Water Buckets on a 5gt Clock, using Fluid Tick Manipulation to ensure the water regenerates at the correct timing even when first turned on.",
+    "features": [
+      "Extremely compact",
+      "Outputs 14400 Water Buckets/hr, uses 4800 Iron Blocks/hr."
+    ],
+    "notes": "External overflow protection is required, otherwise when storage fills up, buckets will accumulate in the dispenser, leading to empty buckets in output.",
+    "instructions": [
+      "When building, to get the Hopper Minecart clipped inside the Observer, align Hopper Minecart against Fence first using a rail, then break the rail and simply push observer in from above.",
+      "How to use: Load up chest with Iron Blocks, then turn on lever."
+    ],
+    "compatibility": "1.21+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1480744213728722976",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1480744223278891160"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1480744213728722976",
+    "uploadMessageId": "1480744212407521401"
+  },
+  "archivedAt": 1773107330583,
+  "updatedAt": 1773107330583,
+  "num_comments": 0
+}
