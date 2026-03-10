@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -25,6 +25,11 @@
       "id": "1454984864498716774",
       "code": "ACS004",
       "path": "ACS004_Sea_Lantern_54_Crafter_Loader"
+    },
+    {
+      "id": "1454984796714434635",
+      "code": "ACS005",
+      "path": "ACS005_Iron_Block_to_Shears_Crafter"
     }
   ]
 }

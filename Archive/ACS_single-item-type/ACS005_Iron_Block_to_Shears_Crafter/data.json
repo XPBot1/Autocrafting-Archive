@@ -1,0 +1,142 @@
+{
+  "id": "1454984796714434635",
+  "name": "Iron Block to Shears Crafter",
+  "code": "ACS005",
+  "reservedCodes": [
+    "ACS005"
+  ],
+  "pastPostThreadIds": [
+    "1480738282462777457"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "displayName": "geg2055",
+      "username": "geg2048",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1452072442242797627",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454984798186504223",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984796714434635/1454984798186504223/image.png?ex=69590270&is=6957b0f0&hm=fb554fc4be3773c308cec0b0807a6e2cc5aa48ab1a19f78ed9a224515b6a3506&",
+      "description": "",
+      "canDownload": true,
+      "width": 550,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965807000,
+      "path": "images/image.png",
+      "hash": "ef06e298c835409d683cc1c683ad697169ecaf4daa7f9d658659ff82e4282650"
+    },
+    {
+      "id": "1454984798706864283",
+      "name": "image2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984796714434635/1454984798706864283/image2.png?ex=69590270&is=6957b0f0&hm=532ce85fd879353accf79f03ff207e0a7111fb6b3f439c7f08f4a8021586ceb8&",
+      "description": "",
+      "canDownload": true,
+      "width": 549,
+      "height": 800,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965807000,
+      "path": "images/image2.png",
+      "hash": "b0a1046cdd77915a817bebaa113ed3c2348865a1c032471e5881ddb590956835"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454984805589712978",
+      "name": "ACS005_Block_to_Shears_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984796714434635/1454984805589712978/Block_to_Shears_Crafter.litematic?ex=69590271&is=6957b0f1&hm=74a1df440a7b1236733ad8c26a621c7051f5b9f9c292d7e998445da8748914dc&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACS005_Block_to_Shears_Crafter.litematic",
+      "litematic": {
+        "size": "3x5x2",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965809000,
+      "hash": "7700c8f5625eb32f479eb39a25e6af7fcee67d412bc1aeec7bc0a60749b28589"
+    }
+  ],
+  "records": {
+    "description": "A device that crafts shears from iron blocks on demand, producing up to 6200 shears per hour. One double chest of iron blocks can yield 15,552 shears (equivalent to 3.7 million uses).",
+    "features": [
+      "On-demand crafting (only crafts shears when needed)",
+      "Iron block runout protection",
+      "Random input and output proof",
+      "Produces 6200 shears per hour"
+    ],
+    "instructions": [
+      "When building, before placing the observer next to the dust, create the shears recipe in the lower crafter with an equal amount of iron ingots (e.g., 32).",
+      "Ensure the dust is placed as a single dot."
+    ],
+    "notes": "Created by <@751816361034121217>. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "751816361034121217",
+        "username": "geg2048",
+        "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp",
+        "displayName": "geg2055"
+      },
+      "matches": [
+        "<@751816361034121217>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1480738282462777457",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1480738298908377220"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1480738282462777457",
+    "uploadMessageId": "1480738278595362998"
+  },
+  "archivedAt": 1773105915674,
+  "updatedAt": 1773105915674,
+  "num_comments": 0
+}
