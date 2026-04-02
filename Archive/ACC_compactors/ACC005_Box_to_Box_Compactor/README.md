@@ -25,7 +25,7 @@ The compactor always pushes 8 items before sending a crafting pulse. This ensure
 1.21+
 
 ## Acknowledgements:
-- HappyWater: Created box loader
+- Christone: Created box loader
 
 ## Resources
 - [ACC005_Box_to_Box_Compactor.litematic](attachments/ACC005_Box_to_Box_Compactor.litematic): MC 1.21, Size 3x12x6 blocks
