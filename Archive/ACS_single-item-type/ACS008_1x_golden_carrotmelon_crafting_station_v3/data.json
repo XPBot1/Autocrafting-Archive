@@ -78,48 +78,78 @@
       "height": 623,
       "path": "images/waterless.png",
       "hash": "55617da7ec080ea258e6ee2c602207db3fbef3ba9dbc4b70b23245a45b01b7fc"
+    },
+    {
+      "id": "1501676470462971974",
+      "name": "guide.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1501676470462971974/guide.png?ex=69fcf0b2&is=69fb9f32&hm=452501db68aeba2c0195759bd8dfd9215b51d06d78c0302bff5c861e26bd183a&",
+      "timestamp": 1778097970442,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The dispenser in requires some initial empty shulker boxes to package up the initial stacks of golden carrots. After that, it will recycle the boxes from the carrot unloader.",
+      "size": 135529,
+      "canDownload": true,
+      "width": 966,
+      "height": 1000,
+      "path": "images/guide.png",
+      "hash": "9e23efa1f6cab43b4dac69cdde14011fff2182668eefb47b74b32c07cba88618"
     }
   ],
   "attachments": [
     {
-      "id": "1454984840351973430",
-      "name": "ACS008_golden_carrot_crafter_v3.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984840351973430/golden_carrot_crafter_v3.litematic?ex=6959027a&is=6957b0fa&hm=865876188ebbef4c9b8e121414b987f208898555b918e263a397d8e87b8ef0ee&",
-      "description": "",
-      "canDownload": true,
-      "path": "attachments/ACS008_golden_carrot_crafter_v3.litematic",
-      "litematic": {
-        "size": "6x11x5",
-        "version": "1.21.1"
-      },
-      "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1766965818000,
-      "hash": "62f9f5b93d120f0a93d1ae4ed614d486fc487fe5dbcca587ee65450ce0e1a802"
-    },
-    {
-      "id": "1454984843862606038",
+      "id": "1501675566007324864",
       "name": "ACS008_golden_carrot_crafter_v3_waterless.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984843862606038/golden_carrot_crafter_v3_waterless.litematic?ex=6959027b&is=6957b0fb&hm=3016f0aae7c02d00722ee4682db7cab72c5a0ca1b11fbc3b96f7666ec23f768b&",
-      "description": "Waterless variant for the nether",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1501675566007324864/golden_carrot_crafter_v3_waterless.litematic?ex=69fcefda&is=69fb9e5a&hm=cb41393d8ae56bca19c01773b318a00af8f09bedef91de3850520a9c8e1d84e7&",
+      "timestamp": 1778097754904,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Waterless version can be built in any dimension and a little louder due to more droppers and pistons.",
+      "size": 2421,
       "canDownload": true,
+      "hash": "2feaad361de1b16f251cc64b4378baaca4334b2dab80bd709d108eb5c15d4e87",
       "path": "attachments/ACS008_golden_carrot_crafter_v3_waterless.litematic",
       "litematic": {
         "size": "6x11x5",
-        "version": "1.21.1"
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1501675566380744774",
+      "name": "ACS008_golden_carrot_crafter_v3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1501675566380744774/golden_carrot_crafter_v3.litematic?ex=69fcefda&is=69fb9e5a&hm=34d3079ffa504593ba4396d9f3453b84eab35cf40dbec4c1399e5eb5b514b7f1&",
+      "timestamp": 1778097754904,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
       },
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "Unknown"
-      },
-      "timestamp": 1766965819000,
-      "hash": "5b318ac255a7c59e2d42e0e1d603dfadc0b62f694600b5eadf1a5e9b57e9c6b2"
+      "description": "The water stream can be redirected to other places like an external storage.",
+      "size": 2466,
+      "canDownload": true,
+      "hash": "b8299fb714bbd2eeb5f5a6f77ce7380bf5fa4112b523d44082c19ceea4c9f9d1",
+      "path": "attachments/ACS008_golden_carrot_crafter_v3.litematic",
+      "litematic": {
+        "size": "6x11x5",
+        "version": "1.21.11"
+      }
     }
   ],
   "records": {
@@ -138,7 +168,8 @@
     "instructions": [
       "Build the device using the provided Litematic.",
       "Ensure all lamps and redstone blocks are in the correct state after building.",
-      "Input boxes of gold blocks and carrots to start crafting.",
+      "Input boxes of gold blocks and carrots to start crafting. When starting the device up for the first time, wait for 20 stacks of carrots to fill up some of the hoppers and droppers (this should take under 9 minutes).",
+      "Both copper bulbs are off means enough of gold blocks and carrots have been provided, and you can start the device.",
       "The device will automatically output boxes of golden carrots.",
       "Access empty gold block boxes from the barrel via the trapdoor at the top."
     ],
@@ -155,10 +186,10 @@
       "1480743211181015212"
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1480743199910924443",
-    "uploadMessageId": "1480743198119825459",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1480743205656854558/render.png?ex=69b2c353&is=69b171d3&hm=528610baf9ec174050acc2a6ee793a4ea286bab62768a3333ecf8dee62805228&"
+    "uploadMessageId": "1501679288867492003",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1501679296433881278/render.png?ex=69fcf354&is=69fba1d4&hm=ca8ca75745da78241e1c36de3c1b3b86a032ca27cf8f9ab1d1c416f3d50b26c2&"
   },
   "archivedAt": 1773107088587,
-  "updatedAt": 1773107088587,
+  "updatedAt": 1778098641296,
   "num_comments": 0
 }
