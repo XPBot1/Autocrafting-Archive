@@ -38,27 +38,6 @@
   ],
   "images": [
     {
-      "id": "1454984821863481480",
-      "name": "render.png",
-      "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984821863481480/hzl2qEt.png?ex=69b0ae35&is=69af5cb5&hm=fd9c9a5f5e67289efb3a07975262c0ac3fad8dbe41f19f8e618e8f752e182cf4&",
-      "timestamp": 1766965813715,
-      "author": {
-        "type": "discord-external",
-        "id": "1454984790854860982",
-        "username": "acarchiver",
-        "iconURL": "https://cdn.discordapp.com/avatars/1454984790854860982/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 120983,
-      "canDownload": true,
-      "width": 554,
-      "height": 937,
-      "path": "images/render.png",
-      "hash": "30f2266caee04e6e70ae3c7fe0a92bab5fc9018c100d369f2ee58e12280246d5"
-    },
-    {
       "id": "1454984844231839818",
       "name": "waterless.png",
       "contentType": "image/png",
@@ -117,35 +96,11 @@
         "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
       },
       "source": "MessageAttachment",
-      "description": "Waterless version can be built in any dimension and a little louder due to more droppers and pistons.",
+      "description": "Can be built in any dimension",
       "size": 2421,
       "canDownload": true,
       "hash": "2feaad361de1b16f251cc64b4378baaca4334b2dab80bd709d108eb5c15d4e87",
       "path": "attachments/ACS008_golden_carrot_crafter_v3_waterless.litematic",
-      "litematic": {
-        "size": "6x11x5",
-        "version": "1.21.11"
-      }
-    },
-    {
-      "id": "1501675566380744774",
-      "name": "ACS008_golden_carrot_crafter_v3.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1501675566380744774/golden_carrot_crafter_v3.litematic?ex=69fcefda&is=69fb9e5a&hm=34d3079ffa504593ba4396d9f3453b84eab35cf40dbec4c1399e5eb5b514b7f1&",
-      "timestamp": 1778097754904,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "349338062485979136",
-        "username": "tkpersona",
-        "displayName": "TKperson",
-        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "The water stream can be redirected to other places like an external storage.",
-      "size": 2466,
-      "canDownload": true,
-      "hash": "b8299fb714bbd2eeb5f5a6f77ce7380bf5fa4112b523d44082c19ceea4c9f9d1",
-      "path": "attachments/ACS008_golden_carrot_crafter_v3.litematic",
       "litematic": {
         "size": "6x11x5",
         "version": "1.21.11"
@@ -166,14 +121,14 @@
       "no overflow protection"
     ],
     "instructions": [
-      "Build the device using the provided Litematic.",
+      "Build the device using the provided Litematic. Look at the image attached below to see what blocks need to be prefilled.",
       "Ensure all lamps and redstone blocks are in the correct state after building.",
       "Input boxes of gold blocks and carrots to start crafting. When starting the device up for the first time, wait for 20 stacks of carrots to fill up some of the hoppers and droppers (this should take under 9 minutes).",
       "Both copper bulbs are off means enough of gold blocks and carrots have been provided, and you can start the device.",
       "The device will automatically output boxes of golden carrots.",
       "Access empty gold block boxes from the barrel via the trapdoor at the top."
     ],
-    "notes": "- Inspired by cubicmetere auto crafting shulker box video and \"scheduling the comparator technique\" design and signal watcher made by geg2055\n- Waterless variant for the nether included",
+    "notes": "- Inspired by cubicmetere auto crafting shulker box video and \"scheduling the comparator technique\" design and signal watcher made by geg2055",
     "compatibility": "1.21+"
   },
   "styles": {},
@@ -186,10 +141,10 @@
       "1480743211181015212"
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1480743199910924443",
-    "uploadMessageId": "1501679288867492003",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1501679296433881278/render.png?ex=69fcf354&is=69fba1d4&hm=ca8ca75745da78241e1c36de3c1b3b86a032ca27cf8f9ab1d1c416f3d50b26c2&"
+    "uploadMessageId": "1501748008423919751",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1501748017449926717/waterless.png?ex=69fd3354&is=69fbe1d4&hm=4ff897edd2a011c089a6aa65fb927a044663aa36061d221f57aded0cd03416ca&"
   },
   "archivedAt": 1773107088587,
-  "updatedAt": 1778098641296,
+  "updatedAt": 1778115025506,
   "num_comments": 0
 }

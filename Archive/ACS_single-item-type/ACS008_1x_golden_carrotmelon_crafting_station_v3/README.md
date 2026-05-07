@@ -1,5 +1,5 @@
 # 1x golden carrot/melon crafting station v3
-<img alt="render.png" src="images/render.png?raw=1" height="300px">
+<img alt="waterless.png" src="images/waterless.png?raw=1" height="300px">
 
 **Authors:** *TKperson*
 
@@ -20,7 +20,7 @@ Takes in boxes of gold blocks and boxes of carrots, and the crafter station outp
 - requires at least a stack of gold blocks and 20 stacks of carrots to start the crafter
 - no overflow protection
 ## Instructions
-1. Build the device using the provided Litematic.
+1. Build the device using the provided Litematic. Look at the image attached below to see what blocks need to be prefilled.
 2. Ensure all lamps and redstone blocks are in the correct state after building.
 3. Input boxes of gold blocks and carrots to start crafting. When starting the device up for the first time, wait for 20 stacks of carrots to fill up some of the hoppers and droppers (this should take under 9 minutes).
 4. Both copper bulbs are off means enough of gold blocks and carrots have been provided, and you can start the device.
@@ -28,17 +28,12 @@ Takes in boxes of gold blocks and boxes of carrots, and the crafter station outp
 6. Access empty gold block boxes from the barrel via the trapdoor at the top.
 ## Notes
 - Inspired by cubicmetere auto crafting shulker box video and "scheduling the comparator technique" design and signal watcher made by geg2055
-- Waterless variant for the nether included
 ## Compatibility
 1.21+
 
 ## Other Images
-<img src="images/waterless.png?raw=1" height="300px">
-
 <img src="images/guide.png?raw=1" height="300px">
 
 ## Resources
 - [ACS008_golden_carrot_crafter_v3_waterless.litematic](attachments/ACS008_golden_carrot_crafter_v3_waterless.litematic): MC 1.21.11, Size 6x11x5 blocks
-  - Waterless version can be built in any dimension and a little louder due to more droppers and pistons.
-- [ACS008_golden_carrot_crafter_v3.litematic](attachments/ACS008_golden_carrot_crafter_v3.litematic): MC 1.21.11, Size 6x11x5 blocks
-  - The water stream can be redirected to other places like an external storage.
+  - Can be built in any dimension
