@@ -38,25 +38,48 @@
   ],
   "images": [
     {
-      "id": "1454984844231839818",
-      "name": "waterless.png",
+      "id": "1502165231760048189",
+      "name": "with_water_back.png",
       "contentType": "image/png",
-      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1454984844231839818/YFNaDgK.png?ex=69b0ae3b&is=69af5cbb&hm=1b10eb34602e5d7466efd9b44187b969c360cd7a624268a6006be1f3731a8ef6&",
-      "timestamp": 1766965819321,
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1502165231760048189/with_water_back.png?ex=69feb7e4&is=69fd6664&hm=7abadbbb91e9ea60350039bd4f5512b260169e63e445d7df9c457f4beb099e1f&",
+      "timestamp": 1778214500186,
       "author": {
-        "type": "discord-external",
-        "id": "1454984790854860982",
-        "username": "acarchiver",
-        "iconURL": "https://cdn.discordapp.com/avatars/1454984790854860982/bd48b7aaacaf1cc3f110c854fdbf62a8.webp"
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
       },
       "source": "MessageAttachment",
-      "description": "Waterless variant for the nether",
-      "size": 69182,
+      "description": "",
+      "size": 103245,
       "canDownload": true,
-      "width": 358,
-      "height": 623,
-      "path": "images/waterless.png",
-      "hash": "55617da7ec080ea258e6ee2c602207db3fbef3ba9dbc4b70b23245a45b01b7fc"
+      "width": 500,
+      "height": 816,
+      "path": "images/with_water_back.png",
+      "hash": "f97c32542f68792ae68103f452b65a9aed1be3d64b27fd774a543d858f549319"
+    },
+    {
+      "id": "1502166016937955349",
+      "name": "waterless_back.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1502166016937955349/waterless_back.png?ex=69feb89f&is=69fd671f&hm=65218a147729b5cccc3d1dd01f0752ecfe5a757f4ddeff507cf2d9913516c153&",
+      "timestamp": 1778214687996,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 105028,
+      "canDownload": true,
+      "width": 500,
+      "height": 816,
+      "path": "images/waterless_back.png",
+      "hash": "ab5e0eaa43b0c96caa6cbc1bcc98c99f11e57bc882395ff9ebb900ea3e3b8b0f"
     },
     {
       "id": "1501676470462971974",
@@ -105,6 +128,30 @@
         "size": "6x11x5",
         "version": "1.21.11"
       }
+    },
+    {
+      "id": "1502164471928459405",
+      "name": "ACS008_golden_carrot_crafter_v3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454984821326614560/1502164471928459405/golden_carrot_crafter_v3.litematic?ex=69feb72e&is=69fd65ae&hm=ed7443b43661795fef42b1d22632385e68ba397269a1d62dd99c606ac51996b9&",
+      "timestamp": 1778214318943,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "349338062485979136",
+        "username": "tkpersona",
+        "displayName": "TKperson",
+        "iconURL": "https://cdn.discordapp.com/avatars/349338062485979136/06315c579013e9ee7dc274774f72273d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "This version can have the water stream attached to an external storage. It also makes a lot less noises compared to waterless.",
+      "size": 2537,
+      "canDownload": true,
+      "hash": "38a94cbe5f343ec89e51814934fa65deb01edf85ff5d3855ba9fec83ad8a2eb5",
+      "path": "attachments/ACS008_golden_carrot_crafter_v3.litematic",
+      "litematic": {
+        "size": "6x12x5",
+        "version": "1.21.11"
+      }
     }
   ],
   "records": {
@@ -128,23 +175,35 @@
       "The device will automatically output boxes of golden carrots.",
       "Access empty gold block boxes from the barrel via the trapdoor at the top."
     ],
-    "notes": "- Inspired by cubicmetere auto crafting shulker box video and \"scheduling the comparator technique\" design and signal watcher made by geg2055",
+    "notes": "- Inspired by cubicmetere auto crafting shulker box video and \"scheduling the comparator technique\" design and signal watcher made by geg2055\n- Waterless version is provided for nether\n- If you have built the version that used water before 5/7/2026 PDT, you should redownload the water version schematics. [This video](https://discord.com/channels/856232076252282890/887422982052524062/1502026159477751939) shows how to fix the older version that used water. Before this fix, there's a small chance that the output shulker can get stuck inside of the water stream.",
     "compatibility": "1.21+"
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/856232076252282890/887422982052524062/1502026159477751939",
+      "server": "856232076252282890",
+      "channel": "887422982052524062",
+      "message": "1502026159477751939",
+      "matches": [
+        "https://discord.com/channels/856232076252282890/887422982052524062/1502026159477751939"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1480743199910924443",
     "forumId": "1302288398987431976",
     "continuingMessageIds": [
-      "1480743211181015212"
+      "1502171637775335514",
+      "1502171638710669454"
     ],
     "threadURL": "https://discord.com/channels/856232076252282890/1480743199910924443",
-    "uploadMessageId": "1501748008423919751",
-    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1501748017449926717/waterless.png?ex=69fd3354&is=69fbe1d4&hm=4ff897edd2a011c089a6aa65fb927a044663aa36061d221f57aded0cd03416ca&"
+    "uploadMessageId": "1502171622189305916",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1480743199910924443/1502171630212747384/with_water_back.png?ex=69febdd9&is=69fd6c59&hm=beed5f55d5a7a811f4c30b95a207563c65f790d99a55bc2012f7774db81f5641&"
   },
   "archivedAt": 1773107088587,
-  "updatedAt": 1778115025506,
+  "updatedAt": 1778216022733,
   "num_comments": 0
 }
