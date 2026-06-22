@@ -9,11 +9,11 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1476714141883433040)
 
-A precision compactor loader device with SSI and SS3 versions, created by geg2055 and XP_Bot, featuring a Precision Compactor by cled0328 and Precision Box Loader by pyraleftt.
+A precision compactor loader device with SSI and SS3 versions, created by geg2055 and XP_Bot, featuring a Precision Compactor by cled0328 and Precision Box Loader by PyraLeft.
 ## Features
 - SSI & SS3 version
 - Precision Compactor (by cled0328)
-- Precision Box Loader (by pyraleftt)
+- Precision Box Loader (by PyraLeft)
 ## Considerations
 - impossible to FHL
 ## Instructions
@@ -25,7 +25,7 @@ It is generally a better idea to use the [4x (ACC006)](../../../Archive/ACC_comp
 
 ## Acknowledgements:
 - cled0328: Made precision compactor
-- pyraleftt: Made precision box loader design
+- PyraLeft: Made precision box loader design
 
 ## Other Images
 <img src="images/ssi.png?raw=1" height="300px">

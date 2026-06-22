@@ -33,12 +33,13 @@
       "iconURL": "https://cdn.discordapp.com/avatars/537147165202710528/1aead5762ad2c160fd02aa3cb5778a30.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "719903397171560559",
       "username": "pyraleftt",
-      "reason": "Made precision box loader design",
+      "displayName": "PyraLeft",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp",
       "dontDisplay": true,
-      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+      "reason": "Made precision box loader design"
     }
   ],
   "endorsers": [
@@ -191,9 +192,10 @@
     {
       "type": "userMention",
       "user": {
-        "type": "discord-external",
+        "type": "discord-in-guild",
         "id": "719903397171560559",
         "username": "pyraleftt",
+        "displayName": "PyraLeft",
         "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
       },
       "matches": [
