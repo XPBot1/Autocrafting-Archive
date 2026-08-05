@@ -1,0 +1,169 @@
+{
+  "id": "1509804385222393928",
+  "name": "AB1wt Toggleless Box-to-Box Uncrafter",
+  "code": "ACD003",
+  "reservedCodes": [
+    "ACD003"
+  ],
+  "pastPostThreadIds": [
+    "1534591774964711637"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1350151607840411722",
+      "username": "knoxelton",
+      "displayName": "Knoxelton",
+      "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072438539223076",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1304784312058777661",
+      "name": "box loading"
+    }
+  ],
+  "images": [
+    {
+      "id": "1509804385629376522",
+      "name": "AB1wt_Toggless_Box-to-Box_Uncrafter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1509804385222393928/1509804385629376522/area_render_13_.png?ex=6a1a8268&is=6a1930e8&hm=01b9caa8c1c06017b84c45011079393f964b209fb92cb00c5eff3d5d45a6e20a&",
+      "timestamp": 1780035816246,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "AB1wt slices",
+      "size": 99081,
+      "canDownload": true,
+      "width": 1000,
+      "height": 946,
+      "path": "images/AB1wt_Toggless_Box-to-Box_Uncrafter.png",
+      "hash": "855166938241b34977e09aadf288520dd0eff3aedbd42bd6c21651c45fb93ca0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1509804386463907902",
+      "name": "ACD003_Uncrafter_Box-to-Box_AB1wt_ARRAY.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509804385222393928/1509804386463907902/Uncrafter_Box-to-Box_AB1wt_ARRAY.litematic?ex=6a1a8268&is=6a1930e8&hm=973bc723d569af2b187391507e3a208545649a0e2b726723f7e229609c08a1c1&",
+      "timestamp": 1780035816246,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "8 Slices tiled and operational",
+      "size": 5576,
+      "canDownload": true,
+      "hash": "3683686bdcaaa5a449643576b8b56de9028e1b8b568d64a6fa61c484f75d970a",
+      "path": "attachments/ACD003_Uncrafter_Box-to-Box_AB1wt_ARRAY.litematic",
+      "litematic": {
+        "size": "13x16x16",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1509804386816102591",
+      "name": "ACD003_Uncrafter_Box-to-Box_AB1wt_END.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509804385222393928/1509804386816102591/Uncrafter_Box-to-Box_AB1wt_END.litematic?ex=6a1a8268&is=6a1930e8&hm=6c20819c088002d88bec20ed65e62f4dbe9d3ce136512a712aa11544ab7603d8&",
+      "timestamp": 1780035816246,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Leading edge slice with external components like pause circuit and box recycle",
+      "size": 2787,
+      "canDownload": true,
+      "hash": "56112befb83ef52cefa6a92a56143c2141dfb1dec88fdf8f791dc5bdf10d1f0c",
+      "path": "attachments/ACD003_Uncrafter_Box-to-Box_AB1wt_END.litematic",
+      "litematic": {
+        "size": "3x15x16",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1509804387076407367",
+      "name": "ACD003_Uncrafter_Box-to-Box_AB1wt_SLICE.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1509804385222393928/1509804387076407367/Uncrafter_Box-to-Box_AB1wt_SLICE.litematic?ex=6a1a8268&is=6a1930e8&hm=ec8a1475b96edfb8c061983bdd70cbc066bbadd044f214c90f185d7c308e2089&",
+      "timestamp": 1780035816246,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Middle and far end slices",
+      "size": 2317,
+      "canDownload": true,
+      "hash": "d6f668169f1b8302c9e0437d63e3adfe995f142d300b6891460824e31461bb1b",
+      "path": "attachments/ACD003_Uncrafter_Box-to-Box_AB1wt_SLICE.litematic",
+      "litematic": {
+        "size": "2x15x16",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A toggle-less box un-compacting/crafting setup that moves redstone blocks into dust from a box to a box at 375 boxes per hour, with global output into shulker boxes and silent operation except during the breaking sequence.",
+    "features": [
+      "Crafts at 8gt, output at 9xhs Directly into a shulker box",
+      "Completely toggle-less",
+      "SS14 detection: once detected a sequence begins that is timed to break the box as soon as the last craft is input to build a full box",
+      "Pause-able with a safety circuit to hold the pause if any slice is in the breaking sequence. Once every slice has broken its box it will pause",
+      "Silent unless breaking sequence is active",
+      "Recycles input boxes to be used for output",
+      "Global output"
+    ],
+    "considerations": [
+      "No first box placement at crafter",
+      "Larger than other options due to toggle free approach"
+    ],
+    "notes": "Un-compacts blocks such as redstone blocks > dust from a box to a box, 375 boxes/h."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1534591774964711637",
+    "forumId": "1302288179273142352",
+    "continuingMessageIds": [
+      "1534591785785884742"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1534591774964711637",
+    "uploadMessageId": "1534591773136126163"
+  },
+  "archivedAt": 1785945589236,
+  "updatedAt": 1785945589236,
+  "num_comments": 0
+}
