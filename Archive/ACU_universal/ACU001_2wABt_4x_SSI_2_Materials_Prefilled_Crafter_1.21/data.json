@@ -1,0 +1,163 @@
+{
+  "id": "1454985010128879688",
+  "name": "2wABt 4x SSI 2 Materials Prefilled Crafter [1.21]",
+  "code": "ACU001",
+  "reservedCodes": [
+    "ACU001"
+  ],
+  "pastPostThreadIds": [
+    "1534611313001627769"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "297556102244073472",
+      "displayName": "BlacKrow",
+      "username": "blackrow",
+      "iconURL": "https://cdn.discordapp.com/avatars/297556102244073472/4986b224b986158f5ff2c5c6a3d23f65.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072440598368363",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1304785307085832243",
+      "name": "Prefilled"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454985010531663963",
+      "name": "2wABt_4x_2M_PC_Af.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454985010128879688/1454985010531663963/2wABt_4x_2M_PC_Af.png?ex=695902a2&is=6957b122&hm=53591c85286871112c0d05a9b4a4e4e9130adfcd47bdada52794dfd320768917&",
+      "description": "",
+      "canDownload": true,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965858000,
+      "path": "images/2wABt_4x_2M_PC_Af.png",
+      "hash": "6924d6622297ab06130996b372a44fc40d7a594339dad7b7c5d954bc2c857468"
+    },
+    {
+      "id": "1454985018911887454",
+      "name": "2wABt_4x_2M_PC_Clocks_v1.1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454985010128879688/1454985018911887454/2wABt_4x_2M_PC_Clocks_v1.1.png?ex=695902a4&is=6957b124&hm=660878f209efd7e9e9537de364b0f3bb0985655d7e7336c058734c1ccc63c1fe&",
+      "description": "",
+      "canDownload": true,
+      "width": 800,
+      "height": 665,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965860000,
+      "path": "images/2wABt_4x_2M_PC_Clocks_v1.1.png",
+      "hash": "75eb748c3d63cdb724fe842aa339f6fcf4ba9a7f2fedf73f362f9613ed4c9e2d"
+    },
+    {
+      "id": "1454985025027051555",
+      "name": "2_Materials_Prefilled_Crafter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454985010128879688/1454985025027051555/2_Materials_Prefilled_Crafter.png?ex=695902a6&is=6957b126&hm=7873b1edd544cc87651eee28c7cb379a4be8cad541ecb1baf28a8df8279ec9f5&",
+      "description": "",
+      "canDownload": true,
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965862000,
+      "path": "images/2_Materials_Prefilled_Crafter.png",
+      "hash": "8da225522cb57f74619eb60854ceb18c800c2e8efb9fec95cd760966595240b1"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454985021461893170",
+      "name": "ACU001_2wABt_4x_2Materials_Prefilled_Crafter___4clocks_v1.1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1454985010128879688/1454985021461893170/2wABt_4x_2Materials_Prefilled_Crafter___4clocks_v1.1.litematic?ex=695902a5&is=6957b125&hm=8989eb71322ea564eee1b09809859acf96665bae6c749a7ac6c68d9d1a025810&",
+      "description": "",
+      "canDownload": true,
+      "path": "attachments/ACU001_2wABt_4x_2Materials_Prefilled_Crafter___4clocks_v1.1.litematic",
+      "litematic": {
+        "size": "4x7x35",
+        "version": "1.21"
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1766965861000,
+      "hash": "ec3885e96fb23baa33803110bd9a0e2efff6379218381773ca5df51b044b1637"
+    }
+  ],
+  "records": {
+    "description": "This is a crafter that can handle up to two-material recipes. It uses a local divider clock for stability with random inputs. Adjust the number of copper bulbs for different clock speeds. Commonly used versions are 12gt and 24gt, but there is also a 4gt variant available. By using 3 copper bulbs, you can achieve a 48gt version. See the thread for the recipe setup guide.",
+    "features": [
+      "Random input safe",
+      "SSI filtered",
+      "Prefilled: eliminates the chance of crafting the wrong item",
+      "Supports both single-material and two-material inputs"
+    ],
+    "considerations": [
+      "Prefilling requires up to 13 stacks of items for each slice",
+      "Available clock speeds may not be optimal for all recipes"
+    ],
+    "setup-guide": "- See bellow for Guide",
+    "setup-guide:input-speed.": "- Single Material: 8gt input 4 item, Ratio: 2gt/each\n- Two Material: 8gt input 2 item, Ratio: 4gt/each",
+    "setup-guide:output-speed.": "If the products is greater than 1, it can be directly multiplied by.\n- 4gt clock: 18k/h\n- 12gt clock: 6k/h\n- 24gt clock: 3k/h\n- 48gt clock: 1.5k/h",
+    "setup-guide:craftable-list.": "Organized common recipes and the needed clock, \nif there is any error please let me know!\n- Single Material: \n  - ~~by 1: You don't need to use this~~\n  - by 2: chiseled stone bricks [4gt clock]\n  - by 3: paper, bread [12gt clock]\n  - by 4: snow block [12gt clock]\n  - by 5: minecart [12gt clock]\n  - by 6: door [12gt clock]\n  - by 7: ladder, composter [24gt clock]\n  - by 8: chest [24gt clock]\n  - by 9: compactor [24gt clock]\n- Two Material: \n  - 1 by 1: torch [4gt clock]\n  - 1 by 2: shulker box, cookie [12gt clock]\n  - 1 by 3: firework, book [12gt clock]\n  - 1 by 4: clock, lead [24gt clock]\n  - 1 by 5: hopper [24gt clock]\n  - 1 by 6: rail, armor stand, scaffolding [24gt clock]\n  - *1 by 7: dropper [48gt clock]*\n  - *1 by 8: note block [48gt clock]*\n  - 2 by 2: coarse dirt, diorite [12gt clock]\n  - 2 by 4: smithing table [24gt clock]\n  - 2 by 6: barrel [24gt clock]\n  - 3 by 2: fishing rod [12gt clock]\n  - 3 by 3: bow  [12gt clock]\n  - 3 by 4: anvil [24gt clock]\n  - 3 by 6: bookshelf [24gt clock]\n  - 4 by 2: fence gate [24gt clock]\n  - 4 by 5: TNT, sea lantern [24gt clock]"
+  },
+  "styles": {
+    "setup-guide": {
+      "depth": 1,
+      "headerText": "Setup Guide"
+    },
+    "setup-guide:input-speed.": {
+      "depth": 2,
+      "headerText": "Input Speed:"
+    },
+    "setup-guide:output-speed.": {
+      "depth": 2,
+      "headerText": "Output Speed:"
+    },
+    "setup-guide:craftable-list.": {
+      "depth": 2,
+      "headerText": "Craftable list:"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1534611313001627769",
+    "forumId": "1302288318368845844",
+    "continuingMessageIds": [
+      "1534611325525688412",
+      "1534611326096117930"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1534611313001627769",
+    "uploadMessageId": "1534611310224871535"
+  },
+  "archivedAt": 1785950245931,
+  "updatedAt": 1785950245931,
+  "num_comments": 0
+}

@@ -4,6 +4,12 @@
   "code": "ACU",
   "category": "Curated Archive",
   "description": "Devices capable of crafting any form of items.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1454985010128879688",
+      "code": "ACU001",
+      "path": "ACU001_2wABt_4x_SSI_2_Materials_Prefilled_Crafter_1.21"
+    }
+  ]
 }
