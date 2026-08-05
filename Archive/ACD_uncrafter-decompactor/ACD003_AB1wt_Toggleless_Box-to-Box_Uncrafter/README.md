@@ -5,7 +5,7 @@
 
 **Endorsed by:** *XP_Bot*
 
-**Tags:** *box loading*
+**Tags:** *Untested, box loading*
 
 **Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1534591774964711637)
 
