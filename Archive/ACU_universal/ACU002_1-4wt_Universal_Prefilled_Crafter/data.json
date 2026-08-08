@@ -1,0 +1,185 @@
+{
+  "id": "1535618146382123059",
+  "name": "1-4wt Universal Prefilled Crafter",
+  "code": "ACU002",
+  "reservedCodes": [
+    "ACU002"
+  ],
+  "pastPostThreadIds": [
+    "1535621455730188308"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "751816361034121217",
+      "username": "geg2048",
+      "displayName": "geg2055",
+      "iconURL": "https://cdn.discordapp.com/avatars/751816361034121217/3c38fd9eda26286a97dc430770103d5b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072440598368363",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1535618146629591090",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535618146382123059/1535618146629591090/image.png?ex=6a786b58&is=6a7719d8&hm=7316911ba1ec2ec351c1802efbbcba1c56427f84887c77160894ecb5dae370a4&",
+      "timestamp": 1786190296503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 128238,
+      "canDownload": true,
+      "width": 957,
+      "height": 761,
+      "path": "images/image.png",
+      "hash": "067bc1abe0ba99f718ee834240d10b0ddaa4beee1d727d148d209c3d9209e419",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535618146382123059/1535620763745263616/1535618146629591090-image.png?ex=6a786dc8&is=6a771c48&hm=aef3006d2776b0fbf33f0bd72f6d60e0e080b249cf80e2a2223939c4406381c1&"
+    },
+    {
+      "id": "1535618273008295956",
+      "name": "Guide_how_to_tile.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535618146382123059/1535618273008295956/image.png?ex=6a786b76&is=6a7719f6&hm=81610c141d57c3772e7608e84cf7313866b20d394f14cc75768e4ad40cd15dd5&",
+      "timestamp": 1786190326770,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "to tile it one needs to make Shure that the piston stopping the crafter is somehow powered by only the comparator responsible for it to do that try to redirect the dust to only the desired piston (use QC to your advantage).",
+      "size": 13187,
+      "canDownload": true,
+      "width": 957,
+      "height": 317,
+      "path": "images/Guide_how_to_tile.png",
+      "hash": "9f09059d7e8c50ed506111fbfd80333ab40601808bdc8feaab9fdc2762991f85",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535618146382123059/1535620764055904298/1535618273008295956-guide_how_to_tile.png?ex=6a786dc8&is=6a771c48&hm=9fff0c5e3f36b5e383c6f1c29f1a8d7ffbb9132e11488b51495ca69441d8c1c7&"
+    },
+    {
+      "id": "1535618411936096316",
+      "name": "Setup_Clock.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535618146382123059/1535618411936096316/image.png?ex=6a786b97&is=6a771a17&hm=043b603b4076d8f2f176bf5092f887c85d740035dd533668942686dc50949edc&",
+      "timestamp": 1786190359906,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The clock needs to be set up so that the item type used the most defines the clock speed. For example:  - Piston: Most used item is Cobblestone, amount is 4. Thus, clock speed needs to be 4 * 8 = 32gt. - Repeater: Most used item is Stone, amount is 3. Thus, clock speed needs to be 3",
+      "size": 6805,
+      "canDownload": true,
+      "width": 920,
+      "height": 581,
+      "path": "images/Setup_Clock.png",
+      "hash": "650c10f84ccbc81943f34f7a07dfc1fe8b0e0fbca94d3750b54b804d02ddfb3d",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535618146382123059/1535620764366147604/1535618411936096316-setup_clock.png?ex=6a786dc8&is=6a771c48&hm=ec13e97058c6b9703293677e74bc1fe78571d895d2f47b2af3376a4719619c43&"
+    },
+    {
+      "id": "1535618411210743849",
+      "name": "Min_setup.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535618146382123059/1535618411210743849/image.png?ex=6a786b97&is=6a771a17&hm=df6cdc4b4ae430d392cb302a064a44b472b6064d34de724117a050662b09e861&",
+      "timestamp": 1786190359906,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6681,
+      "canDownload": true,
+      "width": 920,
+      "height": 592,
+      "path": "images/Min_setup.png",
+      "hash": "6dd359ca1952d1a9126081246ed856ee7ae66b29131011bac8c24d41745e4b67",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535618146382123059/1535620764697366528/1535618411210743849-min_setup.png?ex=6a786dc8&is=6a771c48&hm=f4c05ca093db92539dfe3f98335c5c1f6fb8a69860c8c1cbcb345287a36d7ddf&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1535618147229638666",
+      "name": "ACU002_1-4wt_Universal_Prefilled_Crafter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535618146382123059/1535618147229638666/1-4wt_Universal_Prefilled_Crafter.litematic?ex=6a786b58&is=6a7719d8&hm=b2cd9952c360373380949549b081baa5f5d49d8a2ec97b7242023a11b75f7a65&",
+      "timestamp": 1786190296503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4536,
+      "canDownload": true,
+      "hash": "1581cc80a2c1666fa5cd198f58f4057c74373addf63dbaaa9c0cc98c845989d2",
+      "path": "attachments/ACU002_1-4wt_Universal_Prefilled_Crafter.litematic",
+      "litematic": {
+        "size": "11x9x12",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Universal crafter that can be set up to accept any recipe with up to 4 items and tiled net to each other.",
+    "features": [
+      "Accepts any recipe",
+      "Can accept up to 4 items",
+      "Tiled layout",
+      "Runout protection",
+      "Stops crafting when output chest is full"
+    ],
+    "considerations": [
+      "Uses item frame",
+      "Output cannot be accessed by a hopper",
+      "On crafts that produce more than 1 item, items can be spitted out on last craft"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1535621455730188308",
+    "forumId": "1302288318368845844",
+    "continuingMessageIds": [
+      "1535621466429591683"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1535621455730188308",
+    "uploadMessageId": "1535621453272318003"
+  },
+  "archivedAt": 1786191084226,
+  "updatedAt": 1786191084226,
+  "num_comments": 0
+}
