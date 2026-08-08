@@ -5,7 +5,7 @@
 
 **Endorsed by:** *XP_Bot*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Prefilled, Tested & Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/856232076252282890/1535621455730188308)
 
