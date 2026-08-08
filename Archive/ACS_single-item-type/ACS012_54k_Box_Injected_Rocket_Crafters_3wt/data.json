@@ -1,0 +1,263 @@
+{
+  "id": "1535167116095791175",
+  "name": "54k Box Injected Rocket Crafters 3wt",
+  "code": "ACS012",
+  "reservedCodes": [
+    "ACS012"
+  ],
+  "pastPostThreadIds": [
+    "1535616321813741708"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1350151607840411722",
+      "username": "knoxelton",
+      "displayName": "Knoxelton",
+      "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1535167118629150850",
+      "name": "All_D123.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167118629150850/D123.png?ex=6a76c74b&is=6a7575cb&hm=55cf4c5b44186e9e0234d9ee3a5fd7228eadb9187d1ae60b9ca53e69b48d2b9f&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "D1,D2,D3 Crafters tiled",
+      "size": 106174,
+      "canDownload": true,
+      "width": 876,
+      "height": 664,
+      "path": "images/All_D123.png",
+      "hash": "ffeb7110d8540035c8d205809f890224d4948c7ba56fda9b224773505103624b",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167600198156338/1535167118629150850-d123.png?ex=6a76c7bd&is=6a75763d&hm=cf6c290b72f1c1411c8c0ba220b74a258639e438f5e3527a39a7e56edaa03247&"
+    },
+    {
+      "id": "1535167117337563147",
+      "name": "D1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167117337563147/D1.png?ex=6a76c74a&is=6a7575ca&hm=6419fd810ff56abc528cab54dc9511bd3e2fee788ad5ca4aaf6eed7573289aa1&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "D1 Crafter",
+      "size": 79753,
+      "canDownload": true,
+      "width": 743,
+      "height": 784,
+      "path": "images/D1.png",
+      "hash": "e86830965aca568da18fdd53b88deb8d560d248dc6f07fe6e86b89c07ca17174",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167600999407676/1535167117337563147-d1.png?ex=6a76c7be&is=6a75763e&hm=6d79829b371a9771023bbecdc1012c2f7d46490706ed46c0c98f63e8088befe9&"
+    },
+    {
+      "id": "1535167117807058995",
+      "name": "D2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167117807058995/D2.png?ex=6a76c74a&is=6a7575ca&hm=0c7e32c47488f86dbb12258a0a8485eb3b7836c5a88adecb1ec1c337617c08b1&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "D2 Crafter",
+      "size": 86466,
+      "canDownload": true,
+      "width": 742,
+      "height": 830,
+      "path": "images/D2.png",
+      "hash": "54c86719086bb890e17b4477cfb9c20a52004c3f62e0d64f22d37cf8cdb2868a",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167600743678022/1535167117807058995-d2.png?ex=6a76c7be&is=6a75763e&hm=5ef5d052c0f54eb330d1d9b7a3153d3e205fad69d493d9bd563fab0caa7161ea&"
+    },
+    {
+      "id": "1535167118205780079",
+      "name": "D3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167118205780079/D3.png?ex=6a76c74b&is=6a7575cb&hm=c045e44b8112f4b92e113429cc9f074c1809e276ade30406cf9c62774e3c0a29&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "D3 Crafter",
+      "size": 92651,
+      "canDownload": true,
+      "width": 803,
+      "height": 847,
+      "path": "images/D3.png",
+      "hash": "623fc6dc0ac37b0f42f0ebb7d85e018343be301614926869a64f67d9874569a4",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167600479441036/1535167118205780079-d3.png?ex=6a76c7bd&is=6a75763d&hm=83a1e7537b77ad7f5e58afab6353bb468c3c3d56709549d2f31bc12d4072cff1&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1535167119015288913",
+      "name": "ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167119015288913/54k_Tile-able_Box_Injected_Rocket_Crafter_D1.litematic?ex=6a76c74b&is=6a7575cb&hm=aec73daa9a66de785309aac2b45c1139842bb22bce1641a1e706ddea451b0f2b&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2372,
+      "canDownload": true,
+      "hash": "30060a48b766852e9568bcf9d63b87b757c0a2af6add50261f1abfc8ddd2075f",
+      "path": "attachments/ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D1.litematic",
+      "litematic": {
+        "size": "3x7x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1535167119409418290",
+      "name": "ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167119409418290/54k_Tile-able_Box_Injected_Rocket_Crafter_D2.litematic?ex=6a76c74b&is=6a7575cb&hm=4f26cb3f6a335f3fdcf731649cf198abeef20f83026377b00a6e5272b9fa57a3&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2505,
+      "canDownload": true,
+      "hash": "c5f29258b87d781c368a1cf5fdd5f52cadf4c38c570b9d0d1ed401587d5db04c",
+      "path": "attachments/ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D2.litematic",
+      "litematic": {
+        "size": "3x7x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1535167119799484527",
+      "name": "ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167119799484527/54k_Tile-able_Box_Injected_Rocket_Crafter_D3.litematic?ex=6a76c74b&is=6a7575cb&hm=99e6782be1bae81b08dcee8288e19299b0be09d714957ad392846d2df1cf7241&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2704,
+      "canDownload": true,
+      "hash": "aa8ce82f06d9a9d4b85fc629646b731b8605a8484878963e20691941eac38975",
+      "path": "attachments/ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D3.litematic",
+      "litematic": {
+        "size": "3x7x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1535167120218791946",
+      "name": "ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D123.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535167116095791175/1535167120218791946/54k_Tile-able_Box_Injected_Rocket_Crafter_D123.litematic?ex=6a76c74b&is=6a7575cb&hm=118ca1c27d37cb14f5aa2a5cd51f05c33c4332c573d843c00a376585bd89cd47&",
+      "timestamp": 1786082762503,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1350151607840411722",
+        "username": "knoxelton",
+        "displayName": "Knoxelton",
+        "iconURL": "https://cdn.discordapp.com/avatars/1350151607840411722/1361fa0e3015af56ac0b53b81225c892.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4136,
+      "canDownload": true,
+      "hash": "f9edff10080bb05fcafde7c1c809a37c702167c35502ab734ce5cef911e888a5",
+      "path": "attachments/ACS012_54k_Tile-able_Box_Injected_Rocket_Crafter_D123.litematic",
+      "litematic": {
+        "size": "9x7x12",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Rocket crafters that craft at 2x Hs directly into a shulker box. SS14 detection initiates a countdown to break the box as soon as it fills completely, outputting full boxes. Rate: 30box/h.",
+    "features": [
+      "Clocked at 4gt, crafts 54k rockets/h",
+      "Crafts directly into shulker box",
+      "Low Inv. shut-off",
+      "Box Accessible",
+      "Toggless",
+      "Tile-able"
+    ],
+    "considerations": [
+      "Does not craft paper from cane, requires paper at input"
+    ],
+    "instructions": [
+      "All crafter inventories have to be prefilled with 1 stack of items for each slot",
+      "Place first empty box at output, pre-fill dispenser and dropper in box loader with 1 empty shulker each"
+    ],
+    "notes": "The crafters can be tiled indefinitely but should be grouped and sequentially tiled, (eg. D111,D222,D333)",
+    "compatibility": "Tested in 1.21.11"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1535616321813741708",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1535616333218189384",
+      "1535616334165966910"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1535616321813741708",
+    "uploadMessageId": "1535616319527981167"
+  },
+  "archivedAt": 1786189860102,
+  "updatedAt": 1786189860102,
+  "num_comments": 0
+}

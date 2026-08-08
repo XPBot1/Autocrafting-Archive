@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 11,
+  "currentCodeId": 12,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -55,6 +55,11 @@
       "id": "1535612967385571328",
       "code": "ACS011",
       "path": "ACS011_Shulker_Box_Dyer"
+    },
+    {
+      "id": "1535167116095791175",
+      "code": "ACS012",
+      "path": "ACS012_54k_Box_Injected_Rocket_Crafters_3wt"
     }
   ]
 }
