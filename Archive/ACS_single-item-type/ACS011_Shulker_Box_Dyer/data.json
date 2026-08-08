@@ -1,0 +1,111 @@
+{
+  "id": "1535612967385571328",
+  "name": "Shulker Box Dyer",
+  "code": "ACS011",
+  "reservedCodes": [
+    "ACS011"
+  ],
+  "pastPostThreadIds": [
+    "1535613811975782460"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "displayName": "CommandLeo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "144825283357310976",
+      "username": "xp_bot",
+      "displayName": "XP_Bot",
+      "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1452072442242797626",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1535612967750606879",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1535612967385571328/1535612967750606879/image.png?ex=6a786685&is=6a771505&hm=10cdc5da1d5ab10de589b6c3053f283a02108263062b8331cae9d5113c931945&",
+      "timestamp": 1786189061734,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 72107,
+      "canDownload": true,
+      "width": 763,
+      "height": 856,
+      "path": "images/image.png",
+      "hash": "ec778fc0b0811fb0dd9640f8c3f56f047a5ecd5f7ade2a2a8bf9a021d7e268e9",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1535612967385571328/1535613177805676574/1535612967750606879-image.png?ex=6a7866b7&is=6a771537&hm=25f305b9fd0290a3a78b23fc7a55972f015ce64b8fd3598d1e910f00efde8725&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1535612968270692533",
+      "name": "ACS011_CommandLeo_Shulkerbox_Dyer.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1535612967385571328/1535612968270692533/CommandLeo_Shulkerbox_Dyer.litematic?ex=6a786685&is=6a771505&hm=5ac495ff3d94a01dcd7651ff740280ca779195a8750001b433d0a936e26302c6&",
+      "timestamp": 1786189061734,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "144825283357310976",
+        "username": "xp_bot",
+        "displayName": "XP_Bot",
+        "iconURL": "https://cdn.discordapp.com/avatars/144825283357310976/94cfa8a6c7a3baf502dea5b9cb4edf05.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1348,
+      "canDownload": true,
+      "hash": "54cf7dd35c88c91c9503e20ea7ca7c9684437f4f00760e97479fc310c225736d",
+      "path": "attachments/ACS011_CommandLeo_Shulkerbox_Dyer.litematic",
+      "litematic": {
+        "size": "3x4x4",
+        "version": "26.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "A contraption that accepts as input shulker boxes of any color and turns them into shulker boxes of a specific color at hopper speed. Unlike other designs, this one works even when you input shulker boxes of the same color as the desired output.",
+    "features": [
+      "Accepts input shulker boxes of any color",
+      "Turns them into shulker boxes of a specific color at hopper speed",
+      "Works even when you input shulker boxes of the same color as the desired output"
+    ],
+    "notes": "The crafter has all slots locked except for two. The first slot is empty, while the second one contains the dye item.\nHere is the sequence of actions that occur when running the contraption:\n - The input shulker box is put in the first slot of the crafter.\n - The top dropper inserts a dye item into the crafter if there's space available in the second slot, otherwise it doesn't do anything.\n - The crafter triggers: if the crafting attempt is successful, the output goes into the dropper on the right and immediately gets sent back into the first slot of the crafter (the rails ensure the correct update order). Otherwise no dye is consumed and the input shulker box stays in the first slot of the crafter.\n - The hopper under the crafter is briefly unlocked so it can pull out the shulker box.",
+    "compatibility": "[1.21+]"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1535613811975782460",
+    "forumId": "1302288398987431976",
+    "continuingMessageIds": [
+      "1535613821211775078"
+    ],
+    "threadURL": "https://discord.com/channels/856232076252282890/1535613811975782460",
+    "uploadMessageId": "1535613810075766925"
+  },
+  "archivedAt": 1786189261846,
+  "updatedAt": 1786189261846,
+  "num_comments": 0
+}

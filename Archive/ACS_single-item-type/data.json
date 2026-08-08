@@ -4,7 +4,7 @@
   "code": "ACS",
   "category": "Curated Archive",
   "description": "Devices that use one or more input items, to craft a single output item.",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1452701529420206265",
@@ -55,6 +55,11 @@
       "id": "1534583182626914325",
       "code": "ACS010",
       "path": "ACS010_Shulker_Box_Dyer"
+    },
+    {
+      "id": "1535612967385571328",
+      "code": "ACS011",
+      "path": "ACS011_Shulker_Box_Dyer"
     }
   ]
 }
