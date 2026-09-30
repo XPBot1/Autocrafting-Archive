@@ -1,7 +1,7 @@
 # 3wt filtered 6x precision compactor
 <img alt="image1.png" src="images/image1.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

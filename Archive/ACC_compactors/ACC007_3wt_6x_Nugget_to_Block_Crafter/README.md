@@ -1,7 +1,7 @@
 # 3wt 6x Nugget to Block Crafter
 <img alt="3wt_6x_nugget_to_block_compactor_SS9.png" src="images/3wt_6x_nugget_to_block_compactor_SS9.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *Andrews54757*
 

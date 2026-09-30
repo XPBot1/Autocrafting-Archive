@@ -1,7 +1,7 @@
 # Sea Lantern 5:4 Crafter Loader
 <img alt="minimal_prefill.png" src="images/minimal_prefill.png?raw=1" height="300px">
 
-**Authors:** *金合欢酱喵~ (acaciachan), tuzier*
+**Authors:** *金合欢喵~ (AcaciaMeow), tuzier*
 
 **Endorsed by:** *Andrews54757*
 

@@ -1,7 +1,7 @@
 # 1wt 2x Filtered Spam Clock Compactor
 <img alt="1wt_2x_Spam_Clocked_Compactor_SS3.png" src="images/1wt_2x_Spam_Clocked_Compactor_SS3.png?raw=1">
 
-**Authors:** *金合欢酱喵~ (acaciachan)*
+**Authors:** *金合欢喵~ (AcaciaMeow)*
 
 **Endorsed by:** *XP_Bot*
 
